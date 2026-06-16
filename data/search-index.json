@@ -1,0 +1,51 @@
+[
+  {
+    "type": "skill",
+    "name": "攻擊",
+    "summary": "增加角色的攻擊力。",
+    "group": "Weapon",
+    "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills"
+  },
+  {
+    "type": "skill",
+    "name": "看破",
+    "summary": "增加會心率。",
+    "group": "Weapon",
+    "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills"
+  },
+  {
+    "type": "skill",
+    "name": "弱點特效",
+    "summary": "攻擊魔物有效部位時增加會心率。",
+    "group": "Equip",
+    "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills"
+  },
+  {
+    "type": "skill",
+    "name": "體術",
+    "summary": "減少迴避等固定耐力消耗行動的消耗量。",
+    "group": "Equip",
+    "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills"
+  },
+  {
+    "type": "decoration",
+    "name": "攻擊珠",
+    "summary": "用來發動或提升攻擊技能的裝飾品。",
+    "group": "裝飾品",
+    "url": "https://mhwilds.kiranico.com/zh-Hant/data/decorations"
+  },
+  {
+    "type": "decoration",
+    "name": "痛擊珠",
+    "summary": "用來發動或提升弱點特效技能的裝飾品。",
+    "group": "裝飾品",
+    "url": "https://mhwilds.kiranico.com/zh-Hant/data/decorations"
+  },
+  {
+    "type": "armor",
+    "name": "希望系列",
+    "summary": "防具系列資料。完整技能、洞數與部位資料可由 Kiranico 匯入後擴充。",
+    "group": "裝備",
+    "url": "https://mhwilds.kiranico.com/zh-Hant/data/armor-series"
+  }
+]

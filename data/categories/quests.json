@@ -1,0 +1,1479 @@
+{
+  "key": "quests",
+  "label": "任務",
+  "count": 184,
+  "items": [
+    {
+      "name": "阿伊達的憂慮",
+      "summary": "聽阿伊達說 骨氏族的年輕人碰上了沼噴龍 還有人受傷了 最近同類事件不斷發生 不單影響到阿茲茲的村民 還有整個生態系 有空的話就去調查一下 確保當地安全吧 上位 狩猟 於狩獵進階 在中狩猎上位 報告 向報告 向报告 報酬 油泥蝦王 營火料理的追加食材 蘊含極多營養的大蝦 口感充滿彈力 實屬一絕 優質硬骨 x5 可在骨塚採集到的進階骨素材 加工難度低 硬度亦高 可以製作更優質的裝備 來交易吧 蓬鬆毛皮 交易毛皮吧 異端之物 聽阿伊達說 骨氏族的年輕人碰上了沼噴龍 還有人受傷了 最近同類事件不斷發生 不單影響到阿茲茲的村民 還有整個生態系 有空的話就去調查一下 確保當地安全吧",
+      "path": "/zh-Hant/data/missions/a-yi-da-de-you-lu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/a-yi-da-de-you-lu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "艾力克的秘密願望",
+      "summary": "艾力克說緋紅森林出現了讓人在意的狀況 獵人決定前往緋紅森林大本營 向他了解詳情 強 頂 先 超越強者之巔 超越巅峰 蒼海共震 蒼海共震 苍海共震 艾力克說緋紅森林出現了讓人在意的狀況 獵人決定前往緋紅森林大本營 向他了解詳情 話 前往與艾力克交談 前往与艾瑞克对话 報酬 地洞 x10 只要超過負荷重量就會觸發 使魔物掉落的陷阱 亦可用於捕獲 捕獲用麻醉球 x50 專用於捕獲踩中陷阱的魔物的投擲式麻醉球 以擲向地面等方式使用 投射器誘導彈 x5 投射器彈藥 可吸引射中的魔物朝自己靠近 超越強者之巔 超越巅峰 蒼海共震 蒼海共震 苍海共震 艾力克說緋紅森林出現了讓人在意的狀況 獵人決定前往緋紅森林大本營 向他了解詳情",
+      "path": "/zh-Hant/data/missions/ai-li-ke-de-mi-mi-yuan-wang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ai-li-ke-de-mi-mi-yuan-wang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "礙事的傢伙",
+      "summary": "薩巴爾提到湧油山谷附近出現了多頭魔物 導致採石變得困難 當中有兩頭特別危險 從情報判斷看來是鎧龍與赫猿獸 考慮到牠們有可能不是一般個體 慎重應對吧 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 油泥蝦王 x3 營火料理的追加食材 蘊含極多營養的大蝦 口感充滿彈力 實屬一絕 鬼爆炸菇 x10 蘊藏著炎熱高溫 非常稀有的蘑菇 與大爆彈桶調合可大幅提高其威力 毛色會變差 毛皮会变差 迴盪斷崖的巨響 断崖回响",
+      "path": "/zh-Hant/data/missions/ai-shi-de-jia-huo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ai-shi-de-jia-huo",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "奔火之禮",
+      "summary": "阿茲茲的騷動終於告一段落 同時 眾人也推斷大地脊骨是人造物品 與東部地區獨特的氣象循環應該有著密切關係 獵人回到最初的大本營 確認今後的方針 話 前往與交談 前往与对话 報酬 上古火焰 上古火炎 守護至終之人 永恒的守护者 阿茲茲的騷動終於告一段落 眾人也推斷大地脊骨是人造物品 與東部地區獨特的氣象循環應該有著密切關係 獵人回到最初的大本營 確認今後的方針",
+      "path": "/zh-Hant/data/missions/ben-huo-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ben-huo-zhi-li",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "奔流",
+      "summary": "成功討伐了活性化的凍峰龍後 大地脊骨恢復了原有的功能 但龍燈噴出過剩能量的狀況仍未解決 飛鳥隊一邊留意著狀況 一邊重新踏上旅程調查各地 話 前往與交談 前往与对话 報酬 璀璨水晶 亮水晶的進階素材 具有高度稀有價值 連工房都只會使用在重要用途上 古老龍骨 可在骨塚採集到的貴重進階素材 是遠古時代在此地逝去的龍留下的貴重龍骨 回復藥 大 x30 回復中量體力的藥 異常的源頭 异常之源",
+      "path": "/zh-Hant/data/missions/ben-liu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ben-liu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "變化的先兆",
+      "summary": "飛鳥隊再次收到了留在龍都遺跡調查的奧莉維亞的通知 她提到事態緊急 獵人馬上朝大本營出發 兆候 徵兆 预兆 凍峰颶風 凍峰颶風 冻峰飓风 飛鳥隊再次收到了留在龍都遺跡調查的奧莉維亞的通知 她提到事態緊急 獵人馬上朝大本營出發 話 前往與交談 前往与对话 完成更多使命和任務 完成更多使命和任务 前往與交談 前往与对话 報酬 堅鎧玉 x5 高密度的堅硬鎧玉 可大幅強化防具 生命大粉塵 x10 撒向四周後就能大幅回復體力的粉塵 凍峰颶風 凍峰颶風 冻峰飓风 飛鳥隊再次收到了留在龍都遺跡調查的奧莉維亞的通知 她提到事態緊急 獵人馬上朝大本營出發",
+      "path": "/zh-Hant/data/missions/bian-hua-de-xian-zhao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/bian-hua-de-xian-zhao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "兵戎相見",
+      "summary": "獵人一行人推測白之孤影可能會在沙塵暴中心出現 連忙前往風拂山 在那裡等待眾人的究竟是 予期 砂嵐 突如其來的沙塵暴 突如其来的沙尘暴 孤独 向 場所 孤獨所向 孤独所向 獵人一行人推測白之孤影可能會在沙塵暴中心出現 連忙前往風拂山 在那裡等待眾人的究竟是 風吹 山 前往風拂山 前往风来山 討伐 讨伐 報酬 庫納法起司 x3 營火料理的追加食材 是庫納法村民精心製作的起司 加熱後的延展性非常驚人 生肉 x10 從魔物身上剝取的肉 可用於調合 烹調或陷阱 用途非常廣泛 忍耐種子 吃下後防禦力會暫時上升的種子 突如其來的沙塵暴 突如其来的沙尘暴 孤獨所向 孤独所向 獵人一行人推測白之孤影可能會在沙塵暴中心出現 連忙前往風拂山 在那裡等待眾人的究竟是",
+      "path": "/zh-Hant/data/missions/bing-rong-xiang-jian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/bing-rong-xiang-jian",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "不屈不撓",
+      "summary": "獵人擊退了白之孤影 護鎖刃龍 按理不會進食的護龍竟然在獵食 令塔辛大吃一驚 他說 長耳智者 或許知道當中緣由 飛鳥隊因此決定前往拜訪 話 前往與交談 前往与对话 報酬 守護至終之人 永恒的守护者 不入凍峰焉得成果 偏向冻峰行 獵人擊退了白之孤影 護鎖刃龍 按理不會進食的護龍竟然在獵食 令塔辛大吃一驚 長耳智者 或許知道當中緣由 飛鳥隊因此決定前往拜訪",
+      "path": "/zh-Hant/data/missions/bu-qu-bu-nao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/bu-qu-bu-nao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "不入凍峰焉得成果",
+      "summary": "想拜訪長耳智者 就必須穿越巨大魔物棲息的危險地帶 獵人一行下定決心 踏上了看不清終點的道路 話 聞 向了解情況 向了解情况 道 進 往蘇加前進 前往酥加 撃退 擊退 击退 報酬 上鎧玉 x5 高密度的優質鎧玉 可小幅強化防具 秘藥 x3 提升體力上限到最大 並完全回復體力的藥 體力上限會在一段時間後恢復原狀 回復藥 大 x10 回復中量體力的藥 不撓不屈 不屈不撓 不屈不挠 黃昏之橋 黄昏之桥",
+      "path": "/zh-Hant/data/missions/bu-ru-dong-feng-yan-de-cheng-guo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/bu-ru-dong-feng-yan-de-cheng-guo",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "蒼海共震",
+      "summary": "據沙之民 火之民和莫利巴所說 最近火龍相當暴躁 非常危險 艾力克強調所有行動必然有其理由 重要的是要去了解理由 因此獵人與艾力克共同展開調查 究竟讓天空王者躁動的理由是什麼呢 跟隨艾力克 調查火龍的痕跡 追尋火龍的痕跡 調查附近的痕跡 調查觸電的盾突龍 捕獲 報酬 地洞 x10 只要超過負荷重量就會觸發 使魔物掉落的陷阱 亦可用於捕獲 捕獲用麻醉球 x50 專用於捕獲踩中陷阱的魔物的投擲式麻醉球 以擲向地面等方式使用 投射器誘導彈 x5 投射器彈藥 可吸引射中的魔物朝自己靠近 艾力克的秘密願望 庫納法村讓人在意的傳聞 據沙之民 火之民和莫利巴所說 最近火龍相當暴躁 非常危險 艾力克強調所有行動必然有其理由 重要的是要去了解理由 因此獵人與艾力克共同展開調查 究竟讓天空王者躁動的理由是什麼呢 秘 願 艾力克的秘密願望 艾瑞克的秘密心愿 村 気",
+      "path": "/zh-Hant/data/missions/cang-hai-gong-zhen",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/cang-hai-gong-zhen",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "超越強者之巔",
+      "summary": "玉藻茸茸林 百釣而不膩 艾力克的秘密願望 群蜂隊的編輯者奎茵提到 湧油山谷裡歷戰魔物的目擊驟減 十分不自然 獵人接手代其執行調查任務 根據奎茵的報告 從湧油山谷的中層與上層開始調查 調查湧油山谷的上層 調查湧油山谷的中層 前往阿茲茲與瑪奇交談 前往湧油山谷最下層尋找打倒歷戰個體的人 完成鬥技大會任務 前往湧油山谷與豪鬼交談 報酬 強走藥 x3 飲用此藥後 會於一定時間內減少行動所需的耐力消耗量 更會增加耐力上限 鬼人藥 大 於一段時間內提升攻擊力的藥 據說是效果更勝鬼人藥的夢幻藥品 鬼人粉塵 x10 撒向四周就能暫時提高周圍對象攻擊力的粉塵 玉藻茸茸林 百釣而不膩 艾力克的秘密願望 群蜂隊的編輯者奎茵提到 湧油山谷裡歷戰魔物的目擊驟減 十分不自然 獵人接手代其執行調查任務 根據奎茵的報告 從湧油山谷的中層與上層開始調查 玉藻 森 釣 飽 玉藻茸茸林 百釣而不膩 玉藻茸茸绯红森",
+      "path": "/zh-Hant/data/missions/chao-yue-qiang-zhe-zhi-dian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/chao-yue-qiang-zhe-zhi-dian",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "沉睡之龍與薔薇棘刺",
+      "summary": "有人在龍都遺跡目擊到異常的刺花蜘蛛 牠看似是因為一些特別原因才會遠離本來的棲息地 所以不能忽視牠對附近地區以護龍為中心的生態系的影響 獵人收到奧莉維亞的合作要求 一同前往調查 話 前往與交談 前往与对话 痕跡 追 追蹤的痕跡 追踪的痕迹 調 調查痕跡 调查痕迹 狩猟 狩獵 狩猎 報酬 受損的武器碎片 x3 傷痕累累的古老武器的零件 要鑑定後才能知道其詳情 滋養萃取液 x5 可使特定藥品的效果倍增的特殊萃取液 可從部分大型魔物身上取得 回復藥 大 x20 回復中量體力的藥 前往龍廟 前往龙庙",
+      "path": "/zh-Hant/data/missions/chen-shui-zhi-long-yu-qiang-wei-ji-ci",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/chen-shui-zhi-long-yu-qiang-wei-ji-ci",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "赤誠所向",
+      "summary": "扎托說到湧油之地有個傳承著古老工藝的村落 村裡的三個氏族究竟過著什麼樣的生活呢 飛鳥隊與星辰隊一同前往該村落 期待能打聽到守護者的情報 向 前往 話 與交談 与对话 探 行 尋找 寻找 狩猟 狩獵 狩猎 報酬 油泥蝦 營火料理的追加食材 這種蝦棲息在湧油山谷水域 是阿茲茲村民的營養來源之一 輝龍石 x5 可從礦脈採掘到的礦石 相當稀有 是製作堅硬裝備時不可或缺的材料 鎧玉 蒸鍍在裝備上提高強度的素材 可些微強化防具 陰影浮現 皓影浮现 突如其來的沙塵暴 突如其来的沙尘暴 扎托說到湧油之地有個傳承著古老工藝的村落 村裡的三個氏族究竟過著什麼樣的生活呢 飛鳥隊與星辰隊一同前往該村落 期待能打聽到守護者的情報",
+      "path": "/zh-Hant/data/missions/chi-cheng-suo-xiang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/chi-cheng-suo-xiang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "達里爾的稀有物種研究報告",
+      "summary": "你 妳 続 研究 薩民的研究報告2 萨明的研究报告 续 希少研究 薩民的稀有物種研究報告 萨明的稀有物种研究报告 你 妳 捕獲 捕获 報告 向報告 向报告 報酬 落陽草之花 x10 具治癒傷口功效的植物 與不死蟲的精華調合 就能發揮其效果 蜂蜜 x5 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 薩民的研究報告2 萨明的研究报告 希少研究 薩民的稀有物種研究報告 萨明的稀有物种研究报告",
+      "path": "/zh-Hant/data/missions/da-li-er-de-xi-you-wu-zhong-yan-jiu-bao-gao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/da-li-er-de-xi-you-wu-zhong-yan-jiu-bao-gao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "達里爾的研究報告",
+      "summary": "你 妳 神秘 輝 求 尋求神秘的光輝 探寻神秘的光辉 研究 薩民的研究報告 萨明的研究报告 你 妳 捕獲 捕获 報告 向報告 向报告 報酬 蜂蜜 x10 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 尋求神秘的光輝 探寻神秘的光辉 薩民的研究報告 萨明的研究报告",
+      "path": "/zh-Hant/data/missions/da-li-er-de-yan-jiu-bao-gao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/da-li-er-de-yan-jiu-bao-gao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "達里爾的研究報告2",
+      "summary": "你 妳 研究 薩民的研究報告 萨明的研究报告 続 薩民的研究報告2 萨明的研究报告 续 你 妳 捕獲 捕获 報告 向報告 向报告 報酬 怪力種子 x10 吃下後攻擊力會暫時上升的種子 蜂蜜 x5 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 薩民的研究報告 萨明的研究报告 薩民的研究報告2 萨明的研究报告",
+      "path": "/zh-Hant/data/missions/da-li-er-de-yan-jiu-bao-gao-2",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/da-li-er-de-yan-jiu-bao-gao-2",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "當心毒怪鳥",
+      "summary": "從庫納法村附近有魔物肆虐的情報 可以推斷元凶是毒怪鳥 再加上扎托的情報 就可以推斷天塹沙原的毒怪鳥只會在荒廢期活動 時機來臨的時候就去調查吧 狩猟 於狩獵 在中狩猎 報告 向報告 向报告 報酬 濃郁庫納法起司 營火料理的追加食材 是熟練技工製成的極品 有著濃郁的風味與滑嫩的口感 靈鶴石 x3 可從礦脈採掘到的進階礦石 是尚在研究中的素材 已知可以精煉出品質相當好的金屬 優質素材 优质素材 加工屋印 工匠特製品 杰玛的特制品 從庫納法村附近有魔物肆虐的情報 可以推斷元凶是毒怪鳥 再加上扎托的情報 就可以推斷天塹沙原的毒怪鳥只會在荒廢期活動 時機來臨的時候就去調查吧",
+      "path": "/zh-Hant/data/missions/dang-xin-du-guai-niao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/dang-xin-du-guai-niao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "道",
+      "summary": "長耳智者告訴拿塔 用自己的眼睛見證鎖刃龍想要變成什麼 想要了解鎖刃龍 就得理解護龍 飛鳥隊因此決定一邊追尋鎖刃龍 一邊調查護龍的生態 話 與交談 与对话 報酬 黃昏之橋 黄昏之桥 生命的循環 生命的循环 長耳智者告訴拿塔 用自己的眼睛見證鎖刃龍想要變成什麼 想要了解鎖刃龍 就得理解護龍 飛鳥隊因此決定一邊追尋鎖刃龍 一邊調查護龍的生態",
+      "path": "/zh-Hant/data/missions/dao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/dao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "低語森林",
+      "summary": "赤紅隊的編輯者卡妮亞說有事想和獵人商量 獵人決定動身 與位在緋紅森林大本營的卡妮亞見面 生存競争 果 物競天擇的終焉 物竞天择的终焉 希 招喚 稀客的呼喚 罕见的召唤 赤紅隊的編輯者卡妮亞說有事想和獵人商量 獵人決定動身 與位在緋紅森林大本營的卡妮亞見面 話 前往與交談 前往与对话 報酬 大刺身魚鱗片 x5 刺身魚的大片鱗片 吃下可回復大量體力 並提升自然回復力 也能回復裂傷狀態 堅硬竹筴魚的上鰭 x3 可用於研磨武器的背鰭 效果比砥石高 運氣好的話可重複使用多次 寶石烏魚子 x10 營火料理的調味食材 魚卵散發晶瑩光澤 宛如寶石 生存競争 物競天擇的終焉 物竞天择的终焉 稀客的呼喚 罕见的召唤",
+      "path": "/zh-Hant/data/missions/di-yu-sen-lin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/di-yu-sen-lin",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "釣魚即為人生",
+      "summary": "機靈掠奪支援 机灵的掠夺支援 狙 黄金魚 目標是黃金魚 目标是黄金鱼 你 妳 釣 1回成功 成功釣魚1次 完成1次垂钓 報告 向報告 向报告 報酬 刺身魚鱗片 x5 刺身魚的鱗片 吃下可回復少量體力 也能回復裂傷狀態 蜂蜜 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 機靈掠奪支援 机灵的掠夺支援 目標是黃金魚 目标是黄金鱼",
+      "path": "/zh-Hant/data/missions/diao-yu-ji-wei-ren-sheng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/diao-yu-ji-wei-ren-sheng",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "凍峰颶風",
+      "summary": "獵人收到拿塔獲得的情報後前往凍結的鍊龍脈 推測凍結的原因在於冰霧斷崖風雪不斷 還有在當地棲息的凍峰龍 一行人為融化鍊龍脈上的冰 恢復能量流動 決定前往冰霧之中 話 與交談 与对话 討伐 讨伐 報酬 堅鎧玉 x5 高密度的堅硬鎧玉 可大幅強化防具 生命大粉塵 x10 撒向四周後就能大幅回復體力的粉塵 變化的先兆 变化的前兆 異常的源頭 异常之源 獵人收到拿塔獲得的情報後前往凍結的鍊龍脈 推測凍結的原因在於冰霧斷崖風雪不斷 還有在當地棲息的凍峰龍 一行人為融化鍊龍脈上的冰 恢復能量流動 決定前往冰霧之中",
+      "path": "/zh-Hant/data/missions/dong-feng-ju-feng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/dong-feng-ju-feng",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "鬥爭的盡頭",
+      "summary": "聽穆塔巴說 庫納法村附近有兩頭魔物一直在打鬥 過了好幾天還沒有停下來 這樣下去隨時會牽連到村民 所以需要到現場調查 必要時要採取相應對策 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 濃郁庫納法起司 x3 營火料理的追加食材 是熟練技工製成的極品 有著濃郁的風味與滑嫩的口感 雷光蟲蓄電素 x20 蓄電物質 來自受衝擊後會放電的昆蟲 是調合麻痺陷阱及電擊彈的所需素材 守衛的職責 守卫的职责 毛色會變差 毛皮会变差",
+      "path": "/zh-Hant/data/missions/dou-zheng-de-jin-tou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/dou-zheng-de-jin-tou",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "返回大本營",
+      "summary": "獵人拯救了少女諾諾後 得知她的哥哥為了引開纏蛙而跟她走散 獵人討伐了纏蛙 救出少女的哥哥伊賽 並帶他回到調查據點大本營 仲間 話 與公會的夥伴交談 与公会同伴对话 調査隊本部 入 進入調查隊總部的帳篷 进入调查队总部帐篷 進入 进入 報酬 疾馳沙原 驰骋沙原者 獵人拯救了少女諾諾後 得知她的哥哥為了引開纏蛙而跟她走散 獵人討伐了纏蛙 救出少女的哥哥伊賽 並帶他回到調查據點大本營",
+      "path": "/zh-Hant/data/missions/fan-hui-da-ben-ying",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/fan-hui-da-ben-ying",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "風聲縈繞之村",
+      "summary": "拿塔走過的地下道已經崩塌 如果想要前往守護者村莊 就只能從地面走去 調查隊在大本營整裝時 獵人和阿爾瑪騎著鷺鷹龍 護送伊賽與諾諾回到他們的村落 然而 收集 跟隨 討伐 返回大本營 與補給物資負責人交談 與交談 做好準備後與交談 前往發出救難信號的地點 狩獵 與生物調查員交談 與食物補給負責人交談 與守火人交談 報酬 庫納法起司 營火料理的追加食材 是庫納法村民精心製作的起司 加熱後的延展性非常驚人 苦蟲汁 x5 蘊含可促進自然治癒力的苦蟲精華 可用於調合各種藥物 大地結晶 x3 微生物的遺骸和腐壞物結晶後產生的石頭 可從礦脈採掘到 可用作裝備的研磨材料 在工房頗受重視 前往森林 始 森 前往森林 前往森林 拿塔走過的地下道已經崩塌 如果想要前往守護者村莊 就只能從地面走去 調查隊在大本營整裝時 獵人和阿爾瑪騎著鷺鷹龍",
+      "path": "/zh-Hant/data/missions/feng-sheng-ying-rao-zhi-cun",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/feng-sheng-ying-rao-zhi-cun",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "工匠特製品",
+      "summary": "你 妳 毒怪鳥 用心 當心毒怪鳥 小心毒怪鸟 取引 來交易吧 蓬鬆毛皮 交易毛皮吧 你 妳 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 地洞 x10 只要超過負荷重量就會觸發 使魔物掉落的陷阱 亦可用於捕獲 麻痺陷阱 能夠阻止魔物行動的陷阱 亦可用於捕獲 當心毒怪鳥 小心毒怪鸟 來交易吧 蓬鬆毛皮 交易毛皮吧",
+      "path": "/zh-Hant/data/missions/gong-jiang-te-zhi-pin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/gong-jiang-te-zhi-pin",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "孤獨所向",
+      "summary": "獵人一行人眼見白之孤影於風拂山現身 並從另一頭魔物吸收某種能量 為了追尋飛往遙遠處的白之孤影 飛鳥隊決定先回阿茲茲準備 話 前往與維爾納交談 前往与沃纳对话 報酬 兵戎相見 对峙的武器 流浪之民 远离故乡的人 獵人一行人眼見白之孤影於風拂山現身 並從另一頭魔物吸收某種能量 為了追尋飛往遙遠處的白之孤影 飛鳥隊決定先回阿茲茲準備",
+      "path": "/zh-Hant/data/missions/gu-du-suo-xiang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/gu-du-suo-xiang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "古史沉眠之地",
+      "summary": "星辰隊在阿茲茲的地底深處發現了一個空洞 為了調查連火之民也遺忘的古代空洞 飛鳥隊與星辰隊一起前往地底 星惑 侵攻者 來自行星的侵略者 来自行星的侵略者 目覚 喚醒之物 唤醒之物 星辰隊在阿茲茲的地底深處發現了一個空洞 為了調查連火之民也遺忘的古代空洞 飛鳥隊與星辰隊一起前往地底 油涌 谷 話 前往湧油山谷與交談 前往涌油谷与对话 與潔瑪等人交談 与杰玛等人对话 報酬 重鎧玉 高密度的厚重鎧玉 可極大幅強化防具 生命大粉塵 x5 撒向四周後就能大幅回復體力的粉塵 來自行星的侵略者 来自行星的侵略者 喚醒之物 唤醒之物",
+      "path": "/zh-Hant/data/missions/gu-shi-chen-mian-zhi-di",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/gu-shi-chen-mian-zhi-di",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "喚醒之物",
+      "summary": "沉眠在遠古空洞的魔物是分類為古龍種的巨戟龍 為了完成討伐任務 維爾納提議修復並使用沉眠在巨戟龍背上的古代武器 古史 眠 地 古史沉眠之地 古史沉眠之地 亡霊 明日 戦禍 顧 亡靈不問明日戰火 亡魂不眷未来之灾 沉眠在遠古空洞的魔物是分類為古龍種的巨戟龍 為了完成討伐任務 維爾納提議修復並使用沉眠在巨戟龍背上的古代武器 昇降機前 話 前往升降機前與維爾納交談 前往升降机前与沃纳对话 報酬 阿茲茲快遞餐券 可在大集會所用餐區使用的票券 有它就可以享用從阿茲茲送來的餐點 油泥蝦王 x3 營火料理的追加食材 蘊含極多營養的大蝦 口感充滿彈力 實屬一絕 七彩礦 x10 以阿茲茲火窯精煉而成的神奇素材 據說用此製作的裝備具有一等一的性能 古史沉眠之地 古史沉眠之地 亡靈不問明日戰火 亡魂不眷未来之灾 沉眠在遠古空洞的魔物是分類為古龍種的巨戟龍 為了完成討伐任務 維爾納提議修復並使用沉眠在巨戟龍背上的古代武器",
+      "path": "/zh-Hant/data/missions/huan-xing-zhi-wu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/huan-xing-zhi-wu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "黃昏之橋",
+      "summary": "獵人與奧莉維亞合力穿越了危險地帶 抵達長耳智者居住的地方 探 尋找 寻找 錬金 話 與負責神秘鍊金的交談 与负责神秘炼金的对话 食事 場 向 前往用餐區 前往用餐地点 與交談 与对话 報酬 不入凍峰焉得成果 偏向冻峰行 獵人與奧莉維亞合力穿越了危險地帶 抵達長耳智者居住的地方",
+      "path": "/zh-Hant/data/missions/huang-hun-zhi-qiao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/huang-hun-zhi-qiao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "迴盪斷崖的巨響",
+      "summary": "根據阿帕爾的情報指出 冰霧斷崖有魔物在四處肆虐 令其他魔物為了遠離危險而來到蘇加附近 前往冰霧斷崖 狩獵引發事態的風鋏龍和雪獅子王吧 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 綿綿蛋 x3 營火料理的追加食材 品質比柔柔蛋更佳 吃一口能令人彷彿置身天國 古老秘藥 x5 提升體力和耐力上限到最大 並完全回復體力和耐力的藥 體力上限會在一段時間後恢復原狀 礙事的傢伙 碍事的家伙们 生存競争 物競天擇的終焉 物竞天择的终焉 根據阿帕爾的情報指出 冰霧斷崖有魔物在四處肆虐 令其他魔物為了遠離危險而來到蘇加附近 前往冰霧斷崖 狩獵引發事態的風鋏龍和雪獅子王吧",
+      "path": "/zh-Hant/data/missions/hui-dang-duan-ya-de-ju-xiang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/hui-dang-duan-ya-de-ju-xiang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "疾馳沙原",
+      "summary": "緩衝地帶以東的地區 人稱 封禁之地 為營救守護者並調查攻擊守護者村莊的神秘魔物 白之孤影 獵人與調查隊等人乘上沙上船 在沙地中前進 一行人在途中發現被大群魔物追趕的少女 追上少女 使魔物膽怯 甩開魔物群 與交談 騎到鷺鷹龍上 追蹤少女兄長的氣味 討伐 去看兩人的狀況 報酬 纏蛙的皮 x3 纏蛙的皮 伸縮性足以配合纏蛙的龐大食量 亦易於加工處理 生命粉塵 x5 撒向四周就能回復體力的粉塵 生命粉塵 撒向四周就能回復體力的粉塵 秘藥 提升體力上限到最大 並完全回復體力的藥 體力上限會在一段時間後恢復原狀 返回大本營 返回大本營 返回大本营 緩衝地帶以東的地區 封禁之地 為營救守護者並調查攻擊守護者村莊的神秘魔物 白之孤影 獵人與調查隊等人乘上沙上船 在沙地中前進 一行人在途中發現被大群魔物追趕的少女 少女 追 追上少女",
+      "path": "/zh-Hant/data/missions/ji-chi-sha-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ji-chi-sha-yuan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "機靈掠奪支援",
+      "summary": "你 妳 去狩獵護兇爪龍 牠為了測試新支援行動 想和 式火竜艇出撃 貓式火龍艇出擊 猫式火龙艇出击 釣 人生 釣魚即為人生 垂钓即人生 去狩獵護兇爪龍 牠為了測試新支援行動 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向隨從艾路報告 向随从艾露猫报告 報酬 滋養萃取液 x5 可使特定藥品的效果倍增的特殊萃取液 可從部分大型魔物身上取得 式火竜艇出撃 貓式火龍艇出擊 猫式火龙艇出击 釣魚即為人生 垂钓即人生",
+      "path": "/zh-Hant/data/missions/ji-ling-lue-duo-zhi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ji-ling-lue-duo-zhi-yuan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "繼續調查",
+      "summary": "獵人接下莫利巴的委託 狩獵桃毛獸王 成功取回簡易營地 這樣就能繼續調查闢獸了 與交談 報酬 森林的生態調查 獵人的尊嚴 森 生態調査 森林的生態調查 森林生态调查 矜持 獵人的尊嚴 猎人的尊严 獵人接下莫利巴的委託 狩獵桃毛獸王 成功取回簡易營地 這樣就能繼續調查闢獸了 話 與交談 与对话 報酬 森 生態調査 森林的生態調查 森林生态调查 矜持 獵人的尊嚴 猎人的尊严 獵人接下莫利巴的委託 狩獵桃毛獸王 成功取回簡易營地 這樣就能繼續調查闢獸了 森 生態調査 森林的生態調查 森林生态调查 矜持 獵人的尊嚴 猎人的尊严 獵人接下莫利巴的委託 狩獵桃毛獸王 成功取回簡易營地",
+      "path": "/zh-Hant/data/missions/ji-xu-diao-cha",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ji-xu-diao-cha",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "交匯",
+      "summary": "龍谷遺址位於蘇加附近 自古以來是魔物的聚集地 但最近發生了一些變化 獵人聽完法比烏斯和長耳智者商量後 帶著新的調查目標前往龍谷遺址 話 前往與交談 前往酥加与对话 報酬 狂龍結晶碎片 x3 散發出令人不安的氣息的結晶碎片 似乎蘊藏著某種力量 生命大粉塵 x5 撒向四周後就能大幅回復體力的粉塵 生命粉塵 x30 撒向四周就能回復體力的粉塵 追上變化 追逐变化 龍谷中的黑影 龙谷潜影 龍谷遺址位於蘇加附近 自古以來是魔物的聚集地 但最近發生了一些變化 獵人聽完法比烏斯和長耳智者商量後 帶著新的調查目標前往龍谷遺址",
+      "path": "/zh-Hant/data/missions/jiao-hui",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/jiao-hui",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "庫納法村讓人在意的傳聞",
+      "summary": "庫納法村最近似乎在流傳讓人在意的傳聞 說不定有人因此感到不安 去看看情況吧 蒼海共震 蒼海共震 苍海共震 晴 日 時 砂嵐 天晴時有沙塵暴 天气晴朗 偶有沙尘暴 庫納法村最近似乎在流傳讓人在意的傳聞 說不定有人因此感到不安 去看看情況吧 村 話 前往庫納法村與妮布交談 前往库纳法村与奈布对话 報酬 濃郁庫納法起司 x3 營火料理的追加食材 是熟練技工製成的極品 有著濃郁的風味與滑嫩的口感 盾突龍的毛布 庫納法村的工藝品 既輕又非常禦寒 是在沙漠生活的必需品 只要拿去給工匠就能 蒼海共震 蒼海共震 苍海共震 天晴時有沙塵暴 天气晴朗 偶有沙尘暴 庫納法村最近似乎在流傳讓人在意的傳聞 說不定有人因此感到不安 去看看情況吧",
+      "path": "/zh-Hant/data/missions/ku-na-fa-cun-rang-ren-zai-yi-de-chuan-wen",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ku-na-fa-cun-rang-ren-zai-yi-de-chuan-wen",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "狂界",
+      "summary": "龍燈輸出過多能量 導致各地出現異常天氣 與此同時 法比烏斯指出有黑蝕龍在東部地區出現 獵人奉命前往各地調查 以解決同時發生的各個難題 向 前往的大本營 前往的大本营 話 與交談 与对话 村 前往庫納法村 前往库纳法村 討伐 讨伐 前往的大本營 前往的大本营 前往的大本營 前往的大本营 前往與交談 前往与对话 報酬 璀璨水晶 亮水晶的進階素材 具有高度稀有價值 連工房都只會使用在重要用途上 古老龍骨 可在骨塚採集到的貴重進階素材 是遠古時代在此地逝去的龍留下的貴重龍骨 回復藥 大 x30 回復中量體力的藥 奔流 雨過天晴 雨過天晴 雨过天晴 龍燈輸出過多能量 導致各地出現異常天氣 與此同時 法比烏斯指出有黑蝕龍在東部地區出現 獵人奉命前往各地調查",
+      "path": "/zh-Hant/data/missions/kuang-jie",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/kuang-jie",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "來交易吧",
+      "summary": "蓬鬆毛皮 你 妳 入手 從取得 从身上获得 納品 向繳納 向交纳 報酬 盛宴蘑菇 營火料理的追加食材 是非常少見的極品蘑菇 莫利巴只要採到 就會開宴會來慶祝 桃毛獸王松露 x3 營火料理的調味食材 因為桃毛獸王經常會挖掘到這種松露而得名 加工屋印 工匠特製品 杰玛的特制品 阿伊達的憂慮 阿伊达的忧虑",
+      "path": "/zh-Hant/data/missions/lai-jiao-yi-ba-peng-song-mao-pi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/lai-jiao-yi-ba-peng-song-mao-pi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "來自西方的訪客",
+      "summary": "基於封禁之地調查隊成就的偉業和調查結果 公會內部也檢討了該如何對東部地區著手 獵人一行人也終於得以和東部地區先驅的 那個人 重逢 魔物獵人 怪物猎人 新 生態系 全新的生態系 新生态系统 基於封禁之地調查隊成就的偉業和調查結果 公會內部也檢討了該如何對東部地區著手 獵人一行人也終於得以和東部地區先驅的 那個人 重逢 話 與交談 与对话 報酬 狂野香草 x3 營火料理的調味食材 香氣不但充滿野性 也帶清涼感 能夠掩蓋素材的腥味 捕獲用麻醉球 x10 專用於捕獲踩中陷阱的魔物的投擲式麻醉球 以擲向地面等方式使用 麻痺陷阱 x5 能夠阻止魔物行動的陷阱 亦可用於捕獲 魔物獵人 怪物猎人 全新的生態系 新生态系统 基於封禁之地調查隊成就的偉業和調查結果 公會內部也檢討了該如何對東部地區著手 獵人一行人也終於得以和東部地區先驅的",
+      "path": "/zh-Hant/data/missions/lai-zi-xi-fang-de-fang-ke",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/lai-zi-xi-fang-de-fang-ke",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "來自行星的侵略者",
+      "summary": "遊星歐米茄從霧中現身 它將目標轉移至妨礙它殺死凍峰龍的獵人 危機 凍峰 前往危險的凍峰 前往危机的冻峰 古史 眠 地 古史沉眠之地 古史沉眠之地 遊星歐米茄從霧中現身 它將目標轉移至妨礙它殺死凍峰龍的獵人 討伐 讨伐 報酬 重鎧玉 x3 高密度的厚重鎧玉 可極大幅強化防具 七彩礦 x5 以阿茲茲火窯精煉而成的神奇素材 據說用此製作的裝備具有一等一的性能 璀璨水晶 亮水晶的進階素材 具有高度稀有價值 連工房都只會使用在重要用途上 前往危險的凍峰 前往危机的冻峰 古史沉眠之地 古史沉眠之地 遊星歐米茄從霧中現身 它將目標轉移至妨礙它殺死凍峰龍的獵人",
+      "path": "/zh-Hant/data/missions/lai-zi-xing-xing-de-qin-lue-zhe",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/lai-zi-xing-xing-de-qin-lue-zhe",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "歷戰沙海龍",
+      "summary": "聽過伊賽說明衝鋒隊的受害情形後 可以推斷襲擊他們的沙海龍是歷戰個體 考慮到牠十分危險 極有可能危害周遭 有必要加以狩獵 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 濃郁庫納法起司 營火料理的追加食材 是熟練技工製成的極品 有著濃郁的風味與滑嫩的口感 東方蜂蜜 x5 營火料理的調味食材 風味獨特 不同於一般蜂蜜 最適合用來提味 安全確保 確保龍谷安全 确保龙谷的安全 森林闢獸 林中辟兽 聽過伊賽說明衝鋒隊的受害情形後 可以推斷襲擊他們的沙海龍是歷戰個體 考慮到牠十分危險 極有可能危害周遭 有必要加以狩獵",
+      "path": "/zh-Hant/data/missions/li-zhan-sha-hai-long",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/li-zhan-sha-hai-long",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "聯繫",
+      "summary": "討伐白熾龍後 拿塔當上了見習獵人 一直在獵人公會負責支援工作 現在他發來了報告 獵人一行人決定前往他的所在處 了解詳情 話 前往與交談 前往与对话 報酬 雨過天晴 雨過天晴 雨过天晴 行之所往 討伐白熾龍後 拿塔當上了見習獵人 一直在獵人公會負責支援工作 現在他發來了報告 獵人一行人決定前往他的所在處 了解詳情",
+      "path": "/zh-Hant/data/missions/lian-xi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/lian-xi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "獵人的尊嚴",
+      "summary": "繼續調查 追逐孤獨 獵人調查森林後 得知闢獸不再怕人 而且已經成群結隊 有頭領帶頭 想必遲早會衝進庫納法村 飛鳥隊立刻前往庫納法村 警告村民 前往綠洲 逃離群體 狩獵 追上魔物群 吸引的注意 返回 報酬 庫納法起司 x3 營火料理的追加食材 是庫納法村民精心製作的起司 加熱後的延展性非常驚人 爆炸菇 x5 蘊含高溫的稀有蘑菇 是調合爆彈所需爆藥的所需素材 燕雀石 可從礦脈採掘到的礦石 可精煉成比鐵礦石更優質的燕雀鋼 繼續調查 追逐孤獨 獵人調查森林後 得知闢獸不再怕人 而且已經成群結隊 有頭領帶頭 想必遲早會衝進庫納法村 飛鳥隊立刻前往庫納法村 警告村民 調査 続行 繼續調查 继续调查 孤独 追 追逐孤獨",
+      "path": "/zh-Hant/data/missions/lie-ren-de-zun-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/lie-ren-de-zun-yan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "流浪之民",
+      "summary": "孤獨所向 山雨欲來 阿茲茲居民帶領拿塔來到了像是通往地下的道路 拿塔感到十分眼熟 穿過通道應該就能到達守護者村莊 一想到終於可以回家 他的內心不禁激動起來 跟隨 騎到鷺鷹龍上 往崖壁上方前進 狩獵 與交談 往上層前進 與飛鳥隊隊員交談 坐下休息 報酬 冰光金屬 x3 可在冰霧斷崖採掘到的礦石 由寒氣包覆 在光線下會反射純白的光輝 結凍冰骨 可在冰霧斷崖的骨塚採集到的骨素材 在封閉的凍結之地長年淬鍊而成 鎧玉 x10 蒸鍍在裝備上提高強度的素材 可些微強化防具 孤獨所向 山雨欲來 阿茲茲居民帶領拿塔來到了像是通往地下的道路 拿塔感到十分眼熟 穿過通道應該就能到達守護者村莊 一想到終於可以回家 他的內心不禁激動起來 孤独 向 場所 孤獨所向 孤独所向 不穏 幕開 山雨欲來 动荡的帷幕",
+      "path": "/zh-Hant/data/missions/liu-lang-zhi-min",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/liu-lang-zhi-min",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "龍谷中的黑影",
+      "summary": "龍谷遺址位於蘇加附近 自古以來是魔物的聚集地 但最近發生了一些變化 獵人聽完法比烏斯和長耳智者商量後 帶著新的調查目標前往龍谷遺址 話 前往與交談 前往酥加与对话 奥 向 前往深處 前往深处 狩猟 狩獵 狩猎 報酬 狂龍結晶碎片 x3 散發出令人不安的氣息的結晶碎片 似乎蘊藏著某種力量 生命大粉塵 x5 撒向四周後就能大幅回復體力的粉塵 生命粉塵 x30 撒向四周就能回復體力的粉塵 遊歷之路 游历之路 龍谷遺址位於蘇加附近 自古以來是魔物的聚集地 但最近發生了一些變化 獵人聽完法比烏斯和長耳智者商量後 帶著新的調查目標前往龍谷遺址",
+      "path": "/zh-Hant/data/missions/long-gu-zhong-de-hei-ying",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/long-gu-zhong-de-hei-ying",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "毛色會變差",
+      "summary": "不喜歡 你 妳 諍 果 鬥爭的盡頭 两怪相争 厄介 妨害者 礙事的傢伙 碍事的家伙们 不喜歡 你 妳 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 盛宴蘑菇 x3 營火料理的追加食材 是非常少見的極品蘑菇 莫利巴只要採到 就會開宴會來慶祝 蜂蜜 x30 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 鬥爭的盡頭 两怪相争 礙事的傢伙 碍事的家伙们",
+      "path": "/zh-Hant/data/missions/mao-se-hui-bian-chai-bu-xi-huan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/mao-se-hui-bian-chai-bu-xi-huan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "貓式火龍艇出擊",
+      "summary": "你 妳 根性 珍藏大毅力支援 珍藏的大毅力支援 機靈掠奪支援 机灵的掠夺支援 你 妳 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向隨從艾路報告 向随从艾露猫报告 報酬 大爆彈桶 x10 設置在地面後可滾動的爆彈 受到衝擊時會爆炸 極具破壞力 珍藏大毅力支援 珍藏的大毅力支援 機靈掠奪支援 机灵的掠夺支援",
+      "path": "/zh-Hant/data/missions/mao-shi-huo-long-ting-chu-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/mao-shi-huo-long-ting-chu-ji",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "萌芽的初啼",
+      "summary": "白熾龍被討伐後 一度處於封印狀態的龍燈周圍出現了許多繭 獵人一行人認為白熾龍因某種原因再生 決意再次挺身對抗 話 與交談 与对话 討伐 讨伐 報酬 古老秘藥 x5 提升體力和耐力上限到最大 並完全回復體力和耐力的藥 體力上限會在一段時間後恢復原狀 生命大粉塵 x30 撒向四周後就能大幅回復體力的粉塵 熱情滿載的眼鏡 满载热情的眼镜 玉藻茸茸林 百釣而不膩 玉藻茸茸绯红森 钓趣无限月照林 白熾龍被討伐後 一度處於封印狀態的龍燈周圍出現了許多繭 獵人一行人認為白熾龍因某種原因再生 決意再次挺身對抗",
+      "path": "/zh-Hant/data/missions/meng-ya-de-chu-ti",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/meng-ya-de-chu-ti",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "夢中樂土",
+      "summary": "獵人得知護龍與周圍的生物關係密不可分 拿塔也滿懷希望 期待鎖刃龍找回活下去的力量 掙脫守護者的枷鎖 夜明 破曉 破晓 君 見 世界 你眼中的世界 你眼中的世界 獵人得知護龍與周圍的生物關係密不可分 拿塔也滿懷希望 期待鎖刃龍找回活下去的力量 掙脫守護者的枷鎖 竜廟 下層 向 前往龍廟下層 前往龙庙下层 討伐 讨伐 報酬 柔柔蛋 x3 營火料理的追加食材 是柔毛秧雞的蛋 蛋黃和蛋白都非常輕盈綿軟 秘藥 提升體力上限到最大 並完全回復體力的藥 體力上限會在一段時間後恢復原狀 回復藥 大 x20 回復中量體力的藥 你眼中的世界 你眼中的世界 獵人得知護龍與周圍的生物關係密不可分 拿塔也滿懷希望 期待鎖刃龍找回活下去的力量 掙脫守護者的枷鎖",
+      "path": "/zh-Hant/data/missions/meng-zhong-le-tu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/meng-zhong-le-tu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "瞄準大魚",
+      "summary": "去釣大魚 雖然手上有她給 美味探求 釣 楽 追求美味也是釣魚的樂趣 追求美味也是垂钓的乐趣 神秘 輝 求 尋求神秘的光輝 探寻神秘的光辉 你 妳 去釣大魚 雖然手上有她給 大物釣 回成功 成功釣到大魚1次 成功钓到1次大鱼 報告 向報告 向报告 報酬 火藥金魚鱗片 x5 火藥金魚的鱗片 與大爆彈桶調合即可大幅提高威力 蜂蜜 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 美味探求 追求美味也是釣魚的樂趣 追求美味也是垂钓的乐趣 尋求神秘的光輝 探寻神秘的光辉 去釣大魚 雖然手上有她給",
+      "path": "/zh-Hant/data/missions/miao-zhun-da-yu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/miao-zhun-da-yu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "魔物獵人",
+      "summary": "棲息在龍燈的是龍都的秘密武器 護龍 白熾龍 拿塔內心糾結 打算關閉龍燈 而獵人對此做出了答覆 獵人下定決心 開始討伐白熾龍 討伐 讨伐 報酬 你眼中的世界 你眼中的世界 來自西方的訪客 来自西方的访客 棲息在龍燈的是龍都的秘密武器 拿塔內心糾結 打算關閉龍燈 而獵人對此做出了答覆 獵人下定決心 開始討伐白熾龍",
+      "path": "/zh-Hant/data/missions/mo-wu-lie-ren",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/mo-wu-lie-ren",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "目標是黃金魚",
+      "summary": "去釣黃金魚 與卡妮亞成為釣友之後 她馬上送了擬餌 釣 人生 釣魚即為人生 垂钓即人生 美味探求 楽 追求美味也是釣魚的樂趣 追求美味也是垂钓的乐趣 你 妳 去釣黃金魚 與卡妮亞成為釣友之後 她馬上送了擬餌 要 釣到 钓到 報告 向報告 向报告 報酬 堅硬竹筴魚的鰭 x3 可用於研磨武器的背鰭 所需研磨次數比砥石少 銳利度的回復量也較大 蜂蜜 x5 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 釣魚即為人生 垂钓即人生 美味探求 追求美味也是釣魚的樂趣 追求美味也是垂钓的乐趣 去釣黃金魚 與卡妮亞成為釣友之後 她馬上送了擬餌",
+      "path": "/zh-Hant/data/missions/mu-biao-shi-huang-jin-yu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/mu-biao-shi-huang-jin-yu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "目的地",
+      "summary": "看來鎖刃龍以之前看過的那顆蛋將生命延續了下去 牠象徵著大自然超乎人類想像的力量 但諷刺的是 牠與生俱來的特性令公會無法置之不理 獵人推測牠將在煌雷龍的巢穴出現 決定啟程前往 話 前往與交談 前往与对话 調査 行 調查鎖刃龍 调查锁刃龙 討伐 讨伐 報酬 強力回復支援 强力回复支援",
+      "path": "/zh-Hant/data/missions/mu-de-di",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/mu-de-di",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "你眼中的世界",
+      "summary": "棲息在龍燈的是龍都的秘密武器 護龍 白熾龍 如果龍燈停息 失去能量的白熾龍便會死去 但生態系也會因此崩毀 拿塔下定決心 要完成父親身為守護者的職責 而獵人目睹這一切 決定 話 與交談 与对话 報酬 夢中樂土 梦中的乐土 魔物獵人 怪物猎人 棲息在龍燈的是龍都的秘密武器 如果龍燈停息 失去能量的白熾龍便會死去 但生態系也會因此崩毀 拿塔下定決心 要完成父親身為守護者的職責 而獵人目睹這一切",
+      "path": "/zh-Hant/data/missions/ni-yan-zhong-de-shi-jie",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ni-yan-zhong-de-shi-jie",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "滂沱大雨的彼端",
+      "summary": "奧莉維亞與艾力克正在森林深處調查白之孤影 獵人一行人想要打聽他們的收穫 並將鷺鷹龍帶給他們 冒雨前往森林深處 然而 奥 向 前往深處 前往深处 撃退 擊退 击退 話 與交談 与对话 報酬 回復藥 大 x10 回復中量體力的藥 漢方藥 x5 可解除毒狀態 同時回復微量體力的藥 追逐孤獨 追逐孤独 陰影浮現 皓影浮现 奧莉維亞與艾力克正在森林深處調查白之孤影 獵人一行人想要打聽他們的收穫 並將鷺鷹龍帶給他們 冒雨前往森林深處",
+      "path": "/zh-Hant/data/missions/pang-tuo-da-yu-de-bi-duan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/pang-tuo-da-yu-de-bi-duan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "破曉",
+      "summary": "獵人得知護龍與周圍的生物關係密不可分 飛鳥隊一行人推測 鎖刃龍也可能已成為了生態系的一部分 話 與交談 与对话 報酬 命 生命的循環 生命的循环 夢 求 楽土 夢中樂土 梦中的乐土 獵人得知護龍與周圍的生物關係密不可分 飛鳥隊一行人推測 鎖刃龍也可能已成為了生態系的一部分 命 生命的循環 生命的循环 夢 求 楽土 夢中樂土 梦中的乐土 獵人得知護龍與周圍的生物關係密不可分 飛鳥隊一行人推測 鎖刃龍也可能已成為了生態系的一部分 話 與交談 与对话 報酬 生命的循環 生命的循环 夢中樂土 梦中的乐土",
+      "path": "/zh-Hant/data/missions/po-xiao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/po-xiao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "起始",
+      "summary": "拿塔走過的地下道已經崩塌 如果想要前往守護者村莊 就只能從地面走去 調查隊在大本營整裝時 獵人護送伊賽與諾諾回到他們的村落 話 與交談 与对话 報酬 返回大本營 返回大本营 風音 共 生 村 風聲縈繞之村 与风音共存之村 拿塔走過的地下道已經崩塌 如果想要前往守護者村莊 就只能從地面走去 調查隊在大本營整裝時 獵人護送伊賽與諾諾回到他們的村落 返回大本營 返回大本营 風音 共 生 村 風聲縈繞之村 与风音共存之村 拿塔走過的地下道已經崩塌 如果想要前往守護者村莊 就只能從地面走去 調查隊在大本營整裝時 獵人護送伊賽與諾諾回到他們的村落 話 與交談 与对话 報酬 返回大本營 返回大本营 風聲縈繞之村 与风音共存之村",
+      "path": "/zh-Hant/data/missions/qi-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/qi-shi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "前往龍廟",
+      "summary": "奧莉維亞以龍都遺跡為中心展開調查後聯絡了飛鳥隊 一行人自討伐白熾龍以來 久違地再次正式走進該處 歴巡 途 遊歷之路 游历之路 眠 竜 薔薇 棘 沉睡之龍與薔薇棘刺 沉眠之龙与蔷薇之刺 奧莉維亞以龍都遺跡為中心展開調查後聯絡了飛鳥隊 一行人自討伐白熾龍以來 久違地再次正式走進該處 話 前往與交談 前往与对话 報酬 受損的武器碎片 x3 傷痕累累的古老武器的零件 要鑑定後才能知道其詳情 滋養萃取液 x5 可使特定藥品的效果倍增的特殊萃取液 可從部分大型魔物身上取得 回復藥 大 x20 回復中量體力的藥 遊歷之路 游历之路 沉睡之龍與薔薇棘刺 沉眠之龙与蔷薇之刺",
+      "path": "/zh-Hant/data/missions/qian-wang-long-miao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/qian-wang-long-miao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "前往森林",
+      "summary": "飛鳥隊前往了庫納法村 雖然沒有打聽到守護者一族的消息 但是族長提到大型魔物闢獸正在靠近人類的生活區域 獵人感到事態異常 決定前往森林調查闢獸的生態 場所 向 前往通往森林的地點 前往通向森林之地 報酬 風音 共 生 村 風聲縈繞之村 与风音共存之村 生態調査 森林的生態調查 森林生态调查 飛鳥隊前往了庫納法村 雖然沒有打聽到守護者一族的消息 但是族長提到大型魔物闢獸正在靠近人類的生活區域 獵人感到事態異常 決定前往森林調查闢獸的生態 風音 共 生 村 風聲縈繞之村 与风音共存之村 森 生態調査 森林的生態調查 森林生态调查 飛鳥隊前往了庫納法村 雖然沒有打聽到守護者一族的消息 但是族長提到大型魔物闢獸正在靠近人類的生活區域 獵人感到事態異常 決定前往森林調查闢獸的生態 場所 向 前往通往森林的地點 前往通向森林之地 報酬",
+      "path": "/zh-Hant/data/missions/qian-wang-sen-lin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/qian-wang-sen-lin",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "前往危險的凍峰",
+      "summary": "獵人向歐米茄與阿爾法了解詳情之後 推測遊星歐米茄會去尋找凍峰龍 於是決定與他們一同前往冰鎖凍峰 侵攻 烽火 侵略的烽火 侵略的烽火 星惑 侵攻者 來自行星的侵略者 来自行星的侵略者 獵人向歐米茄與阿爾法了解詳情之後 推測遊星歐米茄會去尋找凍峰龍 於是決定與他們一同前往冰鎖凍峰 話 與交談 与对话 報酬 重鎧玉 x3 高密度的厚重鎧玉 可極大幅強化防具 七彩礦 x5 以阿茲茲火窯精煉而成的神奇素材 據說用此製作的裝備具有一等一的性能 璀璨水晶 亮水晶的進階素材 具有高度稀有價值 連工房都只會使用在重要用途上 侵略的烽火 侵略的烽火 來自行星的侵略者 来自行星的侵略者 獵人向歐米茄與阿爾法了解詳情之後 推測遊星歐米茄會去尋找凍峰龍 於是決定與他們一同前往冰鎖凍峰",
+      "path": "/zh-Hant/data/missions/qian-wang-wei-xian-de-dong-feng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/qian-wang-wei-xian-de-dong-feng",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "強力回復支援",
+      "summary": "你 妳 捕獲 向隨從艾路報告 報酬 回復藥 大 x10 回復中量體力的藥 完美閃光支援 行先 行之所往 閃光 完美閃光支援 完美的闪光支援 你 妳 捕獲 捕获 報告 向隨從艾路報告 向随从艾露猫报告 報酬 回復藥 大 x10 回復中量體力的藥 行先 目的地 行之所往 閃光 完美閃光支援 完美的闪光支援 行先 目的地 行之所往 閃光 完美閃光支援 完美的闪光支援 你 妳 捕獲 捕获 報告",
+      "path": "/zh-Hant/data/missions/qiang-li-hui-fu-zhi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/qiang-li-hui-fu-zhi-yuan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "侵略的烽火",
+      "summary": "言物遺物提到 開始侵略 蹂躪 鎮壓 象徵著冰霧斷崖正在出現異變 獵人在那裡看到的是 異変 調査 調查的異變 调查的异常状况 未知 生物 討伐 討伐不明生物 讨伐不明生物 新 元 向 前往新生物所在地 前往新生物所在地 讨伐 報酬 生命大粉塵 x15 撒向四周後就能大幅回復體力的粉塵 金蛋 閃閃發光的金蛋 是會帶來億萬財富的珍寶 可以賣得非常高價 言物遺物其言所指 声起古遗物 变生冰霧崖 前往危險的凍峰 前往危机的冻峰 言物遺物提到 開始侵略 象徵著冰霧斷崖正在出現異變 獵人在那裡看到的是",
+      "path": "/zh-Hant/data/missions/qin-lue-de-feng-huo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/qin-lue-de-feng-huo",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "全新的生態系",
+      "summary": "在擺脫了白熾龍的影響後 龍燈的力量讓整個東部地區迎來了豐收期 飛鳥隊為確認現況 決定前往緋紅森林調查 一行人壓抑著興奮的心情 舉步踏入森林 話 與交談 与对话 観察 回 在四處觀察 在中四处观察 木 上 森 從樹上觀察森林 从树上观察森林 一頭捕獲 捕獲一隻 捕获一只 報酬 狂野香草 x3 營火料理的調味食材 香氣不但充滿野性 也帶清涼感 能夠掩蓋素材的腥味 捕獲用麻醉球 x10 專用於捕獲踩中陷阱的魔物的投擲式麻醉球 以擲向地面等方式使用 麻痺陷阱 x5 能夠阻止魔物行動的陷阱 亦可用於捕獲 來自西方的訪客 来自西方的访客 追上變化 追逐变化 在擺脫了白熾龍的影響後 龍燈的力量讓整個東部地區迎來了豐收期 飛鳥隊為確認現況 決定前往緋紅森林調查",
+      "path": "/zh-Hant/data/missions/quan-xin-de-sheng-tai-xi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/quan-xin-de-sheng-tai-xi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "確保龍谷安全",
+      "summary": "異端 存在 異端之物 异端 歴戦 沙海竜 歷戰沙海龍 历战沙海龙 你 妳 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 尖鎧玉 x8 能進一步提升裝備性能的鎧玉 可用來強化防具 硬化粉塵 x5 撒向四周就能暫時提高周圍對象防禦力的粉塵 野生種子油 x3 營火料理的調味食材 香醇的風味有如濃縮了大自然的精華 能昇華食材的風味 異端之物 歷戰沙海龍 历战沙海龙",
+      "path": "/zh-Hant/data/missions/que-bao-long-gu-an-quan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/que-bao-long-gu-an-quan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "熱情滿載的眼鏡",
+      "summary": "阿爾瑪在調查緋紅森林時不小心丟失了意義重大的眼鏡 當時身在附近的莫利巴或許會知道些什麼 眼鏡究竟會在哪裡呢 尋找知道眼鏡下落的莫利巴 前往河的下游尋找知道眼鏡下落的莫利巴 前往莫利巴之家 與入口的莫利巴交談 向參加宴會的莫利巴打聽消息 尋找在莫利巴之家的小鏡鏡並與他交談 向小鏡鏡繳納東方蜂蜜 報酬 銀之遺物票 龍人族使用的票券 在鍊製遺物時遞交 就能得到優惠 生命粉塵 x10 撒向四周就能回復體力的粉塵 稀客的呼喚 萌芽的初啼 阿爾瑪在調查緋紅森林時不小心丟失了意義重大的眼鏡 當時身在附近的莫利巴或許會知道些什麼 眼鏡究竟會在哪裡呢 希 招喚 稀客的呼喚 罕见的召唤 萌芽 産声 萌芽的初啼 萌芽的初鸣 阿爾瑪在調查緋紅森林時不小心丟失了意義重大的眼鏡 當時身在附近的莫利巴或許會知道些什麼 眼鏡究竟會在哪裡呢 眼鏡 行方 知 探 尋找知道眼鏡下落的莫利巴 寻找知道眼镜下落的森狸人 下流 前往河的下游尋找知道眼鏡下落的莫利巴 去河的下游寻找知道眼镜下落的森狸人 向",
+      "path": "/zh-Hant/data/missions/re-qing-man-zai-de-yan-jing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/re-qing-man-zai-de-yan-jing",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "薩民的稀有物種研究報告",
+      "summary": "希少研究 達里爾的稀有物種研究報告 达里尔的稀有物种研究报告 素材 上質 優質素材 优质素材 你 妳 捕獲 捕获 報告 向報告 向报告 報酬 狂野香草 x5 營火料理的調味食材 香氣不但充滿野性 也帶清涼感 能夠掩蓋素材的腥味 蜂蜜 x10 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 希少研究 達里爾的稀有物種研究報告 达里尔的稀有物种研究报告 優質素材 优质素材",
+      "path": "/zh-Hant/data/missions/sa-min-de-xi-you-wu-zhong-yan-jiu-bao-gao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/sa-min-de-xi-you-wu-zhong-yan-jiu-bao-gao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "薩民的研究報告",
+      "summary": "你 妳 去捕獲環境生物 這次的對象是端麗翼鳥 棲息於緋紅森林 他提到因為幫了達里爾 所以也想 捕獲 捕获 報告 向報告 向报告 報酬 青菇 x10 秘藏增強效果的蘑菇 是調合各種回復道具的所需素材 蜂蜜 x5 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 達里爾的研究報告 达里尔的研究报告 達里爾的研究報告2 达里尔的研究报告 去捕獲環境生物 這次的對象是端麗翼鳥 棲息於緋紅森林 他提到因為幫了達里爾 所以也想",
+      "path": "/zh-Hant/data/missions/sa-min-de-yan-jiu-bao-gao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/sa-min-de-yan-jiu-bao-gao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "薩民的研究報告2",
+      "summary": "你 妳 続 研究 達里爾的研究報告2 达里尔的研究报告 续 希少研究 達里爾的稀有物種研究報告 达里尔的稀有物种研究报告 你 妳 捕獲 捕获 報告 向報告 向报告 報酬 風茄 x10 錯誤使用可能會致死的危險蘑菇 是調合活力劑和秘藥的所需素材 蜂蜜 x5 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 達里爾的研究報告2 达里尔的研究报告 希少研究 達里爾的稀有物種研究報告 达里尔的稀有物种研究报告",
+      "path": "/zh-Hant/data/missions/sa-min-de-yan-jiu-bao-gao-2",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/sa-min-de-yan-jiu-bao-gao-2",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "森林的生態調查",
+      "summary": "飛鳥隊前往了庫納法村 雖然沒有打聽到守護者一族的消息 但是族長提到大型魔物闢獸正在靠近人類的生活區域 獵人感到事態異常 決定前往森林調查闢獸的生態 往森林前進 與交談 前往搭營候選地點 追蹤的痕跡 狩獵 前往簡易營地 跟隨獸人族 與獸人族的交涉代表交談 尋找桃毛獸王 報酬 垂涎蘑菇 x3 營火料理的追加食材 只有莫利巴才知道這種蘑菇生長的秘密場所 生命粉塵 x5 撒向四周就能回復體力的粉塵 硬質骨頭 可在骨塚採集到的堅硬骨素材 硬度雖高 卻不會太重 是相當好用的素材 前往森林 繼續調查 森 前往森林 前往森林 調査 続行 繼續調查 继续调查 飛鳥隊前往了庫納法村 雖然沒有打聽到守護者一族的消息 但是族長提到大型魔物闢獸正在靠近人類的生活區域 獵人感到事態異常 決定前往森林調查闢獸的生態 森 目指 往森林前進",
+      "path": "/zh-Hant/data/missions/sen-lin-de-sheng-tai-diao-cha",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/sen-lin-de-sheng-tai-diao-cha",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "森林闢獸",
+      "summary": "歴戦 沙海竜 歷戰沙海龍 历战沙海龙 管理不行 届 用心 小心管理不慎 谨防管理不善 你 妳 上位 捕獲 於捕獲進階 在中捕获上位 報告 向報告 向报告 報酬 捕獲用麻醉球 x20 專用於捕獲踩中陷阱的魔物的投擲式麻醉球 以擲向地面等方式使用 投射器大異臭彈 x10 投射器彈藥 會在大範圍散發異臭 使周圍的魔物因厭惡異味而逃跑 歷戰沙海龍 历战沙海龙 管理不行 小心管理不慎 谨防管理不善",
+      "path": "/zh-Hant/data/missions/sen-lin-pi-shou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/sen-lin-pi-shou",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "山雨欲來",
+      "summary": "獵人一行人懷疑 大地脊骨 是人造物 與神秘的能源密切相關 為了以防萬一 一行人決定前往阿茲茲 說服維爾納停止修復大地脊骨 前往尋找 前往寻找 報酬 流浪之民 远离故乡的人 上古火焰 上古火炎 獵人一行人懷疑 大地脊骨 是人造物 與神秘的能源密切相關 為了以防萬一 一行人決定前往阿茲茲 說服維爾納停止修復大地脊骨",
+      "path": "/zh-Hant/data/missions/shan-yu-yu-lai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/shan-yu-yu-lai",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "上古火焰",
+      "summary": "不知是否因為修復了大地脊骨 阿茲茲的奔火突然洶湧起來 大火窯的火焰以前所未有的氣勢熊熊燃燒 終至失控 赫猿獸也因奔火出現變得激昂 朝村莊逼近 獵人唯有挺身而出 撃退 擊退 击退 狩猟 狩獵 狩猎 油涌 谷下層 探 前往湧油山谷下層尋找 前往涌油谷下层寻找 報酬 油泥蝦 x3 營火料理的追加食材 這種蝦棲息在湧油山谷水域 是阿茲茲村民的營養來源之一 紅蓮石 可在湧油山谷中採掘到的灼熱礦石 在常溫下會熊熊燃燒 其高溫可用來結合其他素材 回復藥 大 x10 回復中量體力的藥 山雨欲來 动荡的帷幕 奔火之禮 火之馈赠 不知是否因為修復了大地脊骨 阿茲茲的奔火突然洶湧起來 大火窯的火焰以前所未有的氣勢熊熊燃燒 終至失控 赫猿獸也因奔火出現變得激昂 朝村莊逼近 獵人唯有挺身而出",
+      "path": "/zh-Hant/data/missions/shang-gu-huo-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/shang-gu-huo-yan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "生命的循環",
+      "summary": "長耳智者告訴拿塔 用自己的眼睛見證鎖刃龍想要變成什麼 想要了解鎖刃龍 就得理解護龍 飛鳥隊開始一邊追尋鎖刃龍 一邊著手調查護龍的生態 設営地 向 前往設營候選地點 前往设营地 調査 出発 出發調查 出发进行调查 討伐 讨伐 狩猟 狩獵 狩猎 報酬 滋養萃取液 x3 可使特定藥品的效果倍增的特殊萃取液 可從部分大型魔物身上取得 亮水晶 採掘量稀少的貴重水晶 硬度非常高 在工房或製作道具的時候都會使用到 生命粉塵 x5 撒向四周就能回復體力的粉塵",
+      "path": "/zh-Hant/data/missions/sheng-ming-de-xun-huan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/sheng-ming-de-xun-huan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "適應的方式",
+      "summary": "聽塔辛說 暗器鱆入侵了村莊 把名為索西的守護者擄走了 公會針對這前所未有的事態 馬上決定搜索暗器鱆和索西 雖然襲擊的原因不明 但為確保日後安全 必須討伐暗器鱆 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 特級希爾德大蒜 營火料理的追加食材 只有在氣溫和土壤等條件齊備時 才能栽種出這種極美味的大蒜 生命大粉塵 x10 撒向四周後就能大幅回復體力的粉塵 実証実験 維爾納的實地實驗 沃纳的实地测试 守衛的職責 守卫的职责",
+      "path": "/zh-Hant/data/missions/shi-ying-de-fang-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/shi-ying-de-fang-shi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "守護至終之人",
+      "summary": "阿茲茲的騷動終於告一段落 同時 眾人也推斷大地脊骨是人造物品 與東部地區獨特的氣象循環應該有著密切關係 阻擋地下道路的冰塊融化 飛鳥隊再次朝守護者村莊前進 在目的地等待著一行人的到底是 跟隨 跟随 討伐 讨伐 話 與交談 与对话 撃退 擊退 击退 報酬 希爾德大蒜 x3 營火料理的追加食材 利用了希爾德的技術栽培 有極濃的香味和高營養價值 粗狀護骨 可在龍都遺跡的骨塚採集到的骨素材 骨骼異常發達 是這塊土地上的生物獨有的特徵 不死蟲萃取液 x10 據說有一千年壽命的蟲之精華 只要和其他道具調合 就能將特性附加到粉塵上 奔火之禮 火之馈赠 不撓不屈 不屈不撓 不屈不挠 阿茲茲的騷動終於告一段落 眾人也推斷大地脊骨是人造物品 與東部地區獨特的氣象循環應該有著密切關係 阻擋地下道路的冰塊融化 飛鳥隊再次朝守護者村莊前進 在目的地等待著一行人的到底是",
+      "path": "/zh-Hant/data/missions/shou-hu-zhi-zhong-zhi-ren",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/shou-hu-zhi-zhong-zhi-ren",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "守衛的職責",
+      "summary": "適応 適應的方式 适应的方式 諍 果 鬥爭的盡頭 两怪相争 你 妳 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 堅鎧玉 x3 高密度的堅硬鎧玉 可大幅強化防具 硬化藥 大 x5 於一段時間內提升防禦力的藥 據說是效果更勝硬化藥的夢幻藥品 魔物辣椒 營火料理的調味食材 強勁的辛辣味能凸顯料理的味道 更能促進流汗 適應的方式 适应的方式 鬥爭的盡頭 两怪相争",
+      "path": "/zh-Hant/data/missions/shou-wei-de-zhi-ze",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/shou-wei-de-zhi-ze",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "天晴時有沙塵暴",
+      "summary": "尼莫與烏諾瞞著大人 自己偷偷開始了鷺鷹龍騎手的試煉 諾諾為了阻止他們 與獵人前往沙原高台 然而千刃龍突然在高台出現 將鷺鷹龍抓走了 諾諾騎上鷺鷹龍追趕千刃龍 獵人也緊追其後 追 追上千刃龍 追上千刃龙 討伐 讨伐 報酬 濃郁庫納法起司 x3 營火料理的追加食材 是熟練技工製成的極品 有著濃郁的風味與滑嫩的口感 盾突龍的毛布 庫納法村的工藝品 既輕又非常禦寒 是在沙漠生活的必需品 只要拿去給工匠就能 庫納法村讓人在意的傳聞 库纳法村令人在意的传闻 信念開啟新世界大門 新世界的大门 尼莫與烏諾瞞著大人 自己偷偷開始了鷺鷹龍騎手的試煉 諾諾為了阻止他們 與獵人前往沙原高台 然而千刃龍突然在高台出現 將鷺鷹龍抓走了 諾諾騎上鷺鷹龍追趕千刃龍 獵人也緊追其後",
+      "path": "/zh-Hant/data/missions/tian-qing-shi-you-sha-chen-bao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/tian-qing-shi-you-sha-chen-bao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "突如其來的沙塵暴",
+      "summary": "扎托從庫納法村村民得知沙塵暴突然逼近村莊 因為沙塵暴比預期來得早 他只好連忙趕回村裡 獵人一行人推測白之孤影可能會隨沙塵暴出現 迅速朝沙塵暴中心前進 話 與交談 与对话 報酬 赤誠所向 赤诚所向 兵戎相見 对峙的武器 扎托從庫納法村村民得知沙塵暴突然逼近村莊 因為沙塵暴比預期來得早 他只好連忙趕回村裡 獵人一行人推測白之孤影可能會隨沙塵暴出現 迅速朝沙塵暴中心前進",
+      "path": "/zh-Hant/data/missions/tu-ru-qi-lai-de-sha-chen-bao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/tu-ru-qi-lai-de-sha-chen-bao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "完美閃光支援",
+      "summary": "你 妳 去捕獲閃光翅蟲 牠這次又想到新的支援行動 想請 回復 強力回復支援 强力回复支援 根性 珍藏大毅力支援 珍藏的大毅力支援 你 妳 去捕獲閃光翅蟲 牠這次又想到新的支援行動 想請 捕獲 捕获 報告 向隨從艾路報告 向随从艾露猫报告 報酬 投射器閃光彈 x10 投射器彈藥 會發出強烈的閃光 在魔物眼前引爆即可令其滿眼金星 強力回復支援 强力回复支援 珍藏大毅力支援 珍藏的大毅力支援 去捕獲閃光翅蟲 牠這次又想到新的支援行動",
+      "path": "/zh-Hant/data/missions/wan-mei-shan-guang-zhi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/wan-mei-shan-guang-zhi-yuan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "亡靈不問明日戰火",
+      "summary": "巨戟龍如亡靈般失去了蹤影 工匠小隊決定趁此機會前往整備使用古代武器時不可或缺的鍊龍脈分岔束 公會一邊擔心眾人安危 一邊全力做好準備 目覚 喚醒之物 唤醒之物 巨戟龍如亡靈般失去了蹤影 工匠小隊決定趁此機會前往整備使用古代武器時不可或缺的鍊龍脈分岔束 公會一邊擔心眾人安危 一邊全力做好準備 話 與法比烏斯交談 与法比乌斯对话 討伐 讨伐 報酬 阿茲茲快遞餐券 可在大集會所用餐區使用的票券 有它就可以享用從阿茲茲送來的餐點 油泥蝦王 x3 營火料理的追加食材 蘊含極多營養的大蝦 口感充滿彈力 實屬一絕 七彩礦 x10 以阿茲茲火窯精煉而成的神奇素材 據說用此製作的裝備具有一等一的性能 喚醒之物 唤醒之物 巨戟龍如亡靈般失去了蹤影 工匠小隊決定趁此機會前往整備使用古代武器時不可或缺的鍊龍脈分岔束 公會一邊擔心眾人安危 一邊全力做好準備",
+      "path": "/zh-Hant/data/missions/wang-ling-bu-wen-ming-ri-zhan-huo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/wang-ling-bu-wen-ming-ri-zhan-huo",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "維爾納的實地實驗",
+      "summary": "一同做任務 他說他利用了龍乳的原理與特性做了個 守 應當守護之物 应当守护之物 適応 適應的方式 适应的方式 你 妳 一同做任務 他說他利用了龍乳的原理與特性做了個 好東西 想要和 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 大爆彈桶G x10 大爆彈桶的改良強化版 是對付魔物的可靠道具 設置後也可滾動 鬼人粉塵 x5 撒向四周就能暫時提高周圍對象攻擊力的粉塵 應當守護之物 应当守护之物 適應的方式 适应的方式 一同做任務 他說他利用了龍乳的原理與特性做了個",
+      "path": "/zh-Hant/data/missions/wei-er-na-de-shi-di-shi-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/wei-er-na-de-shi-di-shi-yan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "物競天擇的終焉",
+      "summary": "萊夏的問題提到了龍都遺跡的新歷戰個體 他看到的應該是護兇爪龍和暗器鱆 看來有必要去調查一下 至少確認一下牠們會帶來多少威脅 断崖 木霊 迴盪斷崖的巨響 断崖回响 森 低語森林 低语森林 萊夏的問題提到了龍都遺跡的新歷戰個體 他看到的應該是護兇爪龍和暗器鱆 看來有必要去調查一下 至少確認一下牠們會帶來多少威脅 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 特級希爾德大蒜 x3 營火料理的追加食材 只有在氣溫和土壤等條件齊備時 才能栽種出這種極美味的大蒜 生命大粉塵 x10 撒向四周後就能大幅回復體力的粉塵 迴盪斷崖的巨響 断崖回响 低語森林 低语森林 萊夏的問題提到了龍都遺跡的新歷戰個體 他看到的應該是護兇爪龍和暗器鱆 看來有必要去調查一下 至少確認一下牠們會帶來多少威脅",
+      "path": "/zh-Hant/data/missions/wu-jing-tian-ze-de-zhong-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/wu-jing-tian-ze-de-zhong-yan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "稀客的呼喚",
+      "summary": "飛鳥隊收到了維爾納發出的召集請求 而且情況還十分緊急 獵人一行為了掌握狀況 動身前往蘇加 森 低語森林 低语森林 眼鏡 彼女 情熱 熱情滿載的眼鏡 满载热情的眼镜 飛鳥隊收到了維爾納發出的召集請求 而且情況還十分緊急 獵人一行為了掌握狀況 動身前往蘇加 話 前往與交談 前往与对话 報酬 古老秘藥 x5 提升體力和耐力上限到最大 並完全回復體力和耐力的藥 體力上限會在一段時間後恢復原狀 生命大粉塵 x30 撒向四周後就能大幅回復體力的粉塵 低語森林 低语森林 熱情滿載的眼鏡 满载热情的眼镜 飛鳥隊收到了維爾納發出的召集請求 而且情況還十分緊急 獵人一行為了掌握狀況 動身前往蘇加",
+      "path": "/zh-Hant/data/missions/xi-ke-de-hu-huan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/xi-ke-de-hu-huan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "小心管理不慎",
+      "summary": "聽多格德說 他們沒有好好處理加工七彩礦時產生的碎屑 結果不小心把喜歡礦石的魔物引到村子附近 看來有必要狩獵那頭應該是鎧龍的魔物 阻止傷亡擴大 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 油泥蝦 x5 營火料理的追加食材 這種蝦棲息在湧油山谷水域 是阿茲茲村民的營養來源之一 獄炎石 可在湧油山谷中採掘到的進階礦石 只有高手工匠有能力運用 利用到其性質的裝備都是頂級品 森林闢獸 林中辟兽 應當守護之物 应当守护之物",
+      "path": "/zh-Hant/data/missions/xiao-xin-guan-li-bu-shen",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/xiao-xin-guan-li-bu-shen",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "信念開啟新世界大門",
+      "summary": "獵人某天收到了潔瑪的邀約 她提議舉辦比賽 由各小隊製作適合自家獵人的外觀裝備 比拼一番 各人心懷信念投入比賽 打開新世界大門 最適合我家獵人的裝備大作戰 就此揭幕 指定 重 着 着替 在個人帳篷換上指定的外觀裝備 在个人帐篷中换上指定的外观装备 報告 前往向潔瑪報告 前往向杰玛报告 報酬 堅鎧玉 x5 高密度的堅硬鎧玉 可大幅強化防具 銀蛋 閃閃發光的銀蛋 是具高價值的珍寶 可以賣得高價 天晴時有沙塵暴 天气晴朗 偶有沙尘暴 言物遺物其言所指 声起古遗物 变生冰霧崖 獵人某天收到了潔瑪的邀約 她提議舉辦比賽 由各小隊製作適合自家獵人的外觀裝備 比拼一番 各人心懷信念投入比賽 打開新世界大門 最適合我家獵人的裝備大作戰 就此揭幕",
+      "path": "/zh-Hant/data/missions/xin-nian-kai-qi-xin-shi-jie-da-men",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/xin-nian-kai-qi-xin-shi-jie-da-men",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "尋求神秘的光輝",
+      "summary": "狙 瞄準大魚 目标巨物 研究 達里爾的研究報告 达里尔的研究报告 你 妳 釣 釣到 钓到 報告 向報告 向报告 報酬 寶石烏魚子 x5 營火料理的調味食材 魚卵散發晶瑩光澤 宛如寶石 火藥金魚鱗片 x3 火藥金魚的鱗片 與大爆彈桶調合即可大幅提高威力 堅硬竹筴魚的鰭 x2 可用於研磨武器的背鰭 所需研磨次數比砥石少 銳利度的回復量也較大 刺身魚鱗片 刺身魚的鱗片 吃下可回復少量體力 也能回復裂傷狀態 瞄準大魚 目标巨物 達里爾的研究報告 达里尔的研究报告",
+      "path": "/zh-Hant/data/missions/xun-qiu-shen-mi-de-guang-hui",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/xun-qiu-shen-mi-de-guang-hui",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "言物遺物其言所指",
+      "summary": "柳浪說他找到了 言物遺物 獵人決定前往冰霧斷崖和他見面 思 扉 開 信念開啟新世界大門 新世界的大门 侵攻 烽火 侵略的烽火 侵略的烽火 柳浪說他找到了 言物遺物 獵人決定前往冰霧斷崖和他見面 話 前往與交談 前往与对话 報酬 生命大粉塵 x15 撒向四周後就能大幅回復體力的粉塵 金蛋 閃閃發光的金蛋 是會帶來億萬財富的珍寶 可以賣得非常高價 信念開啟新世界大門 新世界的大门 侵略的烽火 侵略的烽火 柳浪說他找到了 言物遺物 獵人決定前往冰霧斷崖和他見面",
+      "path": "/zh-Hant/data/missions/yan-wu-yi-wu-qi-yan-suo-zhi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/yan-wu-yi-wu-qi-yan-suo-zhi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "異常的源頭",
+      "summary": "龍燈正常化後 能量再次流出 然而眾人發現這現象時 能量已經為各地帶來了毫無平息跡象的異常天氣 如今飛鳥隊要去的地方只有一個 就是將能量傳到各地的根源 龍燈所在的龍都遺跡 完成更多使命和任務 完成更多使命和任务 報酬 璀璨水晶 亮水晶的進階素材 具有高度稀有價值 連工房都只會使用在重要用途上 古老龍骨 可在骨塚採集到的貴重進階素材 是遠古時代在此地逝去的龍留下的貴重龍骨 回復藥 大 x30 回復中量體力的藥 凍峰颶風 凍峰颶風 冻峰飓风 龍燈正常化後 能量再次流出 然而眾人發現這現象時 能量已經為各地帶來了毫無平息跡象的異常天氣 如今飛鳥隊要去的地方只有一個 就是將能量傳到各地的根源 龍燈所在的龍都遺跡",
+      "path": "/zh-Hant/data/missions/yi-chang-de-yuan-tou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/yi-chang-de-yuan-tou",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "異端之物",
+      "summary": "在冰霧斷崖差點害柳浪受傷的應該是怪鳥 那隻怪鳥離開了原本的棲息地 變得十分凶暴 看來有必要加以調查 把牠找出來 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 老舊龍雕幣 x5 在東部地區發現的特產品 硬幣上刻有細緻的浮雕 據說是古代曾經使用的貨幣 雪光金屬 x2 可在冰霧斷崖採掘到的礦石 由強烈的寒氣包覆 在光線下會反射藍白色光輝 阿伊達的憂慮 阿伊达的忧虑 安全確保 確保龍谷安全 确保龙谷的安全 在冰霧斷崖差點害柳浪受傷的應該是怪鳥 那隻怪鳥離開了原本的棲息地 變得十分凶暴 看來有必要加以調查 把牠找出來",
+      "path": "/zh-Hant/data/missions/yi-duan-zhi-wu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/yi-duan-zhi-wu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "陰影浮現",
+      "summary": "有頭魔物在傾盆大雨中略顯身影 拿塔說那是白之孤影 眼見其樣貌後 拿塔內心壓抑已久的仇恨湧出 白之孤影消失後 飛鳥隊再次前往大雨止息的森林 收集情報 準備 整 話 做好準備後與交談 做好准备后与对话 元 前往莫利巴的聚居地 前往森狸人聚居地 報酬 滂沱大雨的彼端 滂沱大雨的彼端 赤誠所向 赤诚所向 有頭魔物在傾盆大雨中略顯身影 拿塔說那是白之孤影 眼見其樣貌後 拿塔內心壓抑已久的仇恨湧出 白之孤影消失後 飛鳥隊再次前往大雨止息的森林 收集情報",
+      "path": "/zh-Hant/data/missions/yin-ying-fu-xian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/yin-ying-fu-xian",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "應當守護之物",
+      "summary": "你 妳 管理不行 届 用心 小心管理不慎 谨防管理不善 実証実験 維爾納的實地實驗 沃纳的实地测试 你 妳 同名 受注 承接同名的自由任務 承接同名的自由任务 報告 向報告 向报告 報酬 老舊龍雕幣 x10 在東部地區發現的特產品 硬幣上刻有細緻的浮雕 據說是古代曾經使用的貨幣 金色龍鱗重飾大壺 冰霧斷崖的貴重特產品 大壺上刻有特別銘文 豪華絢爛堪稱國寶 管理不行 小心管理不慎 谨防管理不善 実証実験 維爾納的實地實驗 沃纳的实地测试",
+      "path": "/zh-Hant/data/missions/ying-dang-shou-hu-zhi-wu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/ying-dang-shou-hu-zhi-wu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "遊歷之路",
+      "summary": "在龍谷遺址發現到感染狂龍症的魔物後 法比烏斯決定回去學院仔細調查 另一方面 飛鳥隊向長耳智者承諾會持續觀察龍谷的狀況後 繼續調查各地 各地 調査 上 調查各地並提升獵人等級 调查各地并提高猎人等级 報酬 龍谷中的黑影 龙谷潜影 前往龍廟 前往龙庙 在龍谷遺址發現到感染狂龍症的魔物後 法比烏斯決定回去學院仔細調查 另一方面 飛鳥隊向長耳智者承諾會持續觀察龍谷的狀況後 繼續調查各地",
+      "path": "/zh-Hant/data/missions/you-li-zhi-lu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/you-li-zhi-lu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "優質素材",
+      "summary": "希少研究 薩民的稀有物種研究報告 萨明的稀有物种研究报告 毒怪鳥 用心 當心毒怪鳥 小心毒怪鸟 你 妳 入手 從取得 从身上获得 納品 向繳納 向交纳 報酬 尖鎧玉 x5 能進一步提升裝備性能的鎧玉 可用來強化防具 希少研究 薩民的稀有物種研究報告 萨明的稀有物种研究报告 當心毒怪鳥 小心毒怪鸟",
+      "path": "/zh-Hant/data/missions/you-zhi-su-cai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/you-zhi-su-cai",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "雨過天晴",
+      "summary": "多虧獵人一行人和其他調查隊員的努力 龍燈過度噴發能量的問題終於得以解決 各地持續的異常天氣也開始趨緩 居民逐漸恢復正常的生活 飛鳥隊亦重新開始調查東部地區 再次走遍各地 探索多變的生態系 狂界 繋 聯繫 联系 多虧獵人一行人和其他調查隊員的努力 龍燈過度噴發能量的問題終於得以解決 各地持續的異常天氣也開始趨緩 居民逐漸恢復正常的生活 飛鳥隊亦重新開始調查東部地區 再次走遍各地 探索多變的生態系 各地 調査 上 調查各地並提升獵人等級 调查各地并提高猎人等级 報酬",
+      "path": "/zh-Hant/data/missions/yu-guo-tian-qing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/yu-guo-tian-qing",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "玉藻茸茸林",
+      "summary": "百釣而不膩 魚類是莫利巴的主要食糧 但據赤紅隊的卡妮亞說 最近情況有極大變化 獵人一行推測是受魔物影響 急忙趕往利巴釣友 釣魚王 所在的釣場 在釣場等著的是 釣 場 向 前往釣場 前往钓场 狩猟 狩獵 狩猎 報酬 大刺身魚鱗片 x5 刺身魚的大片鱗片 吃下可回復大量體力 並提升自然回復力 也能回復裂傷狀態 堅硬竹筴魚的上鰭 x3 可用於研磨武器的背鰭 效果比砥石高 運氣好的話可重複使用多次 寶石烏魚子 x10 營火料理的調味食材 魚卵散發晶瑩光澤 宛如寶石 萌芽的初啼 萌芽的初鸣 超越強者之巔 超越巅峰 百釣而不膩 魚類是莫利巴的主要食糧 但據赤紅隊的卡妮亞說 最近情況有極大變化 獵人一行推測是受魔物影響 急忙趕往利巴釣友",
+      "path": "/zh-Hant/data/missions/yu-zao-rong-rong-lin-bai-diao-er-bu-ni",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/yu-zao-rong-rong-lin-bai-diao-er-bu-ni",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "珍藏大毅力支援",
+      "summary": "閃光 完美閃光支援 完美的闪光支援 式火竜艇出撃 貓式火龍艇出擊 猫式火龙艇出击 你 妳 捕獲 捕获 報告 向隨從艾路報告 向随从艾露猫报告 報酬 古老秘藥 x3 提升體力和耐力上限到最大 並完全回復體力和耐力的藥 體力上限會在一段時間後恢復原狀 秘藥 x5 提升體力上限到最大 並完全回復體力的藥 體力上限會在一段時間後恢復原狀 完美閃光支援 完美的闪光支援 式火竜艇出撃 貓式火龍艇出擊 猫式火龙艇出击",
+      "path": "/zh-Hant/data/missions/zhen-cang-da-yi-li-zhi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/zhen-cang-da-yi-li-zhi-yuan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "徵兆",
+      "summary": "歷戰個體出現 間接證明了龍燈產生的能量帶來了巨大的影響 面對情況變化 飛鳥隊決定將龍都遺跡加入調查範圍內 並繼續調查各地 完成更多使命和任務 完成更多使命和任务 報酬 眠 竜 薔薇 棘 沉睡之龍與薔薇棘刺 沉眠之龙与蔷薇之刺 変化 變化的先兆 变化的前兆 歷戰個體出現 間接證明了龍燈產生的能量帶來了巨大的影響 面對情況變化 飛鳥隊決定將龍都遺跡加入調查範圍內 並繼續調查各地 眠 竜 薔薇 棘 沉睡之龍與薔薇棘刺 沉眠之龙与蔷薇之刺 変化 變化的先兆 变化的前兆 歷戰個體出現 間接證明了龍燈產生的能量帶來了巨大的影響 面對情況變化 飛鳥隊決定將龍都遺跡加入調查範圍內 並繼續調查各地 完成更多使命和任務 完成更多使命和任务 報酬 沉睡之龍與薔薇棘刺 沉眠之龙与蔷薇之刺 變化的先兆 变化的前兆",
+      "path": "/zh-Hant/data/missions/zheng-zhao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/zheng-zhao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "追求美味也是釣魚的樂趣",
+      "summary": "你 妳 去釣帶卵弓鰭魚 這次的目標身上的魚卵營養價值相當高 為了感謝她給 狙 黄金魚 目標是黃金魚 目标是黄金鱼 瞄準大魚 目标巨物 去釣帶卵弓鰭魚 這次的目標身上的魚卵營養價值相當高 為了感謝她給 釣 釣到 钓到 報告 向報告 向报告 報酬 寶石烏魚子 x3 營火料理的調味食材 魚卵散發晶瑩光澤 宛如寶石 蜂蜜 x5 具有高營養價值的蜂蜜 與回復藥調合即可提高回復的效果 目標是黃金魚 目标是黄金鱼 瞄準大魚 目标巨物",
+      "path": "/zh-Hant/data/missions/zhui-qiu-mei-wei-ye-shi-diao-yu-de-le-qu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/zhui-qiu-mei-wei-ye-shi-diao-yu-de-le-qu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "追上變化",
+      "summary": "飛鳥隊在調查森林之後 進一步證實東部地區生態系正在恢復原有面貌 在法比烏斯的提議下 一行人決定繼續把龍都遺跡的調查交給奧莉維亞等人 並將調查範圍擴大到至今走過的各地 各地 調査 上 調查各地並提升獵人等級 调查各地并提高猎人等级 報酬 全新的生態系 新生态系统 飛鳥隊在調查森林之後 進一步證實東部地區生態系正在恢復原有面貌 在法比烏斯的提議下 一行人決定繼續把龍都遺跡的調查交給奧莉維亞等人 並將調查範圍擴大到至今走過的各地",
+      "path": "/zh-Hant/data/missions/zhui-shang-bian-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/zhui-shang-bian-hua",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "追逐孤獨",
+      "summary": "獵人成功將闢獸群體趕離庫納法村 狩獵了群體的頭領 族長因此允許一行人自由進出村莊 飛鳥隊為向奧莉維亞打聽調查白之孤影的結果 騎上鷺鷹龍前往森林 砂原 話 前往沙原的與交談 前往沙原的与对话 報酬 獵人的尊嚴 猎人的尊严 滂沱大雨的彼端 滂沱大雨的彼端 獵人成功將闢獸群體趕離庫納法村 狩獵了群體的頭領 族長因此允許一行人自由進出村莊 飛鳥隊為向奧莉維亞打聽調查白之孤影的結果 騎上鷺鷹龍前往森林",
+      "path": "/zh-Hant/data/missions/zhui-zhu-gu-du",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/missions/zhui-zhu-gu-du",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "白色闢獸大激戰",
+      "summary": "煩悶滅 迦楼羅炎 消滅煩惱的迦樓羅炎 迦楼罗火灭诸般烦恼 虚王 凱旋 虛王凱旋 虚王凯旋 護闢獸 x3 x1 x9 迦楼羅炎 消滅煩惱的迦樓羅炎 迦楼罗火灭诸般烦恼 虛王凱旋 虚王凯旋",
+      "path": "/zh-Hant/data/quests/bai-se-pi-shou-da-ji-zhan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/bai-se-pi-shou-da-ji-zhan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "白色小羽毛",
+      "summary": "深淵之霧暗蝕生靈 深渊之雾侵蚀生灵 生命之鏈 生命之链 深淵 霧 昏 生 蝕 深淵之霧暗蝕生靈 深渊之雾侵蚀生灵 命 鎖 生命之鏈 生命之链 深淵之霧暗蝕生靈 深渊之雾侵蚀生灵 生命之鏈 生命之链",
+      "path": "/zh-Hant/data/quests/bai-se-xiao-yu-mao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/bai-se-xiao-yu-mao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "冰鎖的試煉",
+      "summary": "你 妳 凍峰龍 x1 撃退 擊退 击退 古都 番人 古都的守衛 古都的守卫 撃退 擊退 击退 古都 番人 古都的守衛 古都的守卫 你 妳 凍峰龍 x1 古都的守衛 古都的守卫",
+      "path": "/zh-Hant/data/quests/bing-suo-de-shi-lian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/bing-suo-de-shi-lian",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "波衣來襲",
+      "summary": "波衣龍 x1 森 無法者 森林的暴徒 森林暴徒 爆発 的瓦斯爆炸 的瓦斯爆炸 森 無法者 森林的暴徒 森林暴徒 爆発 的瓦斯爆炸 的瓦斯爆炸 波衣龍 x1 森林的暴徒 森林暴徒 的瓦斯爆炸 的瓦斯爆炸",
+      "path": "/zh-Hant/data/quests/bo-yi-lai-xi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/bo-yi-lai-xi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "不滅之王應否存在",
+      "summary": "嘆 白夜叉 怨嘆的白色夜叉 悲叹的白色夜叉 君 白 羽 伸 願你展開白羽雙翅 愿你展开白色双翅 護火龍 x1 怨嘆的白色夜叉 悲叹的白色夜叉 願你展開白羽雙翅 愿你展开白色双翅",
+      "path": "/zh-Hant/data/quests/bu-mie-zhi-wang-ying-fou-cun-zai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/bu-mie-zhi-wang-ying-fou-cun-zai",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "布隨風飛",
+      "summary": "影蜘蛛 狩 場 影蜘蛛的狩獵場 影蜘蛛的猎场 大地女王 擁 大地眾生皆為臣民 众生臣服大地女王 風鋏龍 x1 影蜘蛛的狩獵場 影蜘蛛的猎场 大地女王 大地眾生皆為臣民 众生臣服大地女王",
+      "path": "/zh-Hant/data/quests/bu-sui-feng-fei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/bu-sui-feng-fei",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "殘酷的閃光",
+      "summary": "被認為是沙地頂級捕食者的魔物和白之孤影在風拂山出現了 目前白之孤影已經逃走 留下的頂級捕食者看起來很暴躁 為了確保村莊的安全 請討伐該魔物 熱 心 爆発寸前 赤誠之心即將爆發 热情即将爆发 沈黙 狡猾 暗殺者 調 沉默 暗殺者的旋律 暗杀者的旋律 被認為是沙地頂級捕食者的魔物和白之孤影在風拂山出現了 目前白之孤影已經逃走 留下的頂級捕食者看起來很暴躁 為了確保村莊的安全 請討伐該魔物 煌雷龍 x1 爆発寸前 赤誠之心即將爆發 热情即将爆发 暗殺者的旋律 暗杀者的旋律 被認為是沙地頂級捕食者的魔物和白之孤影在風拂山出現了 目前白之孤影已經逃走 留下的頂級捕食者看起來很暴躁 為了確保村莊的安全 請討伐該魔物",
+      "path": "/zh-Hant/data/quests/can-ku-de-shan-guang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/can-ku-de-shan-guang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "藏於虛空的獵人",
+      "summary": "龍都裡不但有護龍 還有捕食護龍的魔物 構成了生態系統 令人難以置信 為了進一步調查龍都內的生態與確保安全 請去狩獵那頭護龍捕食者 古都 番人 古都的守衛 古都的守卫 孤独 影 白 夢 孤獨之影的蒼白夢境 孤独之影的白色梦境 龍都裡不但有護龍 還有捕食護龍的魔物 構成了生態系統 令人難以置信 為了進一步調查龍都內的生態與確保安全 請去狩獵那頭護龍捕食者 暗器鱆 x1 古都的守衛 古都的守卫 孤獨之影的蒼白夢境 孤独之影的白色梦境",
+      "path": "/zh-Hant/data/quests/cang-yu-xu-kong-de-lie-ren",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/cang-yu-xu-kong-de-lie-ren",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "沉默",
+      "summary": "狡猾 暗殺者的旋律 殘酷的閃光 的狩獵委託 暗殺者的旋律 是你啊 大蜘蛛 這樣啊 這就是等待我的死亡啊 中略 不 我還是想活下去 啊 來者可是新的死神 還是我的救星 哪邊會選中我 就交給命運決定吧 影蜘蛛 x1 殘酷的閃光 的狩獵委託 慈悲無 閃光 殘酷的閃光 残酷的闪光 狩猟依頼 的狩獵委託 狩猎的委托 狡猾 暗殺者的旋律 是你啊 大蜘蛛 這樣啊 這就是等待我的死亡啊 中略 不 我還是想活下去 啊 來者可是新的死神 還是我的救星 哪邊會選中我 就交給命運決定吧 影蜘蛛 x1",
+      "path": "/zh-Hant/data/quests/chen-mo-jiao-hua-an-sha-zhe-de-xuan-lu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/chen-mo-jiao-hua-an-sha-zhe-de-xuan-lu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "赤誠之心即將爆發",
+      "summary": "那個油氏族的少女很可能已經闖入了魔物棲息地 為了搜尋她與確保周圍的安全 水底 宴 水底的宴會 水底的宴会 慈悲無 閃光 殘酷的閃光 残酷的闪光 那個油氏族的少女很可能已經闖入了魔物棲息地 為了搜尋她與確保周圍的安全 請狩獵 沼噴龍 x1 水底的宴會 水底的宴会 殘酷的閃光 残酷的闪光 那個油氏族的少女很可能已經闖入了魔物棲息地 為了搜尋她與確保周圍的安全",
+      "path": "/zh-Hant/data/quests/chi-cheng-zhi-xin-ji-jiang-bao-fa",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/chi-cheng-zhi-xin-ji-jiang-bao-fa",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "臭事傳千里",
+      "summary": "永遠 眠 誘 花 永世沉睡之花 永世沉眠之花 砂 竜 大海 知 沙底之龍焉知大海之廣 沙底之龙焉知大海之广 桃毛獸王 x1 永世沉睡之花 永世沉眠之花 沙底之龍焉知大海之廣 沙底之龙焉知大海之广",
+      "path": "/zh-Hant/data/quests/chou-shi-chuan-qian-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/chou-shi-chuan-qian-li",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "大地眾生皆為臣民",
+      "summary": "雌火龍 x1 一反風靡 布隨風飛 迎风招展 怪毒 怪毒之亂 毒怪骚动 一反風靡 布隨風飛 迎风招展 怪毒 怪毒之亂 毒怪骚动 雌火龍 x1 一反風靡 布隨風飛 迎风招展 怪毒之亂 毒怪骚动",
+      "path": "/zh-Hant/data/quests/da-di-zhong-sheng-jie-wei-chen-min",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/da-di-zhong-sheng-jie-wei-chen-min",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "的狩獵委託",
+      "summary": "飛鳥隊的發燒了 為了保證全部人能安全回到阿茲茲 沈黙 狡猾 暗殺者 調 沉默 暗殺者的旋律 暗杀者的旋律 激熱 滾燙的 狂热的 飛鳥隊的發燒了 為了保證全部人能安全回到阿茲茲 請狩獵 風鋏龍 x1 暗殺者的旋律 暗杀者的旋律 飛鳥隊的發燒了 為了保證全部人能安全回到阿茲茲",
+      "path": "/zh-Hant/data/quests/de-shou-lie-wei-tuo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/de-shou-lie-wei-tuo",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "的瓦斯爆炸",
+      "summary": "沼噴龍 x1 襲 来 波衣 波衣來襲 波衣来袭 襲 来 波衣 波衣來襲 波衣来袭 行進曲 進行曲 进行曲 沼噴龍 x1 波衣來襲 波衣来袭",
+      "path": "/zh-Hant/data/quests/de-wa-si-bao-zha",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/de-wa-si-bao-zha",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "毒彩噴發",
+      "summary": "砂 竜 大海 知 沙底之龍焉知大海之廣 沙底之龙焉知大海之广 影蜘蛛 狩 場 影蜘蛛的狩獵場 影蜘蛛的猎场 沼噴龍 x1 沙底之龍焉知大海之廣 沙底之龙焉知大海之广 影蜘蛛的狩獵場 影蜘蛛的猎场",
+      "path": "/zh-Hant/data/quests/du-cai-pen-fa",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/du-cai-pen-fa",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "斷崖也有蟲子",
+      "summary": "飛来 翩然而至 翩然而至 赫猿 咆哮 赫猿的咆哮 赫猿咆哮 翩然而至 翩然而至 赫猿的咆哮 赫猿咆哮 翩然而至 翩然而至 赫猿的咆哮 赫猿咆哮 翩然而至 翩然而至 赫猿的咆哮 赫猿咆哮",
+      "path": "/zh-Hant/data/quests/duan-ya-ye-you-chong-zi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/duan-ya-ye-you-chong-zi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "對立的秩序",
+      "summary": "暗器鱆 x3 x1 x9 鬼哭白啾 鬼哭白嚎 鬼哭白嚎 狩猟 鬼哭白啾 鬼哭白嚎 鬼哭白嚎 狩猟 狩獵 狩猎 暗器鱆 x3 x1 x9 鬼哭白啾 鬼哭白嚎 鬼哭白嚎",
+      "path": "/zh-Hant/data/quests/dui-li-de-zhi-xu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/dui-li-de-zhi-xu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "緋紅森林也有蟲子",
+      "summary": "銳棘集團 沙海綿延起伏 銳棘集團 尖锐集团 砂海 沙海綿延起伏 沙海起伏 銳棘集團 尖锐集团 沙海綿延起伏 沙海起伏 銳棘集團 尖锐集团 砂海 沙海綿延起伏 沙海起伏 銳棘集團 尖锐集团 沙海綿延起伏 沙海起伏",
+      "path": "/zh-Hant/data/quests/fei-hong-sen-lin-ye-you-chong-zi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/fei-hong-sen-lin-ye-you-chong-zi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "緋紅舞台與尖銳花刺",
+      "summary": "火花散 狩猟 火花四濺的狩獵 火花四溅的狩猎 追 払 趕跑 驱逐 你 妳 刺花蜘蛛 x1 x3 刺花蜘蛛 火花四濺的狩獵 火花四溅的狩猎",
+      "path": "/zh-Hant/data/quests/fei-hong-wu-tai-yu-jian-rui-hua-ci",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/fei-hong-wu-tai-yu-jian-rui-hua-ci",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "瘋狂的影之旋律",
+      "summary": "美麗 舞 花雷 翩翩起舞的薔薇與雷電 美丽舞动的花与雷 黒 衣 纏 竜 身披黑衣之龍 身披黑衣的龙 你 妳 影蜘蛛 x1 翩翩起舞的薔薇與雷電 美丽舞动的花与雷 身披黑衣之龍 身披黑衣的龙",
+      "path": "/zh-Hant/data/quests/feng-kuang-de-ying-zhi-xuan-lu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/feng-kuang-de-ying-zhi-xuan-lu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "豐收期的來客",
+      "summary": "命 鎖 生命之鏈 生命之链 断崖断絶 往 凍土 主 縱橫斷崖的凍土之主 纵横断崖的冻土之主 你 妳 怪鳥 x1 生命之鏈 生命之链 断崖断絶 縱橫斷崖的凍土之主 纵横断崖的冻土之主",
+      "path": "/zh-Hant/data/quests/feng-shou-qi-de-lai-ke",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/feng-shou-qi-de-lai-ke",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "趕跑",
+      "summary": "吾等的蜂蜜山遭到巨物打擾 其桃色毛相當優異 但是其煙不可聞 實在不可聞 只要爾等趕跑巨物 吾等寬大 小房子就還給爾等 桃毛獸王 x1 x3 桃毛獸王 緋紅舞台與尖銳花刺 红舞台与花之刺 沙海原的 沙海原的 吾等的蜂蜜山遭到巨物打擾 其桃色毛相當優異 但是其煙不可聞 實在不可聞 只要爾等趕跑巨物 吾等寬大 小房子就還給爾等",
+      "path": "/zh-Hant/data/quests/gan-pao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/gan-pao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "古都的守衛",
+      "summary": "氷鎖 試練 冰鎖的試煉 冰锁试炼 狩人 虚空 潜 藏於虛空的獵人 潜于虚空的猎人 你 妳 護兇爪龍 x1 護兇爪龍 冰鎖的試煉 冰锁试炼 藏於虛空的獵人 潜于虚空的猎人",
+      "path": "/zh-Hant/data/quests/gu-du-de-shou-wei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/gu-du-de-shou-wei",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "孤獨之影的蒼白夢境",
+      "summary": "狩人 虚空 潜 藏於虛空的獵人 潜于虚空的猎人 護竜 究極護龍 究极护龙 你 妳 討伐 護鎖刃龍 x1 護鎖刃龍 藏於虛空的獵人 潜于虚空的猎人 究極護龍 究极护龙",
+      "path": "/zh-Hant/data/quests/gu-du-zhi-ying-de-cang-bai-meng-jing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/gu-du-zhi-ying-de-cang-bai-meng-jing",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "怪毒之亂",
+      "summary": "毒怪鳥 x1 大地女王 擁 大地眾生皆為臣民 众生臣服大地女王 去淨化幽鬼吧 祓除幽鬼 大地女王 擁 大地眾生皆為臣民 众生臣服大地女王 幽鬼祓 行 去淨化幽鬼吧 祓除幽鬼 毒怪鳥 x1 大地女王 大地眾生皆為臣民 众生臣服大地女王 去淨化幽鬼吧 祓除幽鬼",
+      "path": "/zh-Hant/data/quests/guai-du-zhi-luan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/guai-du-zhi-luan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "鬼哭白嚎",
+      "summary": "虚王 凱旋 虛王凱旋 虚王凯旋 相反 秩序 對立的秩序 对立的秩序 護兇爪龍 x3 x1 x9 虛王凱旋 虚王凯旋 對立的秩序 对立的秩序",
+      "path": "/zh-Hant/data/quests/gui-ku-bai-hao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/gui-ku-bai-hao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "滾燙的",
+      "summary": "大地脊骨的損傷部分修理好了 令出現異常天氣 數頭亢奮狀態的正逼近阿茲茲 為保護阿茲茲 請狩獵牠們 赫猿獸 x1 狩猟依頼 的狩獵委託 狩猎的委托 焦慮的開端 不祥的邂逅 大地脊骨的損傷部分修理好了 令出現異常天氣 數頭亢奮狀態的正逼近阿茲茲 為保護阿茲茲 請狩獵牠們",
+      "path": "/zh-Hant/data/quests/gun-tang-de",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/gun-tang-de",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "赫猿的咆哮",
+      "summary": "赫猿獸 x1 断崖 虫 斷崖也有蟲子 断崖亦有虫 匍匐而至的火海 匍匐蔓延之火 断崖 虫 斷崖也有蟲子 断崖亦有虫 這 焔 匍匐而至的火海 匍匐蔓延之火 赫猿獸 x1 斷崖也有蟲子 断崖亦有虫 匍匐而至的火海 匍匐蔓延之火",
+      "path": "/zh-Hant/data/quests/he-yuan-de-pao-xiao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/he-yuan-de-pao-xiao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "黑炎再次焚燒大地",
+      "summary": "黑炎那傢伙 已經來到村子的附近了 牠吞噬了山谷的火焰 現在已經變得比上次還要更加熾熱 不是我們能應付的 波音 森 越 跨越森林的波浪聲 漫过森林的波浪声 夢 覚 夢醒時分 梦醒时分 黑炎那傢伙 已經來到村子的附近了 中略 牠吞噬了山谷的火焰 現在已經變得比上次還要更加熾熱 黑炎 不是我們能應付的 獄焰鱆 x1 跨越森林的波浪聲 漫过森林的波浪声 夢醒時分 梦醒时分 黑炎那傢伙 已經來到村子的附近了 牠吞噬了山谷的火焰 現在已經變得比上次還要更加熾熱 不是我們能應付的",
+      "path": "/zh-Hant/data/quests/hei-yan-zai-ci-fen-shao-da-di",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/hei-yan-zai-ci-fen-shao-da-di",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "轟天煌雷",
+      "summary": "我們在離村子不遠的高台上發現了 就算離遠也可以看到牠在發狂 所以為了以防萬一 我們就請村民們提前去避難了 断崖断絶 往 凍土 主 縱橫斷崖的凍土之主 纵横断崖的冻土之主 波音 森 越 跨越森林的波浪聲 漫过森林的波浪声 我們在離村子不遠的高台上發現了 中略 就算離遠也可以看到牠在發狂 嗯 所以為了以防萬一 我們就請村民們提前去避難了 煌雷龍 x1 断崖断絶 縱橫斷崖的凍土之主 纵横断崖的冻土之主 跨越森林的波浪聲 漫过森林的波浪声 我們在離村子不遠的高台上發現了 就算離遠也可以看到牠在發狂 所以為了以防萬一 我們就請村民們提前去避難了",
+      "path": "/zh-Hant/data/quests/hong-tian-huang-lei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/hong-tian-huang-lei",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "黃塵萬丈",
+      "summary": "霸主降臨 重量級 重量級液膜 重量级液纱 奈落 嗤笑 來自地獄的嘲笑 来自地狱的嗤笑 霸主降臨 煌雷龍 x1 重量級液膜 重量级液纱 來自地獄的嘲笑 来自地狱的嗤笑 霸主降臨",
+      "path": "/zh-Hant/data/quests/huang-chen-wan-zhang-ba-zhu-jiang-lin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/huang-chen-wan-zhang-ba-zhu-jiang-lin",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "灰白王者",
+      "summary": "你 妳 護火龍 x1 不穏 開闢 焦慮的開端 不祥的邂逅 撃退 不穏 開闢 焦慮的開端 不祥的邂逅 撃退 擊退 击退 你 妳 護火龍 x1 焦慮的開端 不祥的邂逅",
+      "path": "/zh-Hant/data/quests/hui-bai-wang-zhe",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/hui-bai-wang-zhe",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "火花四濺的狩獵",
+      "summary": "我們發現了支援部隊發出的救難信號 已確認是盯上了貨車上的食物 再這樣下去牠可能會追著肉塊 跟大家一起跑到大本營 必須阻止牠 赤 舞台 花 刺 緋紅舞台與尖銳花刺 红舞台与花之刺 我們發現了支援部隊發出的救難信號 已確認是盯上了貨車上的食物 再這樣下去牠可能會追著肉塊 跟大家一起跑到大本營 必須阻止牠 炎尾龍 x1 x3 緋紅舞台與尖銳花刺 红舞台与花之刺 我們發現了支援部隊發出的救難信號 已確認是盯上了貨車上的食物 再這樣下去牠可能會追著肉塊 跟大家一起跑到大本營 必須阻止牠",
+      "path": "/zh-Hant/data/quests/huo-hua-si-jian-de-shou-lie",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/huo-hua-si-jian-de-shou-lie",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "火焰之尾追逐戰",
+      "summary": "蛙鳴蛙噪 蛙鳴蛙噪 蛙鸣蛙噪 永遠 眠 誘 花 永世沉睡之花 永世沉眠之花 炎尾龍 x1 蛙鳴蛙噪 蛙鳴蛙噪 蛙鸣蛙噪 永世沉睡之花 永世沉眠之花",
+      "path": "/zh-Hant/data/quests/huo-yan-zhi-wei-zhui-zhu-zhan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/huo-yan-zhi-wei-zhui-zhu-zhan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "擊退",
+      "summary": "你 妳 護鎖刃龍 x1 護鎖刃龍 白 王者 灰白王者 白色王者 冰鎖的試煉 冰锁试炼 白 王者 灰白王者 白色王者 氷鎖 試練 冰鎖的試煉 冰锁试炼 你 妳 護鎖刃龍 x1 護鎖刃龍 灰白王者 白色王者 冰鎖的試煉 冰锁试炼",
+      "path": "/zh-Hant/data/quests/ji-tui",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/ji-tui",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "焦慮的開端",
+      "summary": "我們在搜索守護者村莊時遇到了白色的 那看起來確實是 但行為卻顯得相當異常 那真的是我們知道的魔物嗎 激熱 滾燙的 狂热的 白 王者 灰白王者 白色王者 我們在搜索守護者村莊時遇到了白色的 那看起來確實是 但行為卻顯得相當異常 那真的是我們知道的魔物嗎 護闢獸 x1 灰白王者 白色王者",
+      "path": "/zh-Hant/data/quests/jiao-lu-de-kai-duan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/jiao-lu-de-kai-duan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "進行曲",
+      "summary": "爆発 的瓦斯爆炸 的瓦斯爆炸 平沙万里 統 閃 君臨萬里平沙的閃光 君临万里平沙的闪光 爆発 的瓦斯爆炸 的瓦斯爆炸 平沙万里 統 閃 君臨萬里平沙的閃光 君临万里平沙的闪光",
+      "path": "/zh-Hant/data/quests/jin-xing-qu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/jin-xing-qu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "究極護龍",
+      "summary": "攀在龍燈上陷入千年沉眠的護龍即將甦醒 我依獵人自身的意願 開始討伐 孤独 影 白 夢 孤獨之影的蒼白夢境 孤独之影的白色梦境 黒炎 日静 訪 某日悄然降臨的黑炎 悄然而来的黑炎 攀在龍燈上陷入千年沉眠的護龍即將甦醒 我依獵人自身的意願 開始討伐 白熾龍 x1 孤獨之影的蒼白夢境 孤独之影的白色梦境 某日悄然降臨的黑炎 悄然而来的黑炎 攀在龍燈上陷入千年沉眠的護龍即將甦醒 我依獵人自身的意願 開始討伐",
+      "path": "/zh-Hant/data/quests/jiu-ji-hu-long",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/jiu-ji-hu-long",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "君臨萬里平沙的閃光",
+      "summary": "煌雷龍 x1 行進曲 進行曲 进行曲 影 踊 舞動的影子 舞动之影 行進曲 進行曲 进行曲 影 踊 舞動的影子 舞动之影 煌雷龍 x1 舞動的影子 舞动之影",
+      "path": "/zh-Hant/data/quests/jun-lin-wan-li-ping-sha-de-shan-guang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/jun-lin-wan-li-ping-sha-de-shan-guang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "跨越森林的波浪聲",
+      "summary": "流好多水 森林都是水 森林霸主 變得好奇怪 更多的水 轟 煌雷 轟天煌雷 煌雷轰鸣 黒炎 再 地 焦 黑炎再次焚燒大地 再次焚烧大地的黑炎 下雨 流好多水 森林都是水 森林霸主 變得好奇怪 大鬧 更多的水 一直流 中略 夥伴 合作 知道了 一起 做吧 波衣龍 x1 轟天煌雷 煌雷轰鸣 黑炎再次焚燒大地 再次焚烧大地的黑炎 流好多水 森林都是水 森林霸主 變得好奇怪 更多的水",
+      "path": "/zh-Hant/data/quests/kua-yue-sen-lin-de-bo-lang-sheng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/kua-yue-sen-lin-de-bo-lang-sheng",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "狂想曲",
+      "summary": "利棘幫派 狩獵闢獸 利棘幫派 狩獵闢獸 利棘幫派 利锯集团 闢獣 狩猟 狩獵闢獸 狩猎辟兽 利棘幫派 利锯集团 狩獵闢獸 狩猎辟兽 利棘幫派 利锯集团 狩獵闢獸 狩猎辟兽 利棘幫派 利锯集团 狩獵闢獸 狩猎辟兽",
+      "path": "/zh-Hant/data/quests/kuang-xiang-qu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/kuang-xiang-qu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "來自地獄的嘲笑",
+      "summary": "黄塵万丈 主来 黃塵萬丈 霸主降臨 黄尘万丈 霸主降临 狩人 渡 地 霜降 獵人欲赴之地 天降綿綿霜雪 猎人欲往处 霜降寒彻骨 獄焰鱆 x1 黄塵万丈 黃塵萬丈 霸主降臨 黄尘万丈 霸主降临 獵人欲赴之地 天降綿綿霜雪 猎人欲往处 霜降寒彻骨",
+      "path": "/zh-Hant/data/quests/lai-zi-di-yu-de-chao-xiao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/lai-zi-di-yu-de-chao-xiao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "利棘幫派",
+      "summary": "誓言永不分離 狂想曲 誓言永不分離 二度 離 誓 立 誓言永不分離 起誓永不分离 誓言永不分離 起誓永不分离 誓言永不分離 起誓永不分离 誓言永不分離 起誓永不分离",
+      "path": "/zh-Hant/data/quests/li-ji-bang-pai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/li-ji-bang-pai",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "獵人欲赴之地",
+      "summary": "天降綿綿霜雪 奈落 嗤笑 來自地獄的嘲笑 来自地狱的嗤笑 深淵 霧 昏 生 蝕 深淵之霧暗蝕生靈 深渊之雾侵蚀生灵 天降綿綿霜雪 凍峰龍 x1 來自地獄的嘲笑 来自地狱的嗤笑 深淵之霧暗蝕生靈 深渊之雾侵蚀生灵 天降綿綿霜雪",
+      "path": "/zh-Hant/data/quests/lie-ren-yu-fu-zhi-di-tian-jiang-mian-mian-shuang-xue",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/lie-ren-yu-fu-zhi-di-tian-jiang-mian-mian-shuang-xue",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "美麗的玫瑰都有",
+      "summary": "歯応 求 砂原 去沙原追求手感 挑战在沙原 桃色騒動 桃色騷動 粉色骚动 刺花蜘蛛 x1 x3 去沙原追求手感 挑战在沙原 桃色騒動 桃色騷動 粉色骚动",
+      "path": "/zh-Hant/data/quests/mei-li-de-mei-gui-du-you",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/mei-li-de-mei-gui-du-you",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "夢醒時分",
+      "summary": "黒炎 再 地 焦 黑炎再次焚燒大地 再次焚烧大地的黑炎 美麗 舞 花雷 翩翩起舞的薔薇與雷電 美丽舞动的花与雷 你 妳 討伐 鎖刃龍 x1 黑炎再次焚燒大地 再次焚烧大地的黑炎 翩翩起舞的薔薇與雷電 美丽舞动的花与雷",
+      "path": "/zh-Hant/data/quests/meng-xing-shi-fen",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/meng-xing-shi-fen",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "某日悄然降臨的黑炎",
+      "summary": "異常天氣導致大火窯失控 還從深處引來了形似黑色火焰的魔物 為了守護阿茲茲 請狩獵黑炎 護竜 究極護龍 究极护龙 頂 座 闢獸群的顛峰 群之首 異常天氣導致大火窯失控 還從深處引來了形似黑色火焰的魔物 為了守護阿茲茲 請狩獵黑炎 獄焰鱆 x1 究極護龍 究极护龙 闢獸群的顛峰 異常天氣導致大火窯失控 還從深處引來了形似黑色火焰的魔物 為了守護阿茲茲 請狩獵黑炎",
+      "path": "/zh-Hant/data/quests/mou-ri-qiao-ran-jiang-lin-de-hei-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/mou-ri-qiao-ran-jiang-lin-de-hei-yan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "闢獸群的顛峰",
+      "summary": "的群體侵襲了庫納法村 若能成功狩獵那頭特別大的頭領個體 群體應該就會潰散了 為了救助民眾 請狩獵頭領個體 黒炎 日静 訪 某日悄然降臨的黑炎 悄然而来的黑炎 用心 小心 的群體侵襲了庫納法村 若能成功狩獵那頭特別大的頭領個體 群體應該就會潰散了 為了救助民眾 請狩獵頭領個體 闢獸 x1 某日悄然降臨的黑炎 悄然而来的黑炎 的群體侵襲了庫納法村 若能成功狩獵那頭特別大的頭領個體 群體應該就會潰散了 為了救助民眾 請狩獵頭領個體",
+      "path": "/zh-Hant/data/quests/pi-shou-qun-de-dian-feng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/pi-shou-qun-de-dian-feng",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "翩翩起舞的薔薇與雷電",
+      "summary": "在歷戰的影響下 從繭中誕生 這也是龍都遺跡生態系的自然面貌嗎 無論如何 公會的職責始終如一 就是狩獵那兩頭魔物 夢 覚 夢醒時分 梦醒时分 狂 影 調 瘋狂的影之旋律 疯狂的影之旋律 在歷戰的影響下 從繭中誕生 這也是龍都遺跡生態系的自然面貌嗎 無論如何 公會的職責始終如一 就是狩獵那兩頭魔物 護雷顎龍 x3 x1 x9 刺花蜘蛛 夢醒時分 梦醒时分 瘋狂的影之旋律 疯狂的影之旋律 在歷戰的影響下 從繭中誕生 這也是龍都遺跡生態系的自然面貌嗎 無論如何 公會的職責始終如一 就是狩獵那兩頭魔物",
+      "path": "/zh-Hant/data/quests/pian-pian-qi-wu-de-qiang-wei-yu-lei-dian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/pian-pian-qi-wu-de-qiang-wei-yu-lei-dian",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "翩然而至",
+      "summary": "風鋏龍 x1 影 踊 舞動的影子 舞动之影 斷崖也有蟲子 断崖亦有虫 影 踊 舞動的影子 舞动之影 断崖 虫 斷崖也有蟲子 断崖亦有虫 風鋏龍 x1 舞動的影子 舞动之影 斷崖也有蟲子 断崖亦有虫",
+      "path": "/zh-Hant/data/quests/pian-ran-er-zhi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/pian-ran-er-zhi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "匍匐而至的火海",
+      "summary": "獄焰鱆 x1 赫猿 咆哮 赫猿的咆哮 赫猿咆哮 嘆 白夜叉 怨嘆的白色夜叉 悲叹的白色夜叉 赫猿 咆哮 赫猿的咆哮 赫猿咆哮 嘆 白夜叉 怨嘆的白色夜叉 悲叹的白色夜叉 獄焰鱆 x1 赫猿的咆哮 赫猿咆哮 怨嘆的白色夜叉 悲叹的白色夜叉",
+      "path": "/zh-Hant/data/quests/pu-fu-er-zhi-de-huo-hai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/pu-fu-er-zhi-de-huo-hai",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "普天之下皆為王土",
+      "summary": "雪獅子遊山 雪獅子王遊山 雪狮子王游山 頑固一徹 石頭 頑固不化硬腦筋 磐头硬角 火龍 x3 x1 x9 雪獅子遊山 雪獅子王遊山 雪狮子王游山 頑固一徹 頑固不化硬腦筋 磐头硬角",
+      "path": "/zh-Hant/data/quests/pu-tian-zhi-xia-jie-wei-wang-tu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/pu-tian-zhi-xia-jie-wei-wang-tu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "去淨化幽鬼吧",
+      "summary": "怪毒 怪毒之亂 毒怪骚动 二度 離 誓 立 誓言永不分離 起誓永不分离 怪毒之亂 毒怪骚动 誓言永不分離 起誓永不分离 怪毒之亂 毒怪骚动 誓言永不分離 起誓永不分离 怪毒之亂 毒怪骚动 誓言永不分離 起誓永不分离",
+      "path": "/zh-Hant/data/quests/qu-jing-hua-you-gui-ba",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/qu-jing-hua-you-gui-ba",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "去沙原追求手感",
+      "summary": "無不起火 美麗的玫瑰都有 火元 無不起火 无不起火 綺麗 花 美麗的玫瑰都有 带刺的蔷薇 無不起火 无不起火 美麗的玫瑰都有 带刺的蔷薇 無不起火 无不起火 美麗的玫瑰都有 带刺的蔷薇 無不起火 无不起火 美麗的玫瑰都有 带刺的蔷薇",
+      "path": "/zh-Hant/data/quests/qu-sha-yuan-zhui-qiu-shou-gan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/qu-sha-yuan-zhui-qiu-shou-gan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "銳棘集團",
+      "summary": "桃色騒動 桃色騷動 粉色骚动 緋 森 虫 緋紅森林也有蟲子 绯红森林亦有虫 桃色騒動 桃色騷動 粉色骚动 緋 森 虫 緋紅森林也有蟲子 绯红森林亦有虫",
+      "path": "/zh-Hant/data/quests/rui-ji-ji-tuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/rui-ji-ji-tuan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "森林的暴徒",
+      "summary": "闢獸 x1 砂海 沙海綿延起伏 沙海起伏 襲 来 波衣 波衣來襲 波衣来袭 砂海 沙海綿延起伏 沙海起伏 襲 来 波衣 波衣來襲 波衣来袭 闢獸 x1 沙海綿延起伏 沙海起伏 波衣來襲 波衣来袭",
+      "path": "/zh-Hant/data/quests/sen-lin-de-bao-tu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/sen-lin-de-bao-tu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "沙底之龍焉知大海之廣",
+      "summary": "屁 放 尻 振 臭事傳千里 臭事传千里 噴 出 毒彩 毒彩噴發 毒彩喷发 沙海龍 x1 臭事傳千里 臭事传千里 毒彩噴發 毒彩喷发",
+      "path": "/zh-Hant/data/quests/sha-di-zhi-long-yan-zhi-da-hai-zhi-guang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/sha-di-zhi-long-yan-zhi-da-hai-zhi-guang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "沙海綿延起伏",
+      "summary": "沙海龍 x1 緋 虫 緋紅森林也有蟲子 绯红森林亦有虫 森林的暴徒 森林暴徒 緋 森 虫 緋紅森林也有蟲子 绯红森林亦有虫 無法者 森林的暴徒 森林暴徒 沙海龍 x1 緋紅森林也有蟲子 绯红森林亦有虫 森林的暴徒 森林暴徒",
+      "path": "/zh-Hant/data/quests/sha-hai-mian-yan-qi-fu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/sha-hai-mian-yan-qi-fu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "沙海原的",
+      "summary": "衝鋒隊的隊長為了甩掉的追擊而受傷 還記住了他的氣味 可能會襲擊庫納法村 為了確保居民和村莊的安全 追 払 趕跑 驱逐 水底 宴 水底的宴會 水底的宴会 衝鋒隊的隊長為了甩掉的追擊而受傷 還記住了他的氣味 可能會襲擊庫納法村 為了確保居民和村莊的安全 請狩獵 沙海龍 x1 x3 水底的宴會 水底的宴会 衝鋒隊的隊長為了甩掉的追擊而受傷 還記住了他的氣味 可能會襲擊庫納法村 為了確保居民和村莊的安全",
+      "path": "/zh-Hant/data/quests/sha-hai-yuan-de",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/sha-hai-yuan-de",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "沙原也有蟲子",
+      "summary": "小心 無不起火 無不起火 用心 火元 無不起火 无不起火 無不起火 无不起火 無不起火 无不起火 無不起火 无不起火",
+      "path": "/zh-Hant/data/quests/sha-yuan-ye-you-chong-zi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/sha-yuan-ye-you-chong-zi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "身披黑衣之龍",
+      "summary": "已經確認到冰霧斷崖有棲息 多虧和先出發幫忙 我們成功找到了牠 牠會對周遭會帶來多大影響毋庸置疑 因此公會必須總動員應對 狂 影 調 瘋狂的影之旋律 疯狂的影之旋律 已經確認到冰霧斷崖有棲息 多虧和先出發幫忙 我們成功找到了牠 牠會對周遭會帶來多大影響毋庸置疑 因此公會必須總動員應對 黑蝕龍 x1 雪獅子王 x3 x9 瘋狂的影之旋律 疯狂的影之旋律 已經確認到冰霧斷崖有棲息 多虧和先出發幫忙 我們成功找到了牠 牠會對周遭會帶來多大影響毋庸置疑 因此公會必須總動員應對",
+      "path": "/zh-Hant/data/quests/shen-pi-hei-yi-zhi-long",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/shen-pi-hei-yi-zhi-long",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "深淵之霧暗蝕生靈",
+      "summary": "狩人 渡 地 霜降 獵人欲赴之地 天降綿綿霜雪 猎人欲往处 霜降寒彻骨 白 小羽根 白色小羽毛 白色小羽毛 黑蝕龍 x1 獵人欲赴之地 天降綿綿霜雪 猎人欲往处 霜降寒彻骨 白色小羽毛 白色小羽毛",
+      "path": "/zh-Hant/data/quests/shen-yuan-zhi-wu-an-shi-sheng-ling",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/shen-yuan-zhi-wu-an-shi-sheng-ling",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "生命之鏈",
+      "summary": "鎖刃龍 x1 白 小羽根 白色小羽毛 白色小羽毛 豊穣 集 豐收期的來客 丰饶期的来客 白 小羽根 白色小羽毛 白色小羽毛 豊穣 集 者 豐收期的來客 丰饶期的来客 鎖刃龍 x1 白色小羽毛 白色小羽毛 豐收期的來客 丰饶期的来客",
+      "path": "/zh-Hant/data/quests/sheng-ming-zhi-lian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/sheng-ming-zhi-lian",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "誓言永不分離",
+      "summary": "去淨化幽鬼吧 利棘幫派 幽鬼祓 行 去淨化幽鬼吧 祓除幽鬼 利棘幫派 利锯集团 去淨化幽鬼吧 祓除幽鬼 利棘幫派 利锯集团 幽鬼祓 行 去淨化幽鬼吧 祓除幽鬼 利棘幫派 利锯集团 去淨化幽鬼吧 祓除幽鬼 利棘幫派 利锯集团",
+      "path": "/zh-Hant/data/quests/shi-yan-yong-bu-fen-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/shi-yan-yong-bu-fen-li",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "狩獵",
+      "summary": "護雷顎龍 x3 x1 x9 相反 秩序 對立的秩序 对立的秩序 斯 山高 鎧 縱使鎧甲厚如山 纵当龙铠厚如山 相反 秩序 對立的秩序 对立的秩序 斯 山高 鎧 縱使鎧甲厚如山 纵当龙铠厚如山 護雷顎龍 x3 x1 x9 對立的秩序 对立的秩序 縱使鎧甲厚如山 纵当龙铠厚如山",
+      "path": "/zh-Hant/data/quests/shou-lie",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/shou-lie",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "狩獵闢獸",
+      "summary": "闢獸 x3 x1 x9 狂想曲 煩悶滅 迦楼羅炎 消滅煩惱的迦樓羅炎 迦楼罗火灭诸般烦恼 狂想曲 煩悶滅 迦楼羅炎 消滅煩惱的迦樓羅炎 迦楼罗火灭诸般烦恼 闢獸 x3 x1 x9 迦楼羅炎 消滅煩惱的迦樓羅炎 迦楼罗火灭诸般烦恼",
+      "path": "/zh-Hant/data/quests/shou-lie-pi-shou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/shou-lie-pi-shou",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "水底的宴會",
+      "summary": "砂海原 沙海原的 沙海原的 熱 心 爆発寸前 赤誠之心即將爆發 热情即将爆发 你 妳 波衣龍 x1 沙海原的 沙海原的 爆発寸前 赤誠之心即將爆發 热情即将爆发",
+      "path": "/zh-Hant/data/quests/shui-di-de-yan-hui",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/shui-di-de-yan-hui",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "桃色騷動",
+      "summary": "桃毛獸王 x1 x3 綺麗 花 美麗的玫瑰都有 带刺的蔷薇 銳棘集團 尖锐集团 綺麗 花 美麗的玫瑰都有 带刺的蔷薇 銳棘集團 尖锐集团 桃毛獸王 x1 x3 美麗的玫瑰都有 带刺的蔷薇 銳棘集團 尖锐集团",
+      "path": "/zh-Hant/data/quests/tao-se-sao-dong",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/tao-se-sao-dong",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "吞噬虛無的觸手",
+      "summary": "暗器鱆 x1 狩猟 蛙鳴蛙噪 蛙鳴蛙噪 蛙鸣蛙噪 狩猟 狩獵 狩猎 蛙鳴蛙噪 蛙鳴蛙噪 蛙鸣蛙噪 暗器鱆 x1 蛙鳴蛙噪 蛙鳴蛙噪 蛙鸣蛙噪",
+      "path": "/zh-Hant/data/quests/tun-shi-xu-wu-de-chu-shou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/tun-shi-xu-wu-de-chu-shou",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "蛙鳴蛙噪",
+      "summary": "虚 喰 腕 吞噬虛無的觸手 吞噬虚无的触手 追 炎 尾 火焰之尾追逐戰 炎尾追逐战 纏蛙 x1 吞噬虛無的觸手 吞噬虚无的触手 火焰之尾追逐戰 炎尾追逐战",
+      "path": "/zh-Hant/data/quests/wa-ming-wa-zao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/wa-ming-wa-zao",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "頑固不化硬腦筋",
+      "summary": "天 王者 下 普天之下皆為王土 普天之下皆为王土 夢食 虫 好 做夢噬夢皆有所愛 亦爱噬梦虫 天 王者 下 普天之下皆為王土 普天之下皆为王土 夢食 虫 好 做夢噬夢皆有所愛 亦爱噬梦虫 普天之下皆為王土 普天之下皆为王土 做夢噬夢皆有所愛 亦爱噬梦虫",
+      "path": "/zh-Hant/data/quests/wan-gu-bu-hua-ying-nao-jin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/wan-gu-bu-hua-ying-nao-jin",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "無不起火",
+      "summary": "炎尾龍 x1 x3 虫 沙原也有蟲子 沙原亦有虫 去沙原追求手感 挑战在沙原 砂原 虫 沙原也有蟲子 沙原亦有虫 歯応 求 去沙原追求手感 挑战在沙原 炎尾龍 x1 x3 沙原也有蟲子 沙原亦有虫 去沙原追求手感 挑战在沙原",
+      "path": "/zh-Hant/data/quests/wu-bu-qi-huo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/wu-bu-qi-huo",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "舞動的影子",
+      "summary": "影蜘蛛 x1 平沙万里 統 閃 君臨萬里平沙的閃光 君临万里平沙的闪光 翩然而至 翩然而至 平沙万里 統 閃 君臨萬里平沙的閃光 君临万里平沙的闪光 飛来 翩然而至 翩然而至 影蜘蛛 x1 平沙万里 君臨萬里平沙的閃光 君临万里平沙的闪光 翩然而至 翩然而至",
+      "path": "/zh-Hant/data/quests/wu-dong-de-ying-zi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/wu-dong-de-ying-zi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "消滅煩惱的迦樓羅炎",
+      "summary": "闢獣 狩猟 狩獵闢獸 狩猎辟兽 白 闢獣大立廻 白色闢獸大激戰 白色辟兽激战 赫猿獸 x3 x1 x9 狩獵闢獸 狩猎辟兽 闢獣大立廻 白色闢獸大激戰 白色辟兽激战",
+      "path": "/zh-Hant/data/quests/xiao-mie-fan-nao-de-jia-lou-luo-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/xiao-mie-fan-nao-de-jia-lou-luo-yan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "小心",
+      "summary": "纏蛙 x1 x3 頂 座 闢獸群的顛峰 群之首 砂原 虫 沙原也有蟲子 沙原亦有虫 頂 座 闢獸群的顛峰 群之首 砂原 虫 沙原也有蟲子 沙原亦有虫 纏蛙 x1 x3 闢獸群的顛峰 沙原也有蟲子 沙原亦有虫",
+      "path": "/zh-Hant/data/quests/xiao-xin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/xiao-xin",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "虛王凱旋",
+      "summary": "白 闢獣大立廻 白色闢獸大激戰 白色辟兽激战 鬼哭白啾 鬼哭白嚎 鬼哭白嚎 護火龍 x3 x1 x9 闢獣大立廻 白色闢獸大激戰 白色辟兽激战 鬼哭白啾 鬼哭白嚎 鬼哭白嚎",
+      "path": "/zh-Hant/data/quests/xu-wang-kai-xuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/xu-wang-kai-xuan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "雪獅子王遊山",
+      "summary": "斯 山高 鎧 縱使鎧甲厚如山 纵当龙铠厚如山 天 王者 下 普天之下皆為王土 普天之下皆为王土 雪獅子王 x3 x1 x9 縱使鎧甲厚如山 纵当龙铠厚如山 普天之下皆為王土 普天之下皆为王土",
+      "path": "/zh-Hant/data/quests/xue-shi-zi-wang-you-shan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/xue-shi-zi-wang-you-shan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "影蜘蛛的狩獵場",
+      "summary": "影蜘蛛 x1 噴 出 毒彩 毒彩噴發 毒彩喷发 一反風靡 布隨風飛 迎风招展 噴 出 毒彩 毒彩噴發 毒彩喷发 一反風靡 布隨風飛 迎风招展 影蜘蛛 x1 毒彩噴發 毒彩喷发 一反風靡 布隨風飛 迎风招展",
+      "path": "/zh-Hant/data/quests/ying-zhi-zhu-de-shou-lie-chang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/ying-zhi-zhu-de-shou-lie-chang",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "永世沉睡之花",
+      "summary": "追 炎 尾 火焰之尾追逐戰 炎尾追逐战 屁 放 尻 振 臭事傳千里 臭事传千里 刺花蜘蛛 x1 火焰之尾追逐戰 炎尾追逐战 臭事傳千里 臭事传千里",
+      "path": "/zh-Hant/data/quests/yong-shi-chen-shui-zhi-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/yong-shi-chen-shui-zhi-hua",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "願你展開白羽雙翅",
+      "summary": "滅 王 不滅之王應否存在 不灭之王应存否 狩猟 狩獵 狩猎 滅 王 不滅之王應否存在 不灭之王应存否 狩猟 狩獵 狩猎 不滅之王應否存在 不灭之王应存否",
+      "path": "/zh-Hant/data/quests/yuan-ni-zhan-kai-bai-yu-shuang-chi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/yuan-ni-zhan-kai-bai-yu-shuang-chi",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "怨嘆的白色夜叉",
+      "summary": "護闢獸 x1 這 焔 匍匐而至的火海 匍匐蔓延之火 滅 王 不滅之王應否存在 不灭之王应存否 這 焔 匍匐而至的火海 匍匐蔓延之火 滅 王 不滅之王應否存在 不灭之王应存否 護闢獸 x1 匍匐而至的火海 匍匐蔓延之火 不滅之王應否存在 不灭之王应存否",
+      "path": "/zh-Hant/data/quests/yuan-tan-de-bai-se-ye-cha",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/yuan-tan-de-bai-se-ye-cha",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "重量級液膜",
+      "summary": "夢食 虫 好 做夢噬夢皆有所愛 亦爱噬梦虫 黄塵万丈 主来 黃塵萬丈 霸主降臨 黄尘万丈 霸主降临 波衣龍 x1 做夢噬夢皆有所愛 亦爱噬梦虫 黄塵万丈 黃塵萬丈 霸主降臨 黄尘万丈 霸主降临",
+      "path": "/zh-Hant/data/quests/zhong-liang-ji-ye-mo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/zhong-liang-ji-ye-mo",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "縱橫斷崖的凍土之主",
+      "summary": "豊穣 集 者 豐收期的來客 丰饶期的来客 轟 煌雷 轟天煌雷 煌雷轰鸣 你 妳 凍峰龍 x1 豐收期的來客 丰饶期的来客 轟天煌雷 煌雷轰鸣",
+      "path": "/zh-Hant/data/quests/zong-heng-duan-ya-de-dong-tu-zhi-zhu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/zong-heng-duan-ya-de-dong-tu-zhi-zhu",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "縱使鎧甲厚如山",
+      "summary": "狩猟 狩獵 狩猎 雪獅子遊山 雪獅子王遊山 雪狮子王游山 鎧龍 x3 x1 x9 狩猟 雪獅子遊山 雪獅子王遊山 雪狮子王游山 狩猟 狩獵 狩猎 雪獅子遊山 雪獅子王遊山 雪狮子王游山 鎧龍 x3 x1 x9 雪獅子遊山 雪獅子王遊山 雪狮子王游山",
+      "path": "/zh-Hant/data/quests/zong-shi-kai-jia-hou-ru-shan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/zong-shi-kai-jia-hou-ru-shan",
+      "category": "quests",
+      "categoryLabel": "任務"
+    },
+    {
+      "name": "做夢噬夢皆有所愛",
+      "summary": "頑固一徹 石頭 頑固不化硬腦筋 磐头硬角 重量級 重量級液膜 重量级液纱 頑固一徹 石頭 頑固不化硬腦筋 磐头硬角 重量級 重量級液膜 重量级液纱 頑固一徹 頑固不化硬腦筋 磐头硬角 重量級液膜 重量级液纱",
+      "path": "/zh-Hant/data/quests/zuo-meng-shi-meng-jie-you-suo-ai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/quests/zuo-meng-shi-meng-jie-you-suo-ai",
+      "category": "quests",
+      "categoryLabel": "任務"
+    }
+  ]
+}

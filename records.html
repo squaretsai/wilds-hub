@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Records | MH Wilds Hub</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <nav class="topbar" aria-label="Main navigation">
+        <a class="brand" href="./index.html" aria-label="Home">
+          <span class="brand-mark">W</span>
+          <span><strong>Wilds Hub</strong><small>&#37197;&#35037;&#33287;&#20663;&#23475;&#32000;&#37636;</small></span>
+        </a>
+        <div class="k-global-search" data-search-root="./">
+          <input type="search" placeholder="&#25628;&#23563;&#25152;&#26377;&#26412;&#27231;&#36039;&#26009;" autocomplete="off" data-global-search-input />
+          <div class="k-search-results" data-global-search-results hidden></div>
+        </div>
+        <div class="nav-links">
+          <a href="./index.html">&#39318;&#38913;</a>
+          <a href="./weapons.html">&#27494;&#22120;&#25915;&#30053;</a>
+          <a href="./database.html">&#36039;&#26009;&#26597;&#35426;</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="records" class="section page-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Saved URLs</p>
+            <h1>&#37197;&#35037;&#33287;&#20663;&#23475;&#32000;&#37636;</h1>
+          </div>
+          <div class="heading-actions">
+            <a class="button small" href="https://mhwilds.wiki-db.com/sim/?hl=zh-hant" target="_blank" rel="noreferrer">&#38283;&#21855;&#37197;&#35037;&#32178;&#31449;</a>
+            <a class="button small" href="https://kuroyonhon.com/mhwilds/d/dame.php" target="_blank" rel="noreferrer">&#38283;&#21855;&#20663;&#23475;&#35336;&#31639;</a>
+            <button class="button small" id="exportRecords" type="button">&#21295;&#20986; JSON</button>
+            <button class="button small danger" id="clearRecords" type="button">&#28165;&#31354;&#32000;&#37636;</button>
+          </div>
+        </div>
+        <form id="recordForm" class="record-form">
+          <label>
+            &#21517;&#31281;
+            <input id="recordName" name="name" placeholder="&#20363;&#22914;&#65306;&#22826;&#20992;&#24369;&#29305;&#30475;&#30772;&#37197;&#35037;" required />
+          </label>
+          <label>
+            &#39006;&#22411;
+            <select id="recordType" name="type">
+              <option value="auto">&#33258;&#21205;&#21028;&#26039;</option>
+              <option value="build">&#37197;&#35037;</option>
+              <option value="damage">&#20663;&#23475;&#35336;&#31639;</option>
+              <option value="other">&#20854;&#20182;</option>
+            </select>
+          </label>
+          <label class="wide">
+            &#32178;&#22336;
+            <input id="recordUrl" name="url" type="url" placeholder="&#36028;&#19978;&#24118;&#21443;&#25976;&#30340;&#23436;&#25972;&#32178;&#22336;" required />
+          </label>
+          <label class="wide">
+            &#20633;&#35387;
+            <input id="recordNote" name="note" placeholder="&#39764;&#29289;&#12289;&#27494;&#22120;&#12289;&#29992;&#36884;&#25110;&#29256;&#26412;&#20633;&#35387;" />
+          </label>
+          <button class="button primary" type="submit">&#20786;&#23384;&#32000;&#37636;</button>
+        </form>
+        <div id="recordMessage" class="inline-message" aria-live="polite"></div>
+        <div class="filters" role="group" aria-label="Record filter">
+          <button class="chip active" type="button" data-record-filter="all">&#20840;&#37096;</button>
+          <button class="chip" type="button" data-record-filter="build">&#37197;&#35037;</button>
+          <button class="chip" type="button" data-record-filter="damage">&#20663;&#23475;</button>
+          <button class="chip" type="button" data-record-filter="other">&#20854;&#20182;</button>
+        </div>
+        <div id="recordList" class="record-list"></div>
+      </section>
+    </main>
+
+    <dialog id="exportDialog">
+      <form method="dialog">
+        <h2>&#32000;&#37636; JSON</h2>
+        <textarea id="exportText" readonly></textarea>
+        <button class="button primary" value="close">&#38364;&#38281;</button>
+      </form>
+    </dialog>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

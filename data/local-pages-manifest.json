@@ -1,0 +1,58 @@
+{
+  "missions": {
+    "list_rows": 99,
+    "detail_pages": 99
+  },
+  "quests": {
+    "list_rows": 86,
+    "detail_pages": 85
+  },
+  "monsters": {
+    "list_rows": 56,
+    "detail_pages": 145
+  },
+  "items": {
+    "list_rows": 761,
+    "detail_pages": 761
+  },
+  "weapons": {
+    "list_rows": 1154,
+    "detail_pages": 1154
+  },
+  "armor-series": {
+    "list_rows": 378,
+    "detail_pages": 189
+  },
+  "skills": {
+    "list_rows": 177,
+    "detail_pages": 177
+  },
+  "decorations": {
+    "list_rows": 361,
+    "detail_pages": 361
+  },
+  "charms": {
+    "list_rows": 185,
+    "detail_pages": 185
+  },
+  "food-skills": {
+    "list_rows": 34,
+    "detail_pages": 34
+  },
+  "palico-weapons": {
+    "list_rows": 73,
+    "detail_pages": 73
+  },
+  "palico-armor": {
+    "list_rows": 169,
+    "detail_pages": 169
+  },
+  "awards": {
+    "list_rows": 50,
+    "detail_pages": 50
+  },
+  "kinsects": {
+    "list_rows": 22,
+    "detail_pages": 21
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "key": "weapons",
+      "label": "武器",
+      "count": 1168,
+      "file": "weapons.json"
+    },
+    {
+      "key": "armor",
+      "label": "防具裝備",
+      "count": 189,
+      "file": "armor.json"
+    },
+    {
+      "key": "skills",
+      "label": "技能",
+      "count": 177,
+      "file": "skills.json"
+    },
+    {
+      "key": "items",
+      "label": "道具",
+      "count": 761,
+      "file": "items.json"
+    },
+    {
+      "key": "quests",
+      "label": "任務",
+      "count": 184,
+      "file": "quests.json"
+    }
+  ]
+}

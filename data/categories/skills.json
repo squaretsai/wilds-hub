@@ -1,0 +1,1423 @@
+{
+  "key": "skills",
+  "label": "技能",
+  "count": 177,
+  "items": [
+    {
+      "name": "暗黑",
+      "summary": "一部 溜 斬 段階以上 攻撃 時 受 一定時間 攻撃力 上 使出第二階段或以上的部分蓄力斬時 自身將受到傷害 另外於一定時間內提升攻擊力 使出第2阶段或以上的部分蓄力斩时 自身将受到伤害 另外在一定时间内提升攻击力 Lv1 發動技能效果 發動後一定時間內無法再次發動 但使出蓄力斬時仍會受到傷害 暗影使者 暗影使者 国 異端 騎士 携 両手剣 己 信念 為 振 刃 暗黒 染 據說是在某國被視為異類之騎士所使用的雙手劍 為了個人信念而揮舞的鋒刃將會染上黑暗 在某国被视为异端的骑士持有的双手剑 为贯彻自身信念 挥舞的锋刃染上黑暗 真 暗影使者 暗影使者 影身 打",
+      "path": "/zh-Hant/data/skills/an-hei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/an-hei",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "暗黑騎士之證",
+      "summary": "協作程式 协作程序 歐米茄共鳴 欧米茄共鸣 暗黒騎士 証 暗黑骑士之证 Lv2 體力計量表有紅色部分時 增加屬性攻擊值 大劍的部分蓄力斬蓄力到第三階段會獲得強化 Lv4 可使用特殊動作 至黑之夜 凶惡輕盔 凶恶轻盔 Lv1 暗黒騎士 呼 騎士 纏 頭防具 己 内 闇 飼 闘 続 者 漆黒 証 暗黑騎士所穿戴的頭部防具 這是馴服自身內心黑暗並不斷戰鬥之人的漆黑證明 被称为 暗黑骑士 的骑士穿戴的头部防具 驯服自身内心黑暗并不断战斗之人的漆黑证明 凶惡胸甲 凶恶胸甲 暗黒騎士 胴防具 名誉 捨 業",
+      "path": "/zh-Hant/data/skills/an-hei-qi-shi-zhi-zheng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/an-hei-qi-shi-zhi-zheng",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "暗器鱆之力",
+      "summary": "火竜 力 火龍之力 火龙之力 鎧竜 守護 鎧龍之守護 铠龙之守护 暗器蛸 暗器蛸之力 Lv2 食用全熟肉等道具後 一定時間內基礎攻擊力+15 Lv4 食用全熟肉等道具後 一定時間內基礎攻擊力+30 暗器鱆頭盔 暗器蛸头盔 Lv1 素材 作 頭防具 闇 活動 暗殺者 好 身 装具 以暗器鱆素材製作的頭部防具 是潛伏於黑暗中活動的刺客喜好的裝備 使用暗器蛸素材制作的头部防具 是隐匿于黑暗中的暗杀者们的最爱 暗器鱆鎧甲 暗器蛸铠甲 Lv1 素材 作 胴防具 長 転用 以暗器鱆素材製作的身體防具 長圍巾不單是防具 還能用作繩索 用途廣泛",
+      "path": "/zh-Hant/data/skills/an-qi-zhang-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/an-qi-zhang-zhi-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "拔刀術",
+      "summary": "技 拔刀行動後 增加一定時間內的會心率 策騎時不會發動 弱点特効 弱點特效 弱点特效 渾身 精神抖擻 精神抖擞 抜刀術 拔刀术 武器出 行動 後 一定時間 会心率 上 騎乗中 発動 拔刀行動後 增加一定時間內的會心率 策騎時不會發動 拔刀行动后 一定时间内提高会心率 骑乘鹭鹰龙时不会发动 Lv1 會心率+50% Lv2 會心率+75% Lv3 會心率+100% 虚無 大剣 虛無大劍 虚无大剑 素材 用 奇抜 模様 曲線 距離感 狂 怪奇",
+      "path": "/zh-Hant/data/skills/ba-dao-shu-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ba-dao-shu-ji",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "拔刀術",
+      "summary": "拔刀术 武器出 攻撃 気絶 誘発 追加 強化 攻撃力 少 上 騎乗中 発動 追加/強化武器拔刀攻擊的昏厥值 並小幅增加該攻擊的攻擊力 策騎時不會發動 追加 强化武器拔刀攻击引起昏厥的能力 攻击力也会小幅提升 骑乘鹭鹰龙时不会发动 Lv1 武器拔刀攻擊的基礎攻擊力+3 並附加少量昏厥值 Lv2 武器拔刀攻擊的基礎攻擊力+5 並附加昏厥值 Lv3 武器拔刀攻擊的基礎攻擊力+7 並附加大量昏厥值 炎尾大劍 炎尾大剑 素材 作成 大剣 握 刀身 着火 機構 組 込 以炎尾龍素材製作的大劍 具特殊構造 只要用力緊握刀柄 刀身就會著火 使用炎尾龙素材制作的大剑",
+      "path": "/zh-Hant/data/skills/ba-dao-shu-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ba-dao-shu-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "霸主的盛怒",
+      "summary": "霸主之愤慨 Lv3 陷入狀態異常時提升攻擊力 凍峰龍頭盔 冻峰龙头盔 Lv1 素材 作 頭防具 亡国 王家 兜 再現 眼差 冷気 宿 以凍峰龍素材製作的頭部防具 此防具重現了亡國王室的頭盔 據說其眼神中蘊含著寒氣 使用冻峰龙素材制作的头部防具 重现了亡国皇室的头盔 据说其眼神中蕴藏寒气 凍峰龍鎧甲 冻峰龙铠甲 Lv1 素材 作 胴防具 復讐心 冷徹 胸 秘 多層装甲 数多 苦難 吸収 以凍峰龍素材製作的身體防具 復仇意志藏於冷酷之心 多層裝甲會吸收眾多苦難 使用冻峰龙素材制作的身体防具 复仇之心冷静地藏于胸中 多层装甲能吸收无数苦难 凍峰龍腕甲 冻峰龙腕甲",
+      "path": "/zh-Hant/data/skills/ba-zhu-de-sheng-nu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ba-zhu-de-sheng-nu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "霸主的自尊",
+      "summary": "霸主之骄傲 Lv3 發動於一定範圍內對同伴生效的效果 如旋律效果 時 一定時間內附加攻擊力上升效果 波衣龍頭盔 波衣龙头盔 Lv1 素材 作 頭防具 羽根飾 加工 身 者 森 意思 伝 以波衣龍素材製作的頭部防具 鰭經加工變成羽毛裝飾 會向穿戴者傳達森林的意志 使用波衣龙素材制作的头部防具 鳍被加工成羽饰 它会将森林的意志传达给佩戴者 波衣龍鎧甲 波衣龙铠甲 胴防具 鱗革 胸 装甲 共 感 以波衣龍素材製作的身體防具 鱗皮經加工變成胸部裝甲 舒適感好比與森林同在 使用波衣龙素材制作的身体防具 鳞皮被加工成胸部装甲 有着仿佛与森林同在的贴身感 波衣龍腕甲 波衣龙腕甲 腕防具 細 石",
+      "path": "/zh-Hant/data/skills/ba-zhu-de-zi-zun",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ba-zhu-de-zi-zun",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "霸主之魂",
+      "summary": "白熾 奔流 白熾奔流 白炽奔流 花舞 祈 花舞祈願 花舞祈祷 魂 Lv3 減輕致命傷害一次 並於傷害減輕效果發動前提升攻擊力 降低防禦力 發動後提升防禦力與耐性值 煌雷龍頭盔 煌雷龙头盔 Lv1 特別 素材 作 頭防具 蒼 染 天突 角 歴戦 王 相応 威厳 示 以特別的煌雷龍素材製作的頭部防具 蒼藍色的高聳龍角呈現出與歷戰王者相襯的威嚴 以特殊的煌雷龙素材制作的头部防具 苍蓝色的角直指天际 彰显着历战王者无双的威严 煌雷龍鎧甲 煌雷龙铠甲 Lv1 特別 素材 作 胴防具 蒼 染",
+      "path": "/zh-Hant/data/skills/ba-zhu-zhi-hun",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ba-zhu-zhi-hun",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "白熾奔流",
+      "summary": "攻擊命中時 隨機造成額外傷害 白熾龍 脈動 白熾龍的脈動 白炽龙之脉动 魂 霸主之魂 霸主之魂 白熾 奔流 白炽奔流 攻撃 当 時 確率 追加 与 攻擊命中時 隨機造成額外傷害 攻击命中时 有一定概率额外造成伤害 Lv1 發動技能效果 與炎熱化並用時 將不會發動炎熱化效果 但將造成額外火屬性傷害 熾 維烏亞 白炽剑维亚 素材 生 出 大剣 冠 純粋 栄光 曝 刀身 貪欲 求 以白熾龍素材製作的大劍 此劍以純淨的榮光為冠 亮出的刀身將貪婪地渴求鮮血",
+      "path": "/zh-Hant/data/skills/bai-chi-ben-liu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bai-chi-ben-liu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "白熾龍的脈動",
+      "summary": "濡 刃紋 濡濕刀紋 浸水刃纹 白熾 奔流 白熾奔流 白炽奔流 白熾龍 脈動 白炽龙之脉动 Lv2 即使體力計量表沒有紅色部分 仍會緩緩自動回復至上限 Lv4 即使體力計量表沒有紅色部分 仍會自動回復至上限 無垢 龍冠 純潔龍冠 纯洁龙冠 Lv1 魂 宿 頭防具 殲滅 内 湧 上 黒 衝動 抗 続 蘊藏著白熾龍之魂的頭部防具 面對以殲滅為樂的漆黑衝動從心中湧出 純潔的靈魂正不斷抵抗 寄宿着白炽龙灵魂的头部防具 内心涌动出毁灭一切的冲动时 纯洁的灵魂将始终与之抗争 龍鎧 純潔龍鎧 纯洁龙铠 胴防具 蹂躙",
+      "path": "/zh-Hant/data/skills/bai-chi-long-de-mo-dong",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bai-chi-long-de-mo-dong",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "爆破瓶追加",
+      "summary": "裝備弓時可裝填爆破瓶 睡眠 追加 睡眠瓶追加 睡眠瓶追加 減気 減氣瓶追加 减气瓶追加 爆破 弓装備中 装填 可能 裝備弓時可裝填爆破瓶 装备弓时 可装填爆破瓶 Lv1 可裝填爆破瓶 睡眠瓶追加 睡眠瓶追加 減氣瓶追加 减气瓶追加 裝備弓時可裝填爆破瓶",
+      "path": "/zh-Hant/data/skills/bao-po-ping-zhui-jia",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bao-po-ping-zhui-jia",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "爆破屬性強化",
+      "summary": "強化武器的爆破屬性累積值 有上限 睡眠属性強化 睡眠屬性強化 睡眠属性强化 会心撃 属性 會心擊 屬性 会心击 爆破属性強化 爆破属性强化 爆破属性 蓄積値 強化 属性値 上限 強化武器的爆破屬性累積值 强化爆破属性累积值 武器属性值的强化存在上限 Lv1 爆破累積值1.05倍後+10 Lv2 爆破累積值1.1倍後+20 Lv3 爆破累積值1.2倍後+50 睡眠属性強化 睡眠屬性強化 睡眠属性强化",
+      "path": "/zh-Hant/data/skills/bao-po-shu-xing-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bao-po-shu-xing-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "爆破異常耐性",
+      "summary": "擁有對爆破異常的耐性 拘束耐性 束縛耐性 束缚耐性 悪臭耐性 惡臭耐性 恶臭耐性 爆破 耐性 爆破异常耐性 対 持 擁有對爆破異常的耐性 拥有对爆破异常的耐性 Lv1 延遲爆炸 並減輕爆炸時的傷害 Lv2 進一步延遲爆炸 並大幅減輕爆炸時的傷害 Lv3 不會陷入爆破異常 赫猿獸腰甲 赫猿兽腰甲 素材 作 腰防具 怒 暴走 繋 止 役割 以赫猿獸素材製作的腰部防具 據說擁有抑制憤怒失控的功用 使用赫猿兽素材制作的腰部防具 据说有抑制暴怒失控的作用 赫猿獸護腿 赫猿兽护腿 脚防具 踏 大地 熱 震 出",
+      "path": "/zh-Hant/data/skills/bao-po-yi-chang-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bao-po-yi-chang-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "冰耐性",
+      "summary": "增加冰耐性 提升技能等級後 也會影響防禦力 雷耐性 龍耐性 龙耐性 氷耐性 上 防御力 影響 增加冰耐性 提升技能等級後 也會影響防禦力 提高玩家的冰耐性 等级提高后 也会影响防御力 Lv1 冰耐性+6 Lv2 冰耐性+12 Lv3 冰耐性+20 防禦力+10 風鋏龍腕甲 风铗龙腕甲 素材 作 腕防具 指先 風 呼 対峙 者 爽 届 以風鋏龍素材製作的臂部防具 指尖可喚來風 連對手都能感到清爽的微風 使用风铗龙素材制作的臂部防具 指尖部分能呼唤风 连对手都能感受到清爽的风 風鋏龍腰甲 风铗龙腰甲 腰防具",
+      "path": "/zh-Hant/data/skills/bing-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bing-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "冰屬性攻擊強化",
+      "summary": "強化武器的冰屬性值 水属性攻撃強化 水屬性攻擊強化 水属性攻击强化 雷属性攻撃強化 雷屬性攻擊強化 雷属性攻击强化 氷属性攻撃強化 冰属性攻击强化 氷属性 力 強化 属性値 上限 強化武器的冰屬性值 有上限 强化冰属性之力 武器属性值的强化存在上限 Lv1 冰屬性攻擊值+40 Lv2 冰屬性攻擊值1.1倍後+50 Lv3 冰屬性攻擊值1.2倍後+60 水属性攻撃強化 水屬性攻擊強化 水属性攻击强化 雷属性攻撃強化 雷屬性攻擊強化 雷属性攻击强化 強化武器的冰屬性值",
+      "path": "/zh-Hant/data/skills/bing-shu-xing-gong-ji-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bing-shu-xing-gong-ji-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "波衣龍之守護",
+      "summary": "雷顎竜 闘志 雷顎龍之鬥志 雷颚龙之斗志 煌雷龍之力 煌雷龙之力 波衣竜 守護 波衣龙之守护 Lv2 使用特殊裝備時 提升一定時間內的防禦力 Lv4 使用特殊裝備時 大幅提升一定時間內的防禦力和耐性值 波衣龍頭盔 波衣龙头盔 Lv1 素材 作 頭防具 羽根飾 加工 身 者 森 意思 伝 以波衣龍素材製作的頭部防具 鰭經加工變成羽毛裝飾 會向穿戴者傳達森林的意志 使用波衣龙素材制作的头部防具 鳍被加工成羽饰 它会将森林的意志传达给佩戴者 波衣龍鎧甲 波衣龙铠甲 胴防具 鱗革 胸 装甲 共 感 以波衣龍素材製作的身體防具 鱗皮經加工變成胸部裝甲",
+      "path": "/zh-Hant/data/skills/bo-yi-long-zhi-shou-hu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/bo-yi-long-zhi-shou-hu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "超會心",
+      "summary": "增加會心攻擊的傷害 見切 看破 弱点特効 弱點特效 弱点特效 超会心 会心攻撃 増加 增加會心攻擊的傷害 提升会心攻击的伤害 Lv1 會心攻擊時的傷害倍率增強至1.28倍 Lv2 會心攻擊時的傷害倍率增強至1.31倍 Lv3 會心攻擊時的傷害倍率增強至1.34倍 Lv4 會心攻擊時的傷害倍率增強至1.37倍 Lv5 會心攻擊時的傷害倍率增強至1.4倍 赤紅之翼 赤翼 翼 模 創 大剣 素材 発火作用 斬撃 爆炎 伴 模仿火龍之翼所鍛造出的大劍 透過素材的發火效果 每一次斬擊都引起熊熊火焰 模仿火龙之翼所打造的大剑 由于素材具备点火效果 其斩击都会伴随着烈焰 炎剣 火龍大劍 火龙大剑 火竜 号 戴",
+      "path": "/zh-Hant/data/skills/chao-hui-xin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/chao-hui-xin",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "吹笛名人",
+      "summary": "延長狩獵笛旋律效果的時間 此技能會於切換武器後失效 属性吸収 屬性吸收 属性吸收 溜打強化 蓄攻強化 蓄击强化 笛吹 名人 狩猟笛 旋律効果 持続時間 長 武器変更 効果 失 延長狩獵笛旋律效果的時間 此技能會於切換武器後失效 延长狩猎笛旋律效果的时间 技能效果会于切换武器后失效 Lv1 延長狩獵笛的旋律效果時間 並增加體力回復的上升率 Lv2 進一步延長狩獵笛的旋律效果時間 金屬風笛 金属风笛 金属 巨大笛 美 軽快 音色 聞 者 勇気 与 以金屬為基礎素材的巨笛 優美輕快的音色會給予聆聽者勇氣 以金属为基础的巨笛 优美轻快的音色给予聆听的人勇气 金屬風笛 金属风笛 以金屬為基礎素材的巨笛",
+      "path": "/zh-Hant/data/skills/chui-di-ming-ren",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/chui-di-ming-ren",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "達人藝",
+      "summary": "會心攻擊時 抑制銳利度消耗 鈍器使 鈍器能手 钝器能手 通常弾 通常矢強化 通常彈 通常箭強化 通常弹 通常箭强化 達人芸 达人艺 会心発生時 斬 味 消費 抑 會心攻擊時 抑制銳利度消耗 抑制会心攻击时的锋利度消耗 Lv1 效果發動時 有80%機率不會消耗銳利度 白斑火龍翼劍 白炎翼剑 護竜 素材 作 大剣 燃 盛 炎 決 諦 闘志 持 手 与 以護火龍素材製作的大劍 會為持有者帶來如熊熊燃燒烈焰般決不放棄的鬥志 以护火龙素材制作的大剑 能带给持有者如熊熊烈火一般绝不屈服的斗志 白斑火龍翼劍",
+      "path": "/zh-Hant/data/skills/da-ren-yi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/da-ren-yi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "彈道強化",
+      "summary": "延長彈藥 箭矢發揮最大威力的距離 並於技能等級上升時提升射擊威力 散弾 剛射強化 散彈 剛射強化 散弹 刚射强化 速射強化 速射強化 速射强化 弾導強化 弹道强化 弾 矢 最大威力状態 距離 広 上 威力 上昇 延長彈藥 箭矢發揮最大威力的距離 並於技能等級上升時提升射擊威力 扩大弹药 箭矢可击出最大威力的范围 技能等级提升时威力也会上升 Lv1 小幅延長最有效距離 Lv2 延長最有效距離 Lv3 大幅延長最有效距離 並提升於最有效距離命中的射擊威力 希望大弓 希望之弓 東地域 調査 向 特別 仕立 弓 対",
+      "path": "/zh-Hant/data/skills/dan-dao-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/dan-dao-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "道具使用強化",
+      "summary": "延長部分道具的效果時間 大好 最愛菇類 最爱蘑菇 満足感 滿足感 满足感 使用強化 道具使用强化 一部 効果時間 長 延長部分道具的效果時間 延长部分道具的效果时间 Lv1 效果時間1.1倍 Lv2 效果時間1.25倍 Lv3 效果時間1.5倍 纏蛙腕甲 缠蛙腕甲 素材 作 腕防具 扱 考慮 手首 防護 特化 構造 以纏蛙素材製作的臂部防具 強化了保護手腕的結構 還兼顧了使用武器的靈活度 使用缠蛙素材制作的臂部防具 构造上强化了手腕的防护 并兼顾了使用武器时的灵活度 纏蛙護腿 缠蛙护腿 脚防具 脚 曲 伸 妨",
+      "path": "/zh-Hant/data/skills/dao-ju-shi-yong-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/dao-ju-shi-yong-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "砥石使用高速化",
+      "summary": "砥石 使用時間 短 縮短砥石的使用時間 缩短砥石的使用时间 Lv1 省略1次研磨動作 Lv2 省略2次研磨動作 希望大劍 希望大剑 東地域 調査 向 特別 仕立 大剣 巨大 刃 周囲 払 渾身 一撃 放 為東部地區調查特別開發的大劍 巨大的刀刃能橫掃四周 揮出全力一擊 为调查东部地区而特别制作的大剑 巨大的刀刃挥出全力一击 横扫四合 希望大劍 希望大剑 Lv1 東地域 調査 向 特別 仕立 大剣 巨大 刃 周囲 払 渾身",
+      "path": "/zh-Hant/data/skills/di-shi-shi-yong-gao-su-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/di-shi-shi-yong-gao-su-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "第四射擊",
+      "summary": "提升弩槍和弓裝填瓶後的第四及第六發射擊的攻擊力 以及第四發及後續射擊的會心率 首發射擊 首发迅击 特殊射撃強化 特殊射擊強化 特殊射击强化 强四射击 装填 弾 弓 発目以降 会心率 発目 攻撃力 上昇 提升弩槍和弓裝填瓶後的第四及第六發射擊的攻擊力 以及第四發及後續射擊的會心率 弩炮和弓装填瓶后 提升第4及第6发射击的攻击力 以及第4发及后续射击的会心率 Lv1 滿足條件時 極小幅提升射擊的會心率與攻擊力 Lv2 滿足條件時 小幅提升射擊的會心率與攻擊力 Lv3 滿足條件時 提升射擊的會心率與攻擊力 竜穿弓 龍穿弓 龙穿弓 歯車 組 込 複雑 構造 軽 負荷 引 事 威力 飛竜",
+      "path": "/zh-Hant/data/skills/di-si-she-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/di-si-she-ji",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "地質學",
+      "summary": "增加採集點的道具取得數 植生学 植生學 昆虫標本 達人 昆蟲標本達人 昆虫标本达人 地質学 地质学 採取 取得数 増 增加採集點的道具取得數 增加从采集点获得的道具数量 Lv1 骸骨採集點的取得數+1 Lv2 骸骨 特產品採集點的取得數+1 Lv3 特產品 礦石採掘點的取得數+1 鎖甲頭飾 锁甲头饰 鉄鎖 編 合 頭防具 普遍的 作 兜 信頼 厚 以鐵鏈編織而成的頭部防具 為相當常見的頭盔樣式 深受獵人們信賴 以铁链编织而成的头部防具 以极为常见的头盔样式 深受猎人们的信赖 鎖甲服飾 锁甲服饰 胴防具 機能性 防護性",
+      "path": "/zh-Hant/data/skills/di-zhi-xue",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/di-zhi-xue",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "凍峰龍之叛逆",
+      "summary": "獄焔蛸 獄焰鱆之叛逆 狱焰蛸之反叛 黑蝕龍之力 黑蚀龙之力 凍峰竜 冻峰龙之反叛 Lv2 從繩束縛狀態或凍結狀態回復後 從拘束攻擊解放後或角力後 提升一定時間內的攻擊力 Lv4 從繩束縛狀態或凍結狀態回復後 從拘束攻擊解放後或角力後 大幅提升一定時間內的攻擊力 凍峰龍頭盔 冻峰龙头盔 Lv1 素材 作 頭防具 亡国 王家 兜 再現 眼差 冷気 宿 以凍峰龍素材製作的頭部防具 此防具重現了亡國王室的頭盔 據說其眼神中蘊含著寒氣 使用冻峰龙素材制作的头部防具 重现了亡国皇室的头盔 据说其眼神中蕴藏寒气 凍峰龍鎧甲 冻峰龙铠甲 胴防具 復讐心 冷徹 胸 秘 多層装甲 数多 苦難",
+      "path": "/zh-Hant/data/skills/dong-feng-long-zhi-pan-ni",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/dong-feng-long-zhi-pan-ni",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "毒耐性",
+      "summary": "発動 守 發動毒耐性技能的護身符 发动毒耐性技能的护身符 耐毒護石 耐毒护石 Lv2 發動毒耐性技能的護身符 发动毒耐性技能的护身符 耐毒護石 耐毒护石 Lv3 發動毒耐性技能的護身符 发动毒耐性技能的护身符 龍耐性 龙耐性 麻痺耐性 麻痺耐性 麻痹耐性",
+      "path": "/zh-Hant/data/skills/du-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/du-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "毒瓶追加",
+      "summary": "裝備弓時可裝填毒瓶 特殊射撃強化 特殊射擊強化 特殊射击强化 麻痺 追加 麻痺瓶追加 麻痹瓶追加 毒 弓装備中 装填 可能 裝備弓時可裝填毒瓶 装备弓时 可装填毒瓶 Lv1 可裝填毒瓶 特殊射撃強化 特殊射擊強化 特殊射击强化 麻痺瓶追加 麻痹瓶追加 裝備弓時可裝填毒瓶",
+      "path": "/zh-Hant/data/skills/du-ping-zhui-jia",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/du-ping-zhui-jia",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "毒傷害強化",
+      "summary": "延長魔物處於毒狀態的時間 研鑽 鑽研 钻研 性能 防禦性能 格挡性能 毒 強化 毒伤害强化 与 効果時間 高 延長魔物處於毒狀態的時間 延长使怪物陷入中毒状态的时间 Lv1 毒的效果時間1.2倍 女武神骨劍 女武神骨剑 Lv1 骨素材 大剣 素材 更 強化 女王 威厳 気高 漂 以雌火龍素材進一步強化以骨素材為基礎的大劍 呈現出女王的威嚴和崇高感 以骨素材为基础的大剑 使用雌火龙素材进一步强化 能感受到女王的威严与高傲 女武神骨劍 女武神骨剑 以雌火龍素材進一步強化以骨素材為基礎的大劍 呈現出女王的威嚴和崇高感 以骨素材为基础的大剑 使用雌火龙素材进一步强化 能感受到女王的威严与高傲 齊格琳德王后 齐格琳德王后 麗",
+      "path": "/zh-Hant/data/skills/du-shang-hai-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/du-shang-hai-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "毒屬性強化",
+      "summary": "強化武器的毒屬性累積值 龍属性攻撃強化 龍屬性攻擊強化 龙属性攻击强化 麻痺属性強化 麻痺屬性強化 麻痹属性强化 毒属性強化 毒属性强化 毒属性 蓄積値 強化 属性値 上限 強化武器的毒屬性累積值 有上限 强化毒属性累积值 武器属性值的强化存在上限 Lv1 毒累積值1.05倍後+10 Lv2 毒累積值1.1倍後+20 Lv3 毒累積值1.2倍後+50 龍属性攻撃強化 龍屬性攻擊強化 龙属性攻击强化 麻痺属性強化 麻痺屬性強化 麻痹属性强化 強化武器的毒屬性累積值",
+      "path": "/zh-Hant/data/skills/du-shu-xing-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/du-shu-xing-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "堆疊鱗片的手藝",
+      "summary": "鱗張 技法 鋪排鱗片的技巧 铺鳞之技法 革細工 柔性 皮革製品的柔韌性 皮革制品之柔韧 鱗重 工夫 叠鳞之工艺 Lv3 體力降至40%或以下時 減少一定時間內的耐力消耗量 盔猛龍鎧甲 盔速龙铠甲 Lv1 素材 作 胴防具 重厚 甲殻 繊細 装飾 飾 付 通好 一品 以盔猛龍素材製作的身體防具 厚重甲殼上施有精細裝飾 是行家鍾愛的裝備 使用盔速龙素材制作的身体防具 厚重的甲壳搭配纤细的装饰 深受行家喜爱 怪鳥頭盔 怪鸟头盔 頭防具 丁寧 細工 品 怪鳥 覆 強 以怪鳥素材製作的頭部防具",
+      "path": "/zh-Hant/data/skills/dui-die-lin-pian-de-shou-yi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/dui-die-lin-pian-de-shou-yi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "鈍器能手",
+      "summary": "銳利度較低時增加傷害 心眼 達人芸 達人藝 达人艺 鈍器使 钝器能手 斬 味 悪 時 与 上昇 銳利度較低時增加傷害 锋利度较差时 造成的伤害提升 Lv1 銳利度在黃色或以下時 傷害1.05倍 Lv2 銳利度在黃色或以下時 傷害1.1倍 Lv3 銳利度在綠色或以下時 傷害1.1倍",
+      "path": "/zh-Hant/data/skills/dun-qi-neng-shou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/dun-qi-neng-shou",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "奪取耐力",
+      "summary": "提高特定攻擊使魔物疲勞的效果 術 KO術 击晕术 砲術 炮术 奪取 夺取耐力 特定 攻撃 持 疲 効果 上 提高特定攻擊使魔物疲勞的效果 提高特定攻击使怪物疲劳的效果 Lv1 減氣威力1.2倍 Lv2 減氣威力1.3倍 Lv3 減氣威力1.4倍 骨製曲刀 骨制反曲刀 Lv1 骨素材 安価 片手剣 安定 性能 持 初心者 推奨 一本 以骨頭打造而成的廉價單手劍 構造簡單且性能穩定 推薦給新手使用 用骨打造而成的廉价单手剑 构造简单 但性能稳定 推荐给新手使用 骨製曲刀 骨制反曲刀 以骨頭打造而成的廉價單手劍",
+      "path": "/zh-Hant/data/skills/duo-qu-nai-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/duo-qu-nai-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "惡臭耐性",
+      "summary": "擁有對惡臭狀態的耐性 爆破 耐性 爆破異常耐性 爆破异常耐性 環境適応 適應環境 适应环境 悪臭耐性 恶臭耐性 悪臭状態 対 持 擁有對惡臭狀態的耐性 拥有对恶臭状态的耐性 Lv1 減少惡臭狀態的時間50% Lv2 不會陷入惡臭狀態 桃毛獸王腕甲 桃毛兽王腕甲 素材 作 腕防具 一見粗雑 防御力 決 低 用桃毛獸王素材製作的臂部防具 乍看做工粗糙 但防禦力絕不遜色 使用桃毛兽王素材制作的臂部防具 乍看之下做工粗糙 但防御力绝不马虎 桃毛獸王腰甲 桃毛兽王腰甲 腰防具 取 付 意外 機能性 高 以桃毛獸王素材製作的腰部防具 附帶的一串口袋用起來意外方便",
+      "path": "/zh-Hant/data/skills/e-chou-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/e-chou-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "耳塞",
+      "summary": "擁有對大型魔物咆哮的耐性 回避距離 迴避距離上升 回避距离提升 強化 防禦強化 格挡强化 耳栓 大型 咆哮 対 耐性 持 擁有對大型魔物咆哮的耐性 拥有对大型怪物咆哮的耐性 Lv1 減輕咆哮 小 的影響 Lv2 使咆哮 無效 減輕咆哮 大 Lv3 沼噴龍腕甲 沼喷龙腕甲 素材 作 腕防具 爪 毒 注入 狩猟中 使 難 以沼噴龍素材製作的臂部防具 利用爪子可注入毒液 但在狩獵中不易使用 使用沼喷龙素材制作的臂部防具 虽然可以利用尖爪注入毒素 但很难在狩猎中使用 沼噴龍護腿 沼喷龙护腿",
+      "path": "/zh-Hant/data/skills/er-sai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/er-sai",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "飯糰",
+      "summary": "豪鬼專用動作的攻擊力與觸發昏厥的效果上升 拳 極 者 拳法的極意者 拳之极者 海竜 渦雷 海龍的渦雷 海龙的涡雷 饭团 豪鬼専用 攻撃力 気絶 誘発 威力 上昇 豪鬼專用動作的攻擊力與觸發昏厥的效果上升 豪鬼专用动作的攻击力和造成昏厥的威力提升 Lv1 發動技能效果 護石 飯糰護石 饭团护石 装備 発動 守 闘技大会 専用 發動飯糰技能的護身符 鬥技大會任務專用 发动饭团技能的护身符 斗技大会任务专用 拳法的極意者 拳之极者 海龍的渦雷 海龙的涡雷 豪鬼專用動作的攻擊力與觸發昏厥的效果上升",
+      "path": "/zh-Hant/data/skills/fan-tuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/fan-tuan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "防禦",
+      "summary": "防御力 上 耐性値 影響 增加角色的防禦力 提升技能等級後 也會影響耐性值 提高玩家的防御力 等级提高后 也会影响耐性值 Lv1 防禦力+5 Lv2 防禦力+10 Lv3 防禦力1.05倍後+10 Lv4 防禦力1.05倍後+20 全屬性耐性值+3 Lv5 防禦力1.08倍後+20 全屬性耐性值+3 Lv6 防禦力1.08倍後+35 全屬性耐性值+5 Lv7 防禦力1.1倍後+35 全屬性耐性值+5 防御 護石 防禦護石 防御护石 装備 発動 守 發動防禦技能的護身符 发动防御技能的护身符 防禦護石 防御护石 發動防禦技能的護身符 发动防御技能的护身符 防禦護石 防御护石 發動防禦技能的護身符",
+      "path": "/zh-Hant/data/skills/fang-yu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/fang-yu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "防禦力下降耐性",
+      "summary": "擁有對防禦力下降的耐性 睡眠耐性 睡眠耐性 睡眠耐性 属性 耐性 屬性異常耐性 属性异常耐性 防御力 防御力下降耐性 防御力DOWN 対 持 擁有對防禦力下降的耐性 拥有对防御力下降的耐性 Lv1 減少防禦力下降狀態的時間50% Lv2 減少防禦力下降狀態的時間75% Lv3 不會陷入防禦力下降狀態 護闢獣 護闢獸鎧甲 护辟兽铠甲 護竜 素材 作 胴防具 装着中 普段 違 活力 使命感 湧 以護闢獸素材製作的身體防具 穿戴時會湧現出和平時不同的活力與使命感 使用护辟兽素材制作的身体防具 穿着时体内会涌现出不同于平时的活力和使命感 護闢獸護腿 护辟兽护腿 脚防具 力 込 周辺",
+      "path": "/zh-Hant/data/skills/fang-yu-li-xia-jiang-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/fang-yu-li-xia-jiang-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "防禦強化",
+      "summary": "減少防禦時的傷害 並可以防禦一般無法防禦的攻擊 耳栓 耳塞 納刀術 收刀術 纳刀术 強化 格挡强化 時 受 軽減 通常 攻撃 減少防禦時的傷害 並可以防禦一般無法防禦的攻擊 减少格挡时所受伤害 并可以格挡原本无法格挡的攻击 Lv1 減少傷害10% 並於滿足條件時再減少20% Lv2 減少傷害20% 並於滿足條件時再減少30% Lv3 減少傷害30% 並於滿足條件時再減少50% 鎧龍西福斯 铠龙重剑 怒 染 白刃 爆剣 重 巨大 姿 白 火山 住人 充滿憤怒的白刃爆劍 沉重巨大的身影與住在火山的白龍如出一轍 充斥着愤怒的白刃爆剑 沉重巨大的身影与住在火山的白龙如出一辙 重剣",
+      "path": "/zh-Hant/data/skills/fang-yu-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/fang-yu-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "防禦性能",
+      "summary": "減少防禦時的後仰和耐力消耗 毒 強化 毒傷害強化 毒伤害强化 回避性能 迴避性能 回避性能 性能 格挡性能 時 消費 軽減 減少防禦時的後仰和耐力消耗 格挡时不易后仰 并减少耐力消耗 Lv1 小幅減少攻擊威力 減少耐力消耗量15% Lv2 減少攻擊威力 減少耐力消耗量30% Lv3 大幅減少攻擊威力 減少耐力消耗量50% 寬劍 影蜘蛛巨剑 Lv1 素材 特異 性質 工房 技術 超 最先端 大剣 生 出 影蜘蛛素材的特殊性質造就了這把最先進的大劍 其工藝遠遠超出了工房的技術極限 凭借影蜘蛛素材的特殊性质 造就出了这把超越工房技术水平的最先进大剑 影蜘蛛巨剑 影蜘蛛素材的特殊性質造就了這把最先進的大劍",
+      "path": "/zh-Hant/data/skills/fang-yu-xing-neng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/fang-yu-xing-neng",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "飛身躍入",
+      "summary": "可朝著大型魔物使用跳躍迴避 並延長跳躍距離 緩衝 缓冲 鉄人 跳躍鐵人 跳跃铁人 飛 込 飞身跃入 大型 向 回避 飛距離 延 可朝著大型魔物使用跳躍迴避 並延長跳躍距離 可以向着大型怪物进行飞扑回避 同时会延长飞跃距离 Lv1 可發動技能 銳猛龍腕甲 钳速龙腕甲 素材 作 腕防具 前腕 突起 引 装着中 保管時 要注意 以銳猛龍素材製作的臂部防具 手臂的尖刺容易勾到 在裝備與保管時都需多注意 使用钳速龙素材制作的臂部防具 前臂上的突起容易勾到东西 装备和收纳时都要倍加小心 銳猛龍腕甲 钳速龙腕甲 以銳猛龍素材製作的臂部防具 手臂的尖刺容易勾到 在裝備與保管時都需多注意 使用钳速龙素材制作的臂部防具",
+      "path": "/zh-Hant/data/skills/fei-shen-yue-ru",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/fei-shen-yue-ru",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "飛燕",
+      "summary": "飞燕 攻撃 強化 強化跳躍攻擊 强化跳跃攻击 Lv1 跳躍攻擊傷害1.1倍 風鉤刀 风钩刀 素材 拵 太刀 内側 湾曲 刀身 独特 軌跡 描 相手 斬 伏 以風鋏龍素材製作的太刀 向內彎曲的刀身會畫出獨特的軌跡斬殺對手 使用风铗龙素材打造的太刀 向内弯曲的刀身会画出独一无二的轨迹击倒对手 以風鋏龍素材製作的太刀 向內彎曲的刀身會畫出獨特的軌跡斬殺對手 使用风铗龙素材打造的太刀 向内弯曲的刀身会画出独一无二的轨迹击倒对手 以風鋏龍素材製作的太刀 向內彎曲的刀身會畫出獨特的軌跡斬殺對手 使用风铗龙素材打造的太刀 向内弯曲的刀身会画出独一无二的轨迹击倒对手 風鉤切蝕刀 切蚀风铗刀 戦乱 豪傑 携 風鉤刀強化版 放 連撃 威風 纏 対峙",
+      "path": "/zh-Hant/data/skills/fei-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/fei-yan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "風壓耐性",
+      "summary": "擁有對風壓的耐性 納刀術 收刀術 纳刀术 耐震 風圧耐性 风压耐性 風圧 対 耐性 持 擁有對風壓的耐性 拥有对风压的耐性 Lv1 使風壓 小 無效 並將風壓 大 的影響減半 Lv2 和 並使龍風壓的影響減半 Lv3 使全部風壓無效 鑄鐵鎧甲 铸铁铠甲 金 光沢 美 鉱石 作 胴防具 隙 装甲 色 相 見目 非常 良 以擁有美麗金屬光澤的礦石製作而成的身體防具 毫無縫隙的裝甲加上色彩搭配 十分好看 以拥有美丽金属光泽的矿石制作而成的身体防具",
+      "path": "/zh-Hant/data/skills/feng-ya-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/feng-ya-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "剛刃研磨",
+      "summary": "研磨武器後 一定時間內不會消耗銳利度 業物 利刃 心眼 刚刃打磨 研磨 一定時間 斬 味 下 研磨武器後 一定時間內不會消耗銳利度 打磨武器后 一定时间内锋利度不会降低 Lv1 效果發動後 30秒內不會消耗銳利度 Lv2 效果發動後 60秒內不會消耗銳利度 Lv3 效果發動後 90秒內不會消耗銳利度 獄焰大劍 狱焰大剑 力 感 大剣 無慈悲 振 下 大物 前 小胆 者 餌食 能讓人感受到獄焰鱆力量的大劍 在無情揮舞的大劍之下 膽小者只會淪為獵物 能够感受到狱焰蛸力量的大剑 面对这无情劈砍的巨物 怯懦者顷刻间就会沦为猎物 獄焰大劍",
+      "path": "/zh-Hant/data/skills/gang-ren-yan-mo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/gang-ren-yan-mo",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "高速變形",
+      "summary": "提升斬擊斧與充能斧的變形動作的速度和威力 砲術 炮术 高速変形 高速变形 変形 速度 火力 上昇 提升斬擊斧與充能斧的變形動作的速度和威力 提升斩斧与盾斧变形动作的速度与威力 Lv1 變形速度1.1倍 Lv2 變形速度1.2倍 變形攻擊威力1.1倍 Lv3 變形速度1.3倍 變形攻擊威力1.2倍 鋼鐵迅斧 钢铁迅斧 曲線的 刃 初心者向 剣斧 剣 斧 対象 滑 押 切 事 帶彎曲斧刃 適合新手的斬擊斧 不論是劍或是斧 皆能流暢地切開目標 带有曲线刀刃的初学者用斩斧 无论是剑还是斧 都可以丝滑地切开目标 鋼鐵迅斧 钢铁迅斧 初心者向 帶彎曲斧刃 適合新手的斬擊斧",
+      "path": "/zh-Hant/data/skills/gao-su-bian-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/gao-su-bian-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "攻擊",
+      "summary": "增加角色的攻擊力 逆恨 怨恨 攻撃 攻击 攻撃力 上 增加角色的攻擊力 提高玩家的攻击力 Lv1 基礎攻擊力+3 Lv2 基礎攻擊力+5 Lv3 基礎攻擊力+7 Lv4 攻擊力1.02倍後 基礎攻擊力+8 Lv5 攻擊力1.04倍後 基礎攻擊力+9 骨劍 骨刃 骨 素材 大剣 獲物 破壊 重 置 構造 以魔物骨為素材的大劍 具有用於摧毀獵物的構造 以怪物之骨为素材的大剑 拥有着专门摧毁猎物的构造 以魔物骨為素材的大劍 具有用於摧毀獵物的構造 以怪物之骨为素材的大剑 拥有着专门摧毁猎物的构造 以魔物骨為素材的大劍 具有用於摧毀獵物的構造 以怪物之骨为素材的大剑 拥有着专门摧毁猎物的构造 斬骨劍",
+      "path": "/zh-Hant/data/skills/gong-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/gong-ji",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "攻擊守勢",
+      "summary": "抓準時機防禦成功時 增加一定時間內的攻擊力 巧撃 巧擊 巧击 無傷 无伤 攻 守勢 攻击守势 良 成功 一定時間 攻撃力 上 抓準時機防禦成功時 增加一定時間內的攻擊力 抓准时机格挡成功时 会提升一定时间的攻击力 Lv1 技能發動時 攻擊力1.05倍 Lv2 技能發動時 攻擊力1.1倍 Lv3 技能發動時 攻擊力1.15倍 寬劍 影蜘蛛巨剑 素材 特異 性質 工房 技術 超 最先端 大剣 生 出 影蜘蛛素材的特殊性質造就了這把最先進的大劍 其工藝遠遠超出了工房的技術極限 凭借影蜘蛛素材的特殊性质 造就出了这把超越工房技术水平的最先进大剑",
+      "path": "/zh-Hant/data/skills/gong-ji-shou-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/gong-ji-shou-shi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "攻勢",
+      "summary": "對毒或麻痺狀態的大型魔物增加攻擊力和會心率 連撃 連擊 连击 鎖刃刺撃 鎖刃刺擊 锁刃刺击 攻势 毒 麻痺状態 大型 対 攻撃力 会心率 上 對毒或麻痺狀態的大型魔物增加攻擊力和會心率 对陷入毒 麻痹状态的大型怪物提升攻击力和会心率 Lv1 對毒或麻痺狀態的大型魔物的基礎攻擊力+6 Lv2 對毒或麻痺狀態的大型魔物的基礎攻擊力+8 會心率+5% Lv3 對毒或麻痺狀態的大型魔物的基礎攻擊力+10 會心率+10% Lv4 對毒或麻痺狀態的大型魔物的基礎攻擊力+12 會心率+15% Lv5 對毒或麻痺狀態的大型魔物的基礎攻擊力+15 會心率+20% 眠刺蟲頭飾 血眠虫头饰 素材 作 頭防具 薄 甲殻 妖 光 反射 以眠刺蟲素材製作的頭部防具 輕薄的甲殼會反射出妖豔光芒",
+      "path": "/zh-Hant/data/skills/gong-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/gong-shi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "貫通彈",
+      "summary": "龍之箭強化 贯穿弹 龙之箭强化 弓 一矢 千 矢 攻撃力 上 增加弩槍的貫通彈和弓的龍之箭 龍之千矢的攻擊力 提升弩炮的贯穿弹与弓的龙之箭 龙之千矢的攻击力 Lv1 稍微提升上述彈藥和箭的威力 通常矢強化 通常箭強化 通常箭强化 剛射強化 剛射強化 刚射强化 龍之箭強化 增加弩槍的貫通彈和弓的龍之箭 龍之千矢的攻擊力",
+      "path": "/zh-Hant/data/skills/guan-tong-dan-long-zhi-jian-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/guan-tong-dan-long-zhi-jian-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "廣域化",
+      "summary": "擴展部分道具的效果至一定範圍內的同伴 提升技能等級後 會加大範圍與效果 攀岩者 整備 整备 広域化 广域化 一部 効果 一定範囲内 仲間 作用 上 範囲 大 擴展部分道具的效果至一定範圍內的同伴 提升技能等級後 會加大範圍與效果 某些道具的效果会影响到一定范围内的同伴 随着等级提升 效果的范围和强度也会增加 Lv1 給予周圍同伴1/3的效果 Lv2 給予大範圍內同伴1/3的效果 Lv3 給予大範圍內同伴2/3的效果 Lv4 給予極大範圍內同伴2/3的效果 Lv5 給予極大範圍內同伴同等的效果 沼噴龍頭盔 沼喷龙头盔 素材 作 頭防具 帯 毒性 防 必要 以沼噴龍素材製作的頭部防具 為避免受素材本身的毒性侵害 必須配戴口罩",
+      "path": "/zh-Hant/data/skills/guang-yu-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/guang-yu-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "海龍的渦雷",
+      "summary": "飯糰 饭团 耐性変換 雷 轉換耐性 耐性变换 海竜 渦雷 海龙的涡雷 Lv2 以攻擊累積傷害後造成額外雷屬性傷害 並於一定時間內提升會心率 部分攻擊除外 Lv4 發動與 同樣的效果 並增加額外雷屬性傷害 且小幅延長會心率提升的時間 海龍頭盔 海龙头盔 Lv1 素材 作 頭防具 装備 持 深 蒼色 静 闘志 掻 立 以海龍素材製作的頭部防具 深藍色會激起靜謐的鬥志 使用海龙素材制作的头部防具 深邃的苍蓝激起静谧的斗志 海龍鎧甲 海龙铠甲 Lv1 素材 作 胴防具 胸部 包",
+      "path": "/zh-Hant/data/skills/hai-long-de-wo-lei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hai-long-de-wo-lei",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "合成盾",
+      "summary": "精準防禦成功後 一定時間內提升自己與一定範圍內的夥伴的防禦力 暗黒 暗黑 連携 協作程式 协作程序 成功時 一定時間 自分 一定範囲内 仲間 防御力 上 精準防禦成功後 一定時間內提升自己與一定範圍內的夥伴的防禦力 精准格挡成功时 一定时间内提升自身及范围内同伴的防御力 Lv1 發動技能效果 歐米茄之劍 欧米茄之剑 自律兵器 生 出 模 片手剣 振 斬撃 眼前 脅威 薙 払 仿造某自律型兵器產生的武器而製成的單手劍 其斬擊能清除眼前所有威脅 此单手剑的造型模仿了某个自律型兵器生成的武器 使出的斩击能够荡平眼前的威胁 真 歐米茄之劍 欧米茄之剑 数多 戦闘 果 進化",
+      "path": "/zh-Hant/data/skills/he-cheng-dun",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/he-cheng-dun",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "黑蝕龍之力",
+      "summary": "凍峰竜 反逆 凍峰龍之叛逆 冻峰龙之反叛 鎖刃竜 飢餓 鎖刃龍之飢餓 锁刃龙之饥饿 黒蝕竜 力 黑蚀龙之力 Lv2 狩獵大型魔物時感染狂龍病毒 Lv4 狩獵大型魔物時感染狂龍病毒 並提升攻擊力 克服狂龍症後進一步提升攻擊力 黑蝕龍頭盔 黑蚀龙头盔 Lv1 素材 作 頭防具 暗黒 魔兜 秘 宿 以黑蝕龍素材製作的頭部防具 黑暗的魔盔裡蘊藏著黑蝕龍神秘的力量 使用黑蚀龙素材制作的头部防具 黑暗的魔盔中 潜藏着黑蚀龙神秘的力量 黑蝕龍鎧甲 黑蚀龙铠甲 胴防具 瘴気 苛 獲物 黄泉 誘 抗 叶 以黑蝕龍素材製作的身體防具 受瘴氣侵蝕的獵物將無法抵擋黃泉的召喚",
+      "path": "/zh-Hant/data/skills/hei-shi-long-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hei-shi-long-zhi-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "護龍的脈動",
+      "summary": "护龙之脉动 Lv3 接近龍乳結晶時 提升體力的紅色計量表及耐力的回復速度 護竜 護鷺鷹龍腰甲 护鹭鹰龙腰甲 Lv1 素材 作 腰防具 白 長 羽根 発光 非常 美 以護鷺鷹龍素材製作的腰部防具 白色的長羽毛散發微光 極為美麗 使用护鹭鹰龙素材制作的腰部防具 雪白的长羽毛带着淡淡的光芒 非常美丽 護闢獣 護闢獸頭盔 护辟兽头盔 頭防具 身 者 言 渇望 襲 以護闢獸素材製作的頭部防具 穿戴此頭盔者將感受到難以名狀的渴望 使用护辟兽素材制作的头部防具 戴上它的人会被难以形容的渴望侵袭 護闢獸鎧甲 护辟兽铠甲 胴防具 装着中 普段 違 活力 使命感",
+      "path": "/zh-Hant/data/skills/hu-long-de-mo-dong",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hu-long-de-mo-dong",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "護龍的守護",
+      "summary": "護竜 脈動 護龍的脈動 护龙之脉动 先達 導 前輩的指引 前辈之指引 守 护龙之守护 Lv3 位於龍都遺跡時 減輕屬性傷害與特殊傷害 護雷顎竜 護雷顎龍頭盔 护雷颚龙头盔 Lv1 護竜 亜種 素材 作 頭防具 身 者 言 渇望 襲 以護雷顎龍素材製作的頭部防具 穿戴此頭盔者將感受到難以名狀的渴望 使用护雷颚龙素材制作的头部防具 戴上它的人会被难以形容的渴望侵袭 護雷顎竜 護雷顎龍鎧甲 护雷颚龙铠甲 胴防具 装着中 普段 違 活力 使命感 湧 以護雷顎龍素材製作的身體防具 穿戴時會湧現出和平時不同的活力與使命感 使用护雷颚龙素材制作的身体防具",
+      "path": "/zh-Hant/data/skills/hu-long-de-shou-hu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hu-long-de-shou-hu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "護鎖刃龍之命脈",
+      "summary": "鎖刃竜 飢餓 鎖刃龍之飢餓 锁刃龙之饥饿 泡狐竜 力 泡狐龍之力 泡狐龙之力 護鎖刃竜 命脈 护锁刃龙之命脉 Lv2 破壞大型魔物的傷口時回復少量體力 Lv4 破壞大型魔物的傷口時回復體力 護鎖刃竜 護鎖刃龍頭盔 护锁刃龙头盔 Lv1 護竜 頭防具 視界 狭 様 知覚 脳 流 込 以護鎖刃龍素材製作的頭部防具 雖然視野狹窄 但五感會因而流入腦海 使用护锁刃龙素材制作的头部防具 虽然视野狭窄 但各种感知会直接涌入大脑 護鎖刃竜 護鎖刃龍鎧甲 护锁刃龙铠甲 胴防具 不可思議 立 上 以護鎖刃龍素材製作的身體防具 奇妙的力量搖曳般地從體內湧現 使用护锁刃龙素材制作的身体防具",
+      "path": "/zh-Hant/data/skills/hu-suo-ren-long-zhi-ming-mo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hu-suo-ren-long-zhi-ming-mo",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "花舞祈願",
+      "summary": "魂 霸主之魂 霸主之魂 拳 極 者 拳法的極意者 拳之极者 花舞 祈 花舞祈祷 Lv2 於花舞之儀期間追加特別道具至任務報酬 不會從任務中途發動 Lv4 於花舞之儀期間追加特別道具至任務報酬 並大幅增加攻擊力與防禦力 桜波 御頭 櫻浪 御頭 落樱缤纷 武士头部 Lv1 祭事 花舞 作 頭防具 纏 意匠 春暁 臨 傾奇者 豪気 体現 可憑慶典票 製作的頭部防具 獨特的設計體現出傾奇者於春曉之時的豪氣 使用祭典票券 制作的头部防具 独特的设计体现出春晓之时倾奇者的豪气 桜波 直垂 落樱缤纷",
+      "path": "/zh-Hant/data/skills/hua-wu-qi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hua-wu-qi-yuan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "緩衝",
+      "summary": "攻擊命中同行的夥伴 或被夥伴的攻擊命中時 消除受傷反應 水場 油泥適応 適應水域/油泥 适应水域 油泥 飛 込 飛身躍入 飞身跃入 缓冲 同行 仲間 攻撃 当 際 無効化 攻擊命中同行的夥伴 或被夥伴的攻擊命中時 消除受傷反應 攻击命中同伴 或受到同伴的攻击时 均不会产生受击反应 Lv1 發動技能效果 油泥適応 適應水域/油泥 适应水域 飛身躍入 飞身跃入",
+      "path": "/zh-Hant/data/skills/huan-chong",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huan-chong",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "環境利用知識",
+      "summary": "使用可任意發動效果的環境物時額外回復體力 回復速度 回復速度 回复速度 体術 體術 体术 環境利用 知識 环境利用知识 任意発動 環境利用時 体力 追加 回復 使用可任意發動效果的環境物時額外回復體力 使用可任意发动效果的环境物时 能够追加回复体力 Lv1 回復50體力 Lv2 回復80體力 Lv3 回復100體力 巨蜂頭盔 巨蜂头盔 素材 作 頭防具 全体 覆 素材 火 弱 硬 外殻 強固 以巨蜂素材製作的頭部防具 包覆著整體素材雖然不耐火 但外殼非常堅固耐用 使用巨蜂素材制作的头部防具 虽然包覆全体的材料不耐火 但外壳非常坚固 巨蜂鎧甲",
+      "path": "/zh-Hant/data/skills/huan-jing-li-yong-zhi-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huan-jing-li-yong-zhi-shi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "煌雷龍之力",
+      "summary": "波衣竜 守護 波衣龍之守護 波衣龙之守护 獄焰鱆之叛逆 狱焰蛸之反叛 煌雷竜 力 煌雷龙之力 Lv2 小幅延長技能 力量解放 的發動時間 Lv4 延長技能 力量解放 的發動時間 煌雷龍頭盔 煌雷龙头盔 Lv1 素材 作 頭防具 天 角 煌雷竜 孤高 精神 体現 以煌雷龍素材製作的頭部防具 聳立的尖角體現了煌雷龍的孤高精神 使用煌雷龙素材制作的头部防具 冲天耸立的角 体现了煌雷龙的孤高精神 煌雷龍鎧甲 煌雷龙铠甲 胴防具 特徴的 甲殻 複雑 組 合 事 驚異的",
+      "path": "/zh-Hant/data/skills/huang-lei-long-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huang-lei-long-zhi-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "迴避距離上升",
+      "summary": "延長迴避時的移動距離 回避性能 迴避性能 回避性能 耳栓 耳塞 回避距離 回避距离提升 回避時 移動距離 長 延長迴避時的移動距離 延长回避时的移动距离 Lv1 小幅延長迴避距離 Lv2 延長迴避距離 Lv3 大幅延長迴避距離 沙海龍腕甲 沙海龙腕甲 素材 作 腕防具 巻 付 配置 棘 動 生 以沙海龍素材製作的臂部防具 包覆手臂的尖棘保證獵人能使出流暢動作 使用沙海龙素材制作的臂部防具 卷曲排列的棘刺保证了动作的柔韧 沙海龍腰甲 沙海龙腰甲 Lv1 素材 作 腰防具 赤 腰布 見 者",
+      "path": "/zh-Hant/data/skills/hui-bi-ju-li-shang-sheng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hui-bi-ju-li-shang-sheng",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "迴避性能",
+      "summary": "延長迴避時的無敵時間 性能 防禦性能 格挡性能 回避距離 迴避距離上升 回避距离提升 回避性能 回避性能 回避時 無敵時間 長 延長迴避時的無敵時間 延长回避时的无敌时间 Lv1 極小幅延長無敵時間 Lv2 小幅延長無敵時間 Lv3 延長無敵時間 Lv4 大幅延長無敵時間 Lv5 極大幅延長無敵時間 風鋏龍頭盔 风铗龙头盔 Lv1 素材 作 頭防具 身 者 常 風 感 共 以風鋏龍素材製作的頭部防具 據說戴上這防具後能時刻感受到風 與風共存 使用风铗龙素材制作的头部防具 据说戴上这顶头盔的人会时刻感受到风 与风同在 風鋏龍鎧甲 风铗龙铠甲",
+      "path": "/zh-Hant/data/skills/hui-bi-xing-neng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hui-bi-xing-neng",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "迴避裝填",
+      "summary": "迴避時會自動裝填當前選擇的彈藥 炎 料理人 火之大廚 炎之大厨 暗黒 暗黑 回避装填 回避装填 回避行動 時 選択中 弾 自動 装填 迴避時會自動裝填當前選擇的彈藥 回避时会自动装填当前选择的弹药 Lv1 發動技能效果 射獵天倉一 重弩天仓一 装飾 壮麗 重弩 不正 憤 反逆 闘志 金色 共 正 正中 貫 裝飾華麗的千刃龍重弩槍 憤慨不義的反叛鬥志與金色彈藥一起準確地貫穿靶心 装饰华美的千刃龙重弩炮 金色的弹丸带着因不公而激愤的反抗意志 直直地贯穿靶心 叛砲 叛砲天倉一 叛炮天仓一 Lv1 反逆 闘志",
+      "path": "/zh-Hant/data/skills/hui-bi-zhuang-tian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hui-bi-zhuang-tian",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "回復速度",
+      "summary": "提升體力計量表的紅色部分的回復速度 体力回復量 體力回復量上升 体力回复量提升 環境利用 知識 環境利用知識 环境利用知识 回复速度 受 際 赤 部分 上 提升體力計量表的紅色部分的回復速度 提升受伤时体力槽红色部分的回复速度 Lv1 紅色計量表的自動回復速度2倍 Lv2 紅色計量表的自動回復速度3倍 Lv3 紅色計量表的自動回復速度4倍 鎖甲腰帶 锁甲腰带 Lv1 鉄鎖 編 合 腰防具 様 素材 組 重量 極力減 作 以鐵鏈編織而成的腰部防具 混合了各種素材 極力減少重量製作而成 以铁链编织而成的腰部防具 混合各种不同素材 极力减少重量制作而成的装备 鎖甲長褲 锁甲长裤 脚防具",
+      "path": "/zh-Hant/data/skills/hui-fu-su-du",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hui-fu-su-du",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "會心擊",
+      "summary": "会心击 属性 屬性 攻撃 会心 発生 際 与 火 水 雷 氷 龍 高 增加會心攻擊時的屬性傷害 火 水 雷 冰 龍 提升会心攻击时造成的属性伤害 龙 Lv1 效果發動時 稍微增加屬性傷害 Lv2 效果發動時 增加屬性傷害 Lv3 效果發動時 大幅增加屬性傷害 白斑火龍翼劍 白炎翼剑 護竜 素材 作 大剣 燃 盛 炎 決 諦 闘志 持",
+      "path": "/zh-Hant/data/skills/hui-xin-ji-shu-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hui-xin-ji-shu-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "會心擊",
+      "summary": "屬性 会心击 蓄力大師 蓄力大师 特殊 攻撃 会心 発生 際 与 状態異常値 麻痺 毒 睡眠 爆破 高 增加會心攻擊時的狀態異常值 提升会心攻击时造成的状态异常值 麻痹 Lv1 小幅提升會心攻擊時的狀態異常值 Lv2 提升會心攻擊時的狀態異常值 Lv3 大幅提升會心攻擊時的狀態異常值 女武神骨劍 女武神骨剑 骨素材 大剣 素材 更 強化 女王 威厳 気高 漂 以雌火龍素材進一步強化以骨素材為基礎的大劍 呈現出女王的威嚴和崇高感 以骨素材为基础的大剑 使用雌火龙素材进一步强化 能感受到女王的威严与高傲 女武神骨劍 女武神骨剑 以雌火龍素材進一步強化以骨素材為基礎的大劍",
+      "path": "/zh-Hant/data/skills/hui-xin-ji-te-shu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hui-xin-ji-te-shu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "昏厥耐性",
+      "summary": "縮短昏厥狀態的時間 属性 耐性 屬性異常耐性 属性异常耐性 裂傷耐性 裂傷耐性 裂伤耐性 気絶耐性 気絶状態 時間 短 縮短昏厥狀態的時間 缩短昏厥状态的时间 Lv1 減少昏厥狀態的時間30% Lv2 減少昏厥狀態的時間60% Lv3 不會陷入昏厥狀態 希望面具 希望面具 東地域 調査 向 特別 仕立 頭防具 砂塵 防 息苦 感 為東部地區調查特別開發的頭部防具 面具可以阻隔沙塵 不會影響呼吸 为调查东部地区而特别制作的头部防具 面具可以阻挡沙尘 同时还不会影响呼吸 希望腰甲 希望腰甲 腰防具 簡単 取 出",
+      "path": "/zh-Hant/data/skills/hun-jue-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/hun-jue-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "火場怪力",
+      "summary": "體力在上限的35%以下時 增加攻擊力與防禦力 力 解放 力量解放 力量解放 連撃 連擊 连击 火事場力 火场怪力 体力 最大値 以下 時 攻撃力 防御力 上 35% 體力在上限的35%以下時 增加攻擊力與防禦力 体力在最大值的35%以下时 提高防御力与攻击力 Lv1 技能發動時 防禦力+50 Lv2 技能發動時 攻擊力1.05倍 防禦力+50 Lv3 技能發動時 攻擊力1.05倍 防禦力+100 Lv4 技能發動時 攻擊力1.1倍 防禦力+100 Lv5 技能發動時 攻擊力1.3倍 但無提升防禦力效果 護闢獣 護闢獸頭盔",
+      "path": "/zh-Hant/data/skills/huo-chang-guai-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huo-chang-guai-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "火蹈祈願",
+      "summary": "祝祭 巡 慶典巡禮 祭典巡礼 夢灯 祈 夢燈祈願 梦灯祈祷 踊火 踊火祈祷 Lv2 於火蹈之儀期間追加特別道具至任務報酬 不會從任務中途發動 Lv4 於火蹈之儀期間追加特別道具至任務報酬 並大幅增加攻擊力與防禦力 火蹈頭飾 踊火头饰 Lv1 祭事 作 頭防具 燃 上 炎 冠 盛夏 踊 更 立 昇 可憑慶典票 火蹈 製作的頭部防具 熊熊燃燒的火冠在盛夏舞動 燒得更旺盛 使用祭典票券 制作的头部防具 燃烧的火焰之冠在盛夏舞动 烈焰愈发腾升 火蹈上衣 踊火上衣 胴防具 焔",
+      "path": "/zh-Hant/data/skills/huo-dao-qi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huo-dao-qi-yuan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "火龍之力",
+      "summary": "闢獣 力 闢獸之力 辟兽之力 暗器蛸 暗器鱆之力 暗器蛸之力 火竜 火龙之力 Lv2 攻擊命中時 隨機造成額外火屬性傷害 Lv4 攻擊命中時 隨機造成更多額外火屬性傷害 護火竜 護火龍頭盔 护火龙头盔 Lv1 護竜 素材 作 頭防具 身 者 言 渇望 襲 以護火龍素材製作的頭部防具 穿戴此頭盔者將感受到難以名狀的渴望 使用护火龙素材制作的头部防具 戴上它的人会被难以形容的渴望侵袭 護火龍鎧甲 护火龙铠甲 胴防具 装着中 普段 違 活力 使命感 湧 以護火龍素材製作的身體防具 穿戴時會湧現出和平時不同的活力與使命感 使用护火龙素材制作的身体防具",
+      "path": "/zh-Hant/data/skills/huo-long-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huo-long-zhi-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "火耐性",
+      "summary": "增加火耐性 提升技能等級後 也會影響防禦力 精霊 加護 精靈加護 精灵加护 上 防御力 影響 增加火耐性 提升技能等級後 也會影響防禦力 提高玩家的火耐性 等级提高后 也会影响防御力 Lv1 火耐性+6 Lv2 火耐性+12 Lv3 火耐性+20 防禦力+10 炎尾龍鎧甲 炎尾龙铠甲 素材 作 胴防具 儀礼用 高 以炎尾龍素材製作的身體防具 雖然是用於儀式的設計 但防禦力很高 使用炎尾龙素材制作的身体防具 虽然是用于仪式的设计 但防御力很高 炎尾龍腰甲 炎尾龙腰甲 腰防具 波形 以炎尾龍素材製作的腰部防具 流蘇形的裙襬是時髦的亮點 使用炎尾龙素材制作的腰部防具 波浪形状的裙摆格外时尚",
+      "path": "/zh-Hant/data/skills/huo-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huo-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "火屬性攻擊強化",
+      "summary": "強化武器的火屬性值 渾身 精神抖擻 精神抖擞 水属性攻撃強化 水屬性攻擊強化 水属性攻击强化 火属性攻撃強化 火属性攻击强化 火属性 力 強化 属性値 上限 強化武器的火屬性值 有上限 强化火属性之力 武器属性值的强化存在上限 Lv1 火屬性攻擊值+40 Lv2 火屬性攻擊值1.1倍後+50 Lv3 火屬性攻擊值1.2倍後+60 精神抖擻 精神抖擞 水属性攻撃強化 水屬性攻擊強化 水属性攻击强化 強化武器的火屬性值",
+      "path": "/zh-Hant/data/skills/huo-shu-xing-gong-ji-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huo-shu-xing-gong-ji-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "火之大廚",
+      "summary": "炎之大厨 肉 焼 斬 味 回復 一定時間攻撃性能 上昇 結果 効果時間 内容 変化 烤肉後回復銳利度 並在一定時間內提升攻擊性能 效果時間與內容會因烤肉結果而異 烤肉后回复武器锋利度 一定时间内提升攻击性能 效果时间与内容会因烤肉结果而异 Lv1 發動技能效果 双剣 美味雙劍 美味双剑 一流 同時 調理師 熟練 逸品 一流的獵人也是一流的廚師 火候完美的烤肉正是熟能生巧的傑作 一流的猎人同样也是一流的厨师 喷香诱人烤熟的肉正是熟能生巧的杰作 断 全熟雙劍 全熟双剑 熟成 経 強化 野趣溢 至高 旨味 堪能 美味雙劍歷經熟成之後 味道與銳利度都得到強化",
+      "path": "/zh-Hant/data/skills/huo-zhi-da-chu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/huo-zhi-da-chu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "飢餓耐性",
+      "summary": "抑制耐力計量表上限隨時間減少的量 跑者 挑戦者 挑戰者 挑战者 腹減 耐性 饥饿耐性 時間経過 最大値 減少 抑 抑制耐力計量表上限隨時間減少的量 抑制耐力槽上限随时间减少 Lv1 延長耐力減少的間隔時間50% Lv2 延長耐力減少的間隔時間100% Lv3 耐力上限不會減少 皮製手套 皮制手套 加工 皮 部分的 腕防具 軽 防護性 十分 部分鑲嵌了加工魔物皮的臂部防具 雖然輕巧但具有十足的防護性 部分镶嵌了加工怪物皮的臂部防具 虽轻巧但具有十足的防护性 沙海龍頭盔 沙海龙头盔 素材 作 頭防具 荒 研磨 突起 沙海竜 象徴 以沙海龍素材製作的頭部防具",
+      "path": "/zh-Hant/data/skills/ji-e-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ji-e-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "急襲",
+      "summary": "護石 急襲護石 急袭护石 Lv3 装備 発動 守 發動急襲技能的護身符 发动急袭技能的护身符 災禍転福 轉禍為福 因祸得福 無我 境地 無我境界 无我之境 成功對大型魔物發動突襲攻擊後 增加一定時間內的攻擊力 災禍転福 轉禍為福 因祸得福 無我 境地 無我境界 无我之境 急袭 大型 奇襲攻撃 成功 一定時間 攻撃 上昇 成功對大型魔物發動突襲攻擊後 增加一定時間內的攻擊力 成功对大型怪物发动奇袭攻击时 提升一定时间内的攻击力 Lv1 技能發動時 攻擊力1.05倍 Lv2 技能發動時 攻擊力1.1倍 Lv3 技能發動時",
+      "path": "/zh-Hant/data/skills/ji-xi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ji-xi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "集中",
+      "summary": "增加蓄力攻擊的蓄力速度 加快太刀 雙劍 銃槍 斬擊斧 充能斧 弩槍和弓的計量表累積速度 采配 指示隨從 指示随从 強化持続 強化持續 强化持续 溜 攻撃 速度 速 太刀 双剣 剣斧 盾斧 弓 增加蓄力攻擊的蓄力速度 加快太刀 雙劍 銃槍 斬擊斧 充能斧 弩槍和弓的計量表累積速度 加快蓄力攻击的蓄力速度 太刀 双剑 铳枪 斩斧 盾斧 弓 弩炮的槽更易积攒 Lv1 小幅增加計量表上升率 縮短蓄力時間5% Lv2 增加計量表上升率 縮短蓄力時間10% Lv3",
+      "path": "/zh-Hant/data/skills/ji-zhong",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ji-zhong",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "甲蟲的擬態",
+      "summary": "甲虫之拟态 Lv3 提升蹲下時的移動速度 不容易被大型魔物發現 血刺蟲眼鏡 血盗虫眼镜 Lv1 素材 作 頭防具 最新 取 入 大人気 以血刺蟲素材製作的頭部防具 採用了最新設計 廣受時尚獵人的歡迎 使用血盗虫素材制作的头部防具 采用最新设计 深受时尚猎人的喜爱 巨蜂頭盔 巨蜂头盔 Lv1 素材 作 頭防具 全体 覆 火 弱 硬 外殻 強固 以巨蜂素材製作的頭部防具 包覆著整體素材雖然不耐火 但外殼非常堅固耐用 使用巨蜂素材制作的头部防具 虽然包覆全体的材料不耐火 但外壳非常坚固 巨蜂鎧甲 巨蜂铠甲 胴防具 秘伝 加工",
+      "path": "/zh-Hant/data/skills/jia-chong-de-ni-tai",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/jia-chong-de-ni-tai",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "甲蟲的直覺",
+      "summary": "甲虫之直觉 Lv3 增加在原野採集蜂蜜的取得數 血刺蟲眼鏡 血盗虫眼镜 Lv1 素材 作 頭防具 最新 取 入 大人気 以血刺蟲素材製作的頭部防具 採用了最新設計 廣受時尚獵人的歡迎 使用血盗虫素材制作的头部防具 采用最新设计 深受时尚猎人的喜爱 巨蜂頭盔 巨蜂头盔 全体 覆 火 弱 硬 外殻 強固 以巨蜂素材製作的頭部防具 包覆著整體素材雖然不耐火 但外殼非常堅固耐用 使用巨蜂素材制作的头部防具 虽然包覆全体的材料不耐火 但外壳非常坚固 巨蜂鎧甲 巨蜂铠甲 胴防具 秘伝 加工 施 強力 物理攻撃 耐 以巨蜂素材製作的身體防具",
+      "path": "/zh-Hant/data/skills/jia-chong-de-zhi-jue",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/jia-chong-de-zhi-jue",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "減氣瓶追加",
+      "summary": "裝備弓時可裝填減氣瓶 爆破 追加 爆破瓶追加 爆破瓶追加 防御 防禦 減気 减气瓶追加 弓装備中 装填 可能 裝備弓時可裝填減氣瓶 装备弓时 可装填减气瓶 Lv1 可裝填減氣瓶 爆破瓶追加 爆破瓶追加 裝備弓時可裝填減氣瓶",
+      "path": "/zh-Hant/data/skills/jian-qi-ping-zhui-jia",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/jian-qi-ping-zhui-jia",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "減輕膽怯",
+      "summary": "减轻胆怯 小 時 減輕受到小傷害時的反應 减轻受到小伤害时的硬直 Lv1 使後仰無效 Lv2 使後仰無效 並將坐倒在地減輕至後仰 Lv3 使後仰和坐倒在地無效 炎尾龍頭盔 炎尾龙头盔 素材 作 頭防具 大 飾 羽 人気 逸品 以炎尾龍素材製作的頭部防具 大大的裝飾用羽毛很受獵人歡迎 使用炎尾龙素材制作的头部防具 大大的羽毛装饰很受猎人的欢迎 炎尾龍腕甲 炎尾龙腕甲 腕防具 手袋 着用口 広 手首 大 動 以炎尾龍素材製作的臂部防具 手套穿戴的開口較大 方便手腕大幅度活動 使用炎尾龙素材制作的臂部防具 手套的开口很宽 手腕可以大幅度活动 炎尾龍護腿 炎尾龙护腿 Lv1",
+      "path": "/zh-Hant/data/skills/jian-qing-dan-qie",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/jian-qing-dan-qie",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "匠",
+      "summary": "斬 味 長 限界以上 延長武器的銳利度計量表 但不會超過上限 延长武器的锋利度槽 不会超过上限 Lv1 武器銳利度+10 Lv2 武器銳利度+20 Lv3 武器銳利度+30 Lv4 武器銳利度+40 Lv5 武器銳利度+50 属性変換 屬性轉換 属性变换 延長武器的銳利度計量表 但不會超過上限",
+      "path": "/zh-Hant/data/skills/jiang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/jiang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "精靈加護",
+      "summary": "一定機率減少角色受到的傷害 防御 防禦 火耐性 精霊 加護 精灵加护 受 一定確率 減少 一定機率減少角色受到的傷害 一定概率减少玩家受到的伤害 Lv1 效果發動時 減少傷害15% Lv2 效果發動時 減少傷害30% Lv3 效果發動時 減少傷害50% 希望鎧甲 希望铠甲 東地域 調査 向 特別 仕立 胴防具 環境 狩猟 挑 工夫 為東部地區調查特別開發的身體防具 經過特別加工 適合在任何環境狩獵 为调查东部地区而特别制作的身体防具 为了能在任何环境下狩猎 设计上下了一番苦工 希望腕甲 希望腕甲 Lv1 東地域 調査",
+      "path": "/zh-Hant/data/skills/jing-ling-jia-hu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/jing-ling-jia-hu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "精神抖擻",
+      "summary": "維持耐力計量表全滿一段時間後 增加會心率 抜刀術 技 拔刀術 拔刀术 火属性攻撃強化 火屬性攻擊強化 火属性攻击强化 渾身 精神抖擞 満 状態 維持 会心率 上 維持耐力計量表全滿一段時間後 增加會心率 维持耐力槽全满状态一段时间后 会心率会提升 Lv1 效果發動時 會心率+10% Lv2 效果發動時 會心率+20% Lv3 效果發動時 會心率+30% 暗器鱆頭盔 暗器蛸头盔 素材 作 頭防具 闇 活動 暗殺者 好 身 装具 以暗器鱆素材製作的頭部防具 是潛伏於黑暗中活動的刺客喜好的裝備 使用暗器蛸素材制作的头部防具 是隐匿于黑暗中的暗杀者们的最爱",
+      "path": "/zh-Hant/data/skills/jing-shen-dou-sou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/jing-shen-dou-sou",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "ju-ji-long-de-qi-shi-lu",
+      "summary": "",
+      "path": "/zh-Hant/data/skills/ju-ji-long-de-qi-shi-lu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ju-ji-long-de-qi-shi-lu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "鎧龍之守護",
+      "summary": "暗器蛸 力 暗器鱆之力 暗器蛸之力 雪獅子 闘志 雪獅子王之鬥志 雪狮子王之斗志 鎧竜 守護 铠龙之守护 Lv2 體力全滿時 所受傷害減少20% Lv4 體力全滿時 所受傷害減少35% 鎧龍頭盔 铠龙头盔 Lv1 素材 作 頭防具 岩 如 装甲 攻撃 防 以鎧龍素材製作的頭部防具 裝甲硬如磐石 能有效抵擋魔物的攻擊 使用铠龙素材制作的头部防具 坚若磐石的装甲可以有效抵御怪物的攻击 鎧龍鎧甲 铠龙铠甲 胴防具 並大抵 仕掛 方 怪我 以鎧龍素材製作的身體防具 受一般攻擊時 受傷的反而會是發動攻擊的一方 使用铠龙素材制作的身体防具",
+      "path": "/zh-Hant/data/skills/kai-long-zhi-shou-hu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/kai-long-zhi-shou-hu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "看破",
+      "summary": "增加會心率 逆襲 逆袭 超会心 超會心 見切 会心率 增加會心率 提升会心率 Lv1 會心率+4% Lv2 會心率+8% Lv3 會心率+12% Lv4 會心率+16% Lv5 會心率+20% 希望大劍 希望大剑 東地域 調査 向 特別 仕立 大剣 巨大 刃 周囲 払 渾身 一撃 放 為東部地區調查特別開發的大劍 巨大的刀刃能橫掃四周 揮出全力一擊 为调查东部地区而特别制作的大剑 巨大的刀刃挥出全力一击 横扫四合 希望大劍 希望大剑 Lv1 東地域",
+      "path": "/zh-Hant/data/skills/kan-po",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/kan-po",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "烤玉米砲",
+      "summary": "銃槍的龍擊計量表紅光閃爍時 提升砲擊的威力與火屬性攻擊值 力量之石 能量石 炎 料理人 火之大廚 炎之大厨 焼 砲 烧烤玉米炮 竜撃 赤 点滅 時 砲撃 威力 火属性攻撃値 上 銃槍的龍擊計量表紅光閃爍時 提升砲擊的威力與火屬性攻擊值 铳枪的龙击槽红光闪烁时 提高炮击的威力和火属性攻击值 Lv1 發動技能效果 砲 玉米砲 玉米炮 農業 対 爆発的 想 昇華 使 對農業爆炸般的熱情昇華而成的銃槍 別看它長成這樣 還是挺好用的 对农业的狂想升华成了铳枪 别看它长成这个样子 还是很好用的 大砲 玉米大砲 玉米大炮 強",
+      "path": "/zh-Hant/data/skills/kao-yu-mi-pao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/kao-yu-mi-pao",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "KO術",
+      "summary": "容易讓魔物陷入昏厥狀態 抜刀術 力 拔刀術 拔刀术 奪取 奪取耐力 夺取耐力 術 击晕术 気絶状態 容易讓魔物陷入昏厥狀態 容易令怪物陷入昏厥状态 Lv1 昏厥威力1.2倍 Lv2 昏厥威力1.3倍 Lv3 昏厥威力1.4倍 冷凍旗魚 冷冻旗鱼 Lv1 凍 最強釣 師 証 分類 大剣 冷凍過的大王旗魚 也是最強釣師的證明 分類是大劍 冷冻的大王旗鱼 也是最强钓手的证明 分类是大剑 真 冷凍四鰭旗魚 冷冻四鳍旗鱼 Lv2 既 名 捨 我 強化形態 大王旗魚",
+      "path": "/zh-Hant/data/skills/koshu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/koshu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "快吃",
+      "summary": "加快食用肉及道具的速度 威嚇 威吓 砲弾装填 砲彈裝填 炮弹装填 早食 肉 食 速度 速 加快食用肉及道具的速度 加快食用肉及道具的速度 Lv1 小幅增加進食速度 Lv2 增加進食速度 Lv3 大幅增加進食速度 纏蛙頭盔 缠蛙头盔 素材 作 頭防具 砂漠 活動 適 以纏蛙素材製作的頭部防具 採用了適合於沙漠中活動的設計 使用缠蛙素材制作的头部防具 采用了适合在沙漠活动的设计 纏蛙鎧甲 缠蛙铠甲 Lv1 素材 作 胴防具 首周 特 伸縮性 高 使用 以纏蛙素材製作的身體防具 頸部周圍特別使用了伸縮性較高的素材",
+      "path": "/zh-Hant/data/skills/kuai-chi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/kuai-chi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "昆蟲標本達人",
+      "summary": "昆虫标本达人 昆虫型 小型 攻撃 討伐 時 必 取 状態 残 一部 対象外 以攻擊討伐昆蟲型的小型魔物時 必會留下可剝取的屍體 部分魔物除外 以攻击讨伐昆虫型的小型怪物后 必定会留下可供剥取的尸体 部分怪物除外 Lv1 發動技能效果 血刺蟲眼鏡 血盗虫眼镜 素材 作 頭防具 最新 入 大人気 以血刺蟲素材製作的頭部防具 採用了最新設計 廣受時尚獵人的歡迎 使用血盗虫素材制作的头部防具 采用最新设计 深受时尚猎人的喜爱 血刺蟲眼鏡 血盗虫眼镜 以血刺蟲素材製作的頭部防具 採用了最新設計 廣受時尚獵人的歡迎 使用血盗虫素材制作的头部防具 采用最新设计 深受时尚猎人的喜爱 血刺蟲眼鏡 血盗虫眼镜",
+      "path": "/zh-Hant/data/skills/kun-chong-biao-ben-da-ren",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/kun-chong-biao-ben-da-ren",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "雷顎龍之鬥志",
+      "summary": "兇爪竜 力 兇爪龍之力 凶爪龙之力 波衣竜 守護 波衣龍之守護 波衣龙之守护 雷顎竜 闘志 雷颚龙之斗志 Lv2 獲得額外耐力計量表 Lv4 獲得較長的額外耐力計量表 護雷顎竜 護雷顎龍頭盔 护雷颚龙头盔 Lv1 護竜 亜種 素材 作 頭防具 身 者 言 渇望 襲 以護雷顎龍素材製作的頭部防具 穿戴此頭盔者將感受到難以名狀的渴望 使用护雷颚龙素材制作的头部防具 戴上它的人会被难以形容的渴望侵袭 護雷顎竜 護雷顎龍鎧甲 护雷颚龙铠甲 胴防具 装着中 普段 違 活力 使命感 湧 以護雷顎龍素材製作的身體防具",
+      "path": "/zh-Hant/data/skills/lei-e-long-zhi-dou-zhi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/lei-e-long-zhi-dou-zhi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "雷耐性",
+      "summary": "発動 守 發動雷耐性技能的護身符 发动雷耐性技能的护身符 耐雷護石 耐雷护石 發動雷耐性技能的護身符 发动雷耐性技能的护身符 耐雷護石 耐雷护石 發動雷耐性技能的護身符 发动雷耐性技能的护身符 水耐性 氷耐性 冰耐性 增加雷耐性 提升技能等級後 也會影響防禦力",
+      "path": "/zh-Hant/data/skills/lei-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/lei-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "雷屬性攻擊強化",
+      "summary": "強化武器的雷屬性值 氷属性攻撃強化 冰屬性攻擊強化 冰属性攻击强化 龍属性攻撃強化 龍屬性攻擊強化 龙属性攻击强化 雷属性攻撃強化 雷属性攻击强化 雷属性 力 強化 属性値 上限 強化武器的雷屬性值 有上限 强化雷属性之力 武器属性值的强化存在上限 Lv1 雷屬性攻擊值+40 Lv2 雷屬性攻擊值1.1倍後+50 Lv3 雷屬性攻擊值1.2倍後+60 氷属性攻撃強化 冰屬性攻擊強化 冰属性攻击强化 龍属性攻撃強化 龍屬性攻擊強化 龙属性攻击强化 強化武器的雷屬性值",
+      "path": "/zh-Hant/data/skills/lei-shu-xing-gong-ji-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/lei-shu-xing-gong-ji-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "力量解放",
+      "summary": "特定 条件 満 一定時間会心率 上昇 固定 消費 行動 消費量 軽減 滿足特定條件後 增加一定時間內的會心率 並減少耐力消耗量 满足特定条件后 一定时间内提升会心率 减少耐力消耗量 Lv1 技能發動時 會心率+10% 減少耐力消耗量30% Lv2 技能發動時 會心率+20% 減少耐力消耗量30% Lv3 技能發動時 會心率+30% 減少耐力消耗量50% Lv4 技能發動時 會心率+40% 減少耐力消耗量50% Lv5 技能發動時 會心率+50% 減少耐力消耗量50% 煌雷龍頭盔 煌雷龙头盔 素材 作 頭防具 天 角 煌雷竜",
+      "path": "/zh-Hant/data/skills/li-liang-jie-fang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/li-liang-jie-fang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "力量之石",
+      "summary": "獲得礦石後 提升一定時間內的攻擊力 栄光 誉 榮光嘉譽 荣光盛赞 焼 砲 烤玉米砲 烧烤玉米炮 能量石 鉱石 入手 一定時間 攻撃力 上 獲得礦石後 提升一定時間內的攻擊力 获得矿石后 一定时间内攻击力提升 Lv1 礦石的稀有度越高 攻擊力上升幅度越大 上升值有上限 採礦十字鎬 矿工十字镐 剣 鉱脈 盾 採掘 懸 炭鉱夫 魂 表現 形容 片手剣 以十字鎬為劍 以礦脈為盾 此單手劍可謂體現了為採掘賭上性命的碳礦工之魂 以镐代剑 以矿脉为盾 这把单手剑体现了将一生奉献在采掘上的矿工之魂 鶴嘴剣 十字鎬劍挖不停",
+      "path": "/zh-Hant/data/skills/li-liang-zhi-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/li-liang-zhi-shi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "利刃",
+      "summary": "斬 味 消耗 抑 抑制銳利度消耗 抑制锋利度消耗 Lv1 有10%機率不會消耗銳利度 Lv2 有25%機率不會消耗銳利度 Lv3 有50%機率不會消耗銳利度 匠 剛刃研磨 剛刃研磨 刚刃打磨 抑制銳利度消耗 匠 剛刃研磨 剛刃研磨 刚刃打磨 業物 斬 味 消耗 抑 抑制銳利度消耗 抑制锋利度消耗 Lv1 有10%機率不會消耗銳利度 Lv2 有25%機率不會消耗銳利度 Lv3 有50%機率不會消耗銳利度 剛刃研磨 剛刃研磨 刚刃打磨",
+      "path": "/zh-Hant/data/skills/li-ren",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/li-ren",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "連擊",
+      "summary": "连击 攻撃 当 続 段階的 攻撃力 属性値 上 上昇効果 武器種 異 攻擊不斷命中時 逐漸增加攻擊力和屬性值 增幅因武器種類而異 攻击连续命中时 攻击力和属性值会阶段性上升 上升效果因武器种类而异 Lv1 攻擊命中後 一定時間內稍微提升基礎攻擊力和屬性攻擊值 連續發動5次時增幅上升 Lv2 小幅強化連續發動技能5次時的能力增幅 Lv3 進一步強化連續發動技能5次時的能力增幅 Lv4 大幅強化連續發動技能5次時的能力增幅 Lv5 極大幅強化連續發動技能5次時的能力增幅 護兇爪竜 護兇爪龍頭盔 护凶爪龙头盔 護竜 亜種 素材 作 頭防具 身 者 言 渇望 襲 以護兇爪龍素材製作的頭部防具 穿戴此頭盔者將感受到難以名狀的渴望",
+      "path": "/zh-Hant/data/skills/lian-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/lian-ji",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "獵人生活",
+      "summary": "提升釣魚 烤肉和搬運的技術 昆虫標本 達人 昆蟲標本達人 昆虫标本达人 甲虫 知 甲蟲的直覺 甲虫之直觉 生活 猎人生活 釣 肉焼 運搬 技術 向上 提升釣魚 烤肉和搬運的技術 提升垂钓 烤肉和搬运的技术 Lv1 提升釣魚 烤肉和搬運的技術 咬魚靴 咬鱼靴 Lv1 素材 作 脚防具 加工 以外 愛用 人 多 以咬魚素材製作的足部防具 由於容易加工 不僅是獵人 也深受許多人喜愛 使用咬鱼素材制作的脚部防具 由于加工便利 猎人之外也有不少拥趸 方形眼鏡 方形眼镜",
+      "path": "/zh-Hant/data/skills/lie-ren-sheng-huo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/lie-ren-sheng-huo",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "裂傷耐性",
+      "summary": "發動裂傷耐性技能的護身符 发动裂伤耐性技能的护身符 気絶耐性 昏厥耐性 昏厥耐性 拘束耐性 束縛耐性 束缚耐性 擁有對裂傷狀態的耐性 気絶耐性 昏厥耐性 昏厥耐性 拘束耐性 束縛耐性 束缚耐性 裂伤耐性 裂傷状態 対 耐性 持 擁有對裂傷狀態的耐性 拥有对裂伤状态的耐性 Lv1 減輕裂傷狀態造成的傷害 Lv2 大幅減輕裂傷狀態造成的傷害 Lv3 不會陷入裂傷狀態 護兇爪竜 護兇爪龍鎧甲 护凶爪龙铠甲 護竜 亜種 素材 作 胴防具 装着中 普段 違 活力 使命感 湧 以護兇爪龍素材製作的身體防具 穿戴時會湧現出和平時不同的活力與使命感",
+      "path": "/zh-Hant/data/skills/lie-shang-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/lie-shang-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "龍耐性",
+      "summary": "発動 守 發動龍耐性技能的護身符 发动龙耐性技能的护身符 耐龍護石 耐龙护石 Lv2 發動龍耐性技能的護身符 发动龙耐性技能的护身符 耐龍護石 耐龙护石 發動龍耐性技能的護身符 发动龙耐性技能的护身符 氷耐性 冰耐性 毒耐性 增加龍耐性 提升技能等級後 也會影響防禦力",
+      "path": "/zh-Hant/data/skills/long-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/long-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "龍屬性攻擊強化",
+      "summary": "強化武器的龍屬性值 雷属性攻撃強化 雷屬性攻擊強化 雷属性攻击强化 毒属性強化 毒屬性強化 毒属性强化 龍属性攻撃強化 龙属性攻击强化 龍属性 力 強化 属性値 上限 強化武器的龍屬性值 有上限 强化龙属性之力 武器属性值的强化存在上限 Lv1 龍屬性攻擊值+40 Lv2 龍屬性攻擊值1.1倍後+50 Lv3 龍屬性攻擊值1.2倍後+60 雷属性攻撃強化 雷屬性攻擊強化 雷属性攻击强化 毒属性強化 毒屬性強化 毒属性强化 強化武器的龍屬性值",
+      "path": "/zh-Hant/data/skills/long-shu-xing-gong-ji-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/long-shu-xing-gong-ji-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "麻痺耐性",
+      "summary": "發動麻痺耐性技能的護身符 发动麻痹耐性技能的护身符 毒耐性 睡眠耐性 睡眠耐性 睡眠耐性 縮短麻痺狀態的時間 毒耐性 睡眠耐性 睡眠耐性 睡眠耐性 麻痹耐性 麻痺状態 時間 短 縮短麻痺狀態的時間 缩短麻痹状态的时间 Lv1 減少麻痺狀態的時間30% Lv2 減少麻痺狀態的時間60% Lv3 不會進入麻痺狀態 巨蜂腕甲 巨蜂腕甲 素材 作 腕防具 見 目以上 重量 分 防御力 高 以巨蜂素材製作的臂部防具 重量比外觀看起來更有份量 因此防禦力高 使用巨蜂素材制作的臂部防具 实物比看上去更有份量 因此拥有高防御力 巨蜂腰甲 巨蜂腰甲 Lv1 素材",
+      "path": "/zh-Hant/data/skills/ma-bei-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ma-bei-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "麻痺瓶追加",
+      "summary": "裝備弓時可裝填麻痺瓶 毒 追加 毒瓶追加 毒瓶追加 睡眠 睡眠瓶追加 睡眠瓶追加 麻痺 麻痹瓶追加 弓装備中 装填 可能 裝備弓時可裝填麻痺瓶 装备弓时 可装填麻痹瓶 Lv1 可裝填麻痺瓶 毒瓶追加 毒瓶追加 睡眠瓶追加 睡眠瓶追加",
+      "path": "/zh-Hant/data/skills/ma-bei-ping-zhui-jia",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ma-bei-ping-zhui-jia",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "麻痺屬性強化",
+      "summary": "強化武器的麻痺屬性累積值 毒属性強化 毒屬性強化 毒属性强化 睡眠属性強化 睡眠屬性強化 睡眠属性强化 麻痺属性強化 麻痹属性强化 麻痺属性 蓄積値 強化 属性値 上限 強化武器的麻痺屬性累積值 有上限 强化麻痹属性累积值 武器属性值的强化存在上限 Lv1 麻痺累積值1.05倍後+10 Lv2 麻痺累積值1.1倍後+20 Lv3 麻痺累積值1.2倍後+50 毒属性強化 毒屬性強化 毒属性强化 睡眠属性強化 睡眠屬性強化 睡眠属性强化 強化武器的麻痺屬性累積值",
+      "path": "/zh-Hant/data/skills/ma-bei-shu-xing-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ma-bei-shu-xing-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "滿足感",
+      "summary": "使用飲食道具時 有一定機率不消耗該道具 並可再次使用 使用強化 道具使用強化 道具使用强化 砥石使用高速化 砥石使用高速化 砥石使用高速化 満足感 满足感 食 飲 一定 確率 一度使 使用飲食道具時 有一定機率不消耗該道具 並可再次使用 使用饮食类道具时 有一定概率不会消耗 可以再次使用 Lv1 有10%機率發動效果 Lv2 有25%機率發動效果 Lv3 有45%機率發動效果 闢獸頭盔 辟兽头盔 素材 作 頭防具 荒 前立 見 者 動揺 誘 以闢獸素材製作的頭部防具 頭上的粗野裝飾會使所見者心生慌亂 使用辟兽素材制作的头部防具 头上狂野的装饰令见者心生动摇 闢獸鎧甲",
+      "path": "/zh-Hant/data/skills/man-zu-gan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/man-zu-gan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "毛皮的昂揚",
+      "summary": "革細工 滑性 皮革製品的滑順質感 皮革制品之顺滑 毛皮 誘惑 毛皮的誘惑 毛皮之诱惑 昂揚 毛皮之昂扬 Lv3 任務期間每次力竭倒下後 提升攻擊力與防禦力 最多2次 桃毛獸王頭盔 桃毛兽王头盔 Lv1 素材 作 頭防具 荒 風貌 野性 現 用桃毛獸王素材製作的頭部防具 粗獷的外觀彰顯野性 使用桃毛兽王素材制作的头部防具 粗犷的造型彰显野性 桃毛獸王鎧甲 桃毛兽王铠甲 胴防具 随所 獣毛 演出 用桃毛獸王素材製作的身體防具 點綴四處的獸毛體現了桃毛獸王的狂野 使用桃毛兽王素材制作的身体防具 随处点缀的兽毛彰显野性 桃毛獸王腕甲 桃毛兽王腕甲 腕防具 一見粗雑 防御力 決",
+      "path": "/zh-Hant/data/skills/mao-pi-de-ang-yang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/mao-pi-de-ang-yang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "毛皮的誘惑",
+      "summary": "毛皮之诱惑 Lv3 攻擊命中時更能吸引魔物的注意 桃毛獸王頭盔 桃毛兽王头盔 Lv1 素材 作 頭防具 荒 風貌 野性 現 用桃毛獸王素材製作的頭部防具 粗獷的外觀彰顯野性 使用桃毛兽王素材制作的头部防具 粗犷的造型彰显野性 桃毛獸王鎧甲 桃毛兽王铠甲 胴防具 随所 獣毛 演出 用桃毛獸王素材製作的身體防具 點綴四處的獸毛體現了桃毛獸王的狂野 使用桃毛兽王素材制作的身体防具 随处点缀的兽毛彰显野性 桃毛獸王腕甲 桃毛兽王腕甲 腕防具 一見粗雑 防御力 決 低 用桃毛獸王素材製作的臂部防具 乍看做工粗糙 但防禦力絕不遜色 使用桃毛兽王素材制作的臂部防具 乍看之下做工粗糙 但防御力绝不马虎 桃毛獸王腰甲 桃毛兽王腰甲 腰防具 取",
+      "path": "/zh-Hant/data/skills/mao-pi-de-you-huo",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/mao-pi-de-you-huo",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "夢燈祈願",
+      "summary": "踊火 祈 火蹈祈願 踊火祈祷 祝謡 祝謠祈願 祝谣祈祷 夢灯 梦灯祈祷 Lv2 於夢燈之儀期間追加特別道具至任務報酬 不會從任務中途發動 Lv4 於夢燈之儀期間追加特別道具至任務報酬 並大幅增加攻擊力與防禦力 歌德幽魂頭盔 哥特幽魂头盔 Lv1 祭事 作 頭防具 冠 意匠 秋冷 月 照 恐怖 纏 可憑慶典票 夢燈 製作的頭部防具 猶如王冠的設計在秋夜寒光照耀下 令人心生恐懼 使用祭典票券 梦灯 制作的头部防具 宝冠般的设计在秋夜寒月的照耀下 令人惧意横生 歌德幽魂鎧甲 哥特幽魂铠甲 Lv1 祭事 夢灯 作",
+      "path": "/zh-Hant/data/skills/meng-deng-qi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/meng-deng-qi-yuan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "miao-miao-bang",
+      "summary": "",
+      "path": "/zh-Hant/data/skills/miao-miao-bang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/miao-miao-bang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "耐力急速回復",
+      "summary": "耐力急速回复 回復速度 速 增加耐力的回復速度 加快耐力的回复速度 Lv1 回復速度1.1倍 Lv2 回復速度1.3倍 Lv3 回復速度1.5倍 暗器鱆鎧甲 暗器蛸铠甲 素材 作 胴防具 長 転用 以暗器鱆素材製作的身體防具 長圍巾不單是防具 還能用作繩索 用途廣泛 使用暗器蛸素材制作的身体防具 长围巾不仅作为防具 还可以作绳索等用途 暗器鱆腰甲 暗器蛸腰甲 腰防具 独特 質感 革 大 無用 音 立 以暗器鱆素材製作的腰部防具 皮革質感獨特 即使大幅擺動也不會發出多餘聲音 使用暗器蛸素材制作的腰部防具 独特质感的皮革即使大幅度摆动也不会发出多余声响 暗器鱆護腿 暗器蛸护腿 Lv1 素材",
+      "path": "/zh-Hant/data/skills/nai-li-ji-su-hui-fu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/nai-li-ji-su-hui-fu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "耐震",
+      "summary": "擁有對地面震動的耐性 風圧耐性 風壓耐性 风压耐性 軽減 減輕膽怯 减轻胆怯 地面振動 対 耐性 持 擁有對地面震動的耐性 拥有对地面震动的耐性 Lv1 使震動 極小 無效 並將震動 小 的影響減半 Lv2 和 並大幅減輕震動 大 的影響 Lv3 使全部震動無效 合金鎧甲 合金铠甲 Lv1 良質 鉱石素材 用 胴防具 動 考慮 余計 装飾 省 合理的 設計 使用優質礦石素材製作的身體防具 講求方便性而省去了多餘的裝飾 設計上相當合理",
+      "path": "/zh-Hant/data/skills/nai-zhen",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/nai-zhen",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "逆襲",
+      "summary": "被擊飛後 增加一定時間內的攻擊力 無傷 无伤 見切 看破 逆袭 後 一定時間攻撃力 上 被擊飛後 增加一定時間內的攻擊力 被击飞后 一定时间内攻击力提升 Lv1 技能發動時 基礎攻擊力+10 Lv2 技能發動時 基礎攻擊力+15 小幅延長效果時間 Lv3 技能發動時 基礎攻擊力+25 延長效果時間 雪獅子王頭盔 雪狮子王头盔 Lv1 素材 作 頭防具 異国 神 表現 威厳 溢 以雪獅子王素材製作的頭部防具 造型靈感取自異國神明 充滿威嚴 使用雪狮子王素材制作的头部防具 造型取自异国之神 充满威严 雪獅子王腕甲 雪狮子王腕甲",
+      "path": "/zh-Hant/data/skills/ni-xi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ni-xi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "歐米茄共鳴",
+      "summary": "欧米茄共鸣 Lv2 任務開始後 共鳴 遠和共鳴 近會交替發動 滿足條件後提升攻擊力或會心率 Lv4 提升共鳴 的效果 以及武器技能 合成盾 或 協作程式 歐米茄耳夾 欧米茄耳夹 Lv1 己 高 続 自律兵器 到達点 模 頭防具 纏 者 更 進化 為 観測 開始 此頭部防具的造型仿照了某個不斷進化的自律型兵器的最終型態 穿戴者會為了繼續進化而開始觀測 此头部防具的造型模仿了某个持续进化的自律兵器目前达成的极致形态 穿戴者会为了继续进化而开始观测 歐米茄服 欧米茄服 自律兵器 胴防具 新 強敵 渇望 求 此身體防具的造型仿照了某個不斷進化的自律型兵器的最終型態",
+      "path": "/zh-Hant/data/skills/ou-mi-qie-gong-ming",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ou-mi-qie-gong-ming",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "攀岩者",
+      "summary": "中 行動 消費 量 減 攀爬藤蔓時所需耐力消耗量變少 攀爬藤蔓时 减少各类动作的耐力消耗 Lv1 減少耐力消耗量50% 赫猿獸腕甲 赫猿兽腕甲 素材 作 腕防具 幾度 地面 叩 拳 再現 以赫猿獸素材製作的臂部防具 重現了不斷捶打地面的拳頭 使用赫猿兽素材制作的臂部防具 生动再现了赫猿兽无数次捶向地面的巨拳 獵戶星腰袍 猎户星护腰 腰防具 雪花 煌 祭 用 装束 着 心 暖 可憑獵戶星票製作的腰部防具 穿戴專門為雪花閃耀的慶典製作的裝束 連內心都會暖和起來 使用猎户星票制作的腰部防具 点缀着晶莹雪花图案的祭祀专用华服 温暖着穿着者的身心 鉄人 跳躍鐵人 跳跃铁人",
+      "path": "/zh-Hant/data/skills/pan-yan-zhe",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pan-yan-zhe",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "砲彈裝填",
+      "summary": "使銃槍砲彈與充能斧的瓶的裝填變流暢 並增加銃槍的裝填數與充能斧的充能數量 早食 快吃 水場 油泥適応 適應水域/油泥 适应水域 油泥 砲弾装填 炮弹装填 砲弾 装填 装填数 上昇 盾斧 増 使銃槍砲彈與充能斧的瓶的裝填變流暢 並增加銃槍的裝填數與充能斧的充能數量 对于铳枪和盾斧 加快弹药与瓶的装填速度 并提高装填数和充能数 Lv1 加快砲彈與瓶的裝填速度 Lv2 進一步加快砲彈與瓶的裝填速度 銃槍的裝填數+1 並增加充能斧的充能數量 赫炎 銃槍 赫炎銃槍 赫炎铳枪 力 秘 高出力 噴出 炎熱 眼前 障害 瞬時 払 除 蘊藏赫猿獸之力的銃槍 高輸出下噴出的高熱火焰能將眼前障礙瞬間消除",
+      "path": "/zh-Hant/data/skills/pao-dan-zhuang-tian",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pao-dan-zhuang-tian",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "泡狐龍之力",
+      "summary": "護鎖刃竜 命脈 護鎖刃龍之命脈 护锁刃龙之命脉 濡 刃紋 濡濕刀紋 浸水刃纹 泡狐竜 力 泡狐龙之力 Lv2 不會陷入泡沫狀態 大 迴避數次後將陷入泡沫狀態 小 Lv4 發動與 同樣的效果 並於陷入泡沫狀態時強化迴避能力 泡狐龍頭盔 泡狐龙头盔 Lv1 素材 作 頭防具 最 艶 婿殿 嫁御 祝言 披露 婚礼装束 壱 以泡狐龍素材製作的頭部防具 婚禮裝束之一 是英俊瀟灑的新郎與美豔俏麗的新娘在婚禮時所穿的禮服 以泡狐龙素材制作的头部防具 婚礼装束其之一 配得上这世间最郎才女貌 佳偶天成的新人 泡狐龍鎧甲 泡狐龙铠甲 Lv1",
+      "path": "/zh-Hant/data/skills/pao-hu-long-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pao-hu-long-zhi-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "砲術",
+      "summary": "炮术 砲撃 竜撃砲 盾斧 攻撃 徹甲榴弾 爆発 伴 威力 上昇 提升帶爆炸攻擊的攻擊力 例如銃槍的砲擊 龍擊砲 充能斧的瓶攻擊 以及徹甲榴彈 提高铳枪的炮击 龙击炮 盾斧的瓶攻击 穿甲榴弹等伴随爆炸的攻击的威力 Lv1 小幅提升對象的攻擊威力和龍擊砲的發射速度 砲擊的火屬性攻擊值+30 Lv2 提升對象的攻擊威力和龍擊砲的發射速度 砲擊的火屬性攻擊值+60 Lv3 大幅提升對象的攻擊威力和龍擊砲的發射速度 砲擊的火屬性攻擊值+90 纏蛙兵裝 缠蛙兵装 素材 骨 構成 変形 要 部品 覆 安定性 高 以纏蛙素材與骨製成的充能斧 變形的關鍵零件有素材包覆 穩定性得以提升 使用缠蛙的素材和骨制成的盾斧 变形的关键部件得到了包裹",
+      "path": "/zh-Hant/data/skills/pao-shu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pao-shu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "跑者",
+      "summary": "逐漸消耗耐力的行動 例如衝刺 所需的耐力消耗量減少 急速回復 耐力急速回復 耐力急速回复 飢餓耐性 饥饿耐性 徐 消費 行動 消費量 減少 逐漸消耗耐力的行動 例如衝刺 所需的耐力消耗量減少 进行冲刺等逐渐消耗耐力的行动时 减少所需的耐力消耗量 Lv1 減少持續耐力消耗量15% Lv2 減少持續耐力消耗量30% Lv3 減少持續耐力消耗量50% 骨製頭盔 骨制头盔 骨 用 伝統的 頭防具 見 目 反 保温性 抜群 以魔物骸骨製作的傳統頭部防具 保暖性比看起來還要優異 以怪物骸骨制作的传统头部防具 虽其貌不扬 但保暖性优异 骨製鎧甲 骨制铠甲 覆 胴防具",
+      "path": "/zh-Hant/data/skills/pao-zhe",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pao-zhe",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "皮革製品的滑順質感",
+      "summary": "皮革制品之顺滑 Lv3 利用地形滑行後 增加一定時間內的會心率 銳猛龍腕甲 钳速龙腕甲 Lv1 素材 作 腕防具 前腕 突起 引 装着中 保管時 要注意 以銳猛龍素材製作的臂部防具 手臂的尖刺容易勾到 在裝備與保管時都需多注意 使用钳速龙素材制作的臂部防具 前臂上的突起容易勾到东西 装备和收纳时都要倍加小心 棘鰭龍護腿 锯带龙护腿 Lv1 素材 作 脚防具 軽 密着性 高 革 絶妙 履 心地 以棘鰭龍素材製作的足部防具 製作時用了輕巧又貼身的皮革 穿起來極為舒適 使用锯带龙素材制作的脚部防具 质轻贴身的皮革带来了绝佳的穿着体验 纏蛙頭盔 缠蛙头盔 頭防具 砂漠",
+      "path": "/zh-Hant/data/skills/pi-ge-zhi-pin-de-hua-shun-zhi-gan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pi-ge-zhi-pin-de-hua-shun-zhi-gan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "皮革製品的柔韌性",
+      "summary": "皮革制品之柔韧 Lv3 加快採集行動的速度 並且採集和剝取時即使受攻擊也不會後仰 銳猛龍腕甲 钳速龙腕甲 Lv1 素材 作 腕防具 前腕 突起 引 装着中 保管時 要注意 以銳猛龍素材製作的臂部防具 手臂的尖刺容易勾到 在裝備與保管時都需多注意 使用钳速龙素材制作的臂部防具 前臂上的突起容易勾到东西 装备和收纳时都要倍加小心 纏蛙頭盔 缠蛙头盔 Lv1 素材 作 頭防具 砂漠 活動 適 以纏蛙素材製作的頭部防具 採用了適合於沙漠中活動的設計 使用缠蛙素材制作的头部防具 采用了适合在沙漠活动的设计 纏蛙鎧甲 缠蛙铠甲 胴防具 首周 特 伸縮性 高 使用 以纏蛙素材製作的身體防具",
+      "path": "/zh-Hant/data/skills/pi-ge-zhi-pin-de-rou-ren-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pi-ge-zhi-pin-de-rou-ren-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "闢獸之力",
+      "summary": "先達 導 前輩的指引 前辈之指引 火竜 力 火龍之力 火龙之力 闢獣 辟兽之力 Lv2 角力或連消帶打成功時 一定時間內基礎攻擊力+10 Lv4 角力或連消帶打成功時 一定時間內基礎攻擊力+25 闢獸頭盔 辟兽头盔 Lv1 素材 作 頭防具 荒 前立 見 者 動揺 誘 以闢獸素材製作的頭部防具 頭上的粗野裝飾會使所見者心生慌亂 使用辟兽素材制作的头部防具 头上狂野的装饰令见者心生动摇 闢獸鎧甲 辟兽铠甲 Lv1 素材 作 胴防具 丁寧 洗毛 加工 毛束 高 防御力",
+      "path": "/zh-Hant/data/skills/pi-shou-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pi-shou-zhi-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "破壞王",
+      "summary": "變得容易破壞大型魔物的部位 並增加以集中弱點攻擊破壞傷口時造成的傷害 高速変形 高速變形 高速变形 災禍転福 轉禍為福 因祸得福 破壊王 破坏王 大型 部位 破壊 集中弱点攻撃 傷口 破壊 時 上昇 變得容易破壞大型魔物的部位 並增加以集中弱點攻擊破壞傷口時造成的傷害 更容易破坏大型怪物的部位 并提升集中弱点攻击破坏伤口时的伤害 Lv1 部位破壞的積蓄值與滿足條件時造成的傷害1.1倍 Lv2 部位破壞的積蓄值與滿足條件時造成的傷害1.2倍 Lv3 部位破壞的積蓄值與滿足條件時造成的傷害1.3倍 赫猿獸頭盔 赫猿兽头盔 素材 作 頭防具 体 芯 熱 感情 上 以赫猿獸素材製作的頭部防具 據說穿戴後體內會湧現出炙熱的情感 使用赫猿兽素材制作的头部防具 据说一旦戴上 体内深处便会涌起炽热的情感 赫猿獸鎧甲",
+      "path": "/zh-Hant/data/skills/po-huai-wang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/po-huai-wang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "鋪排鱗片的技巧",
+      "summary": "甲虫 擬態 甲蟲的擬態 甲虫之拟态 鱗重 工夫 堆疊鱗片的手藝 叠鳞之工艺 鱗張 技法 铺鳞之技法 Lv3 較容易騎乘魔物 騎乘狀態時亦較容易成功 炎尾龍頭盔 炎尾龙头盔 Lv1 素材 作 頭防具 大 飾 羽 人気 逸品 以炎尾龍素材製作的頭部防具 大大的裝飾用羽毛很受獵人歡迎 使用炎尾龙素材制作的头部防具 大大的羽毛装饰很受猎人的欢迎 炎尾龍鎧甲 炎尾龙铠甲 胴防具 儀礼用 防御力 高 以炎尾龍素材製作的身體防具 雖然是用於儀式的設計 但防禦力很高 使用炎尾龙素材制作的身体防具 虽然是用于仪式的设计 但防御力很高 炎尾龍腕甲 炎尾龙腕甲 腕防具",
+      "path": "/zh-Hant/data/skills/pu-pai-lin-pian-de-ji-qiao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/pu-pai-lin-pian-de-ji-qiao",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "前輩的指引",
+      "summary": "前辈之指引 Lv3 提高活躍化採集點的發生率 庫納法頭飾 库纳法头饰 Lv1 風音 村 砂 民 頭防具 先駆 衆 代 伝 装束 大 角飾 特徴 風音之村的沙之民的頭部防具 這是衝鋒隊隊長代代相傳的裝束 特徵是用巨大的角裝飾 风音村沙之民的头部防具 这是先锋团团长代代相传的装束 特征是装饰有大大的角 庫納法披肩 库纳法披肩 胴防具 羽根 縫 付 受 継 風音之村的沙之民的身體防具 披肩縫上了鷺鷹龍的羽毛 一代傳一代 风音村沙之民的身体防具 缝有鹭鹰龙羽毛的披肩 在村里代代相承 庫納法腰帶 库纳法腰带 腰防具 腰布 紋様",
+      "path": "/zh-Hant/data/skills/qian-bei-de-zhi-yin",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/qian-bei-de-zhi-yin",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "千刃龍之鬥志",
+      "summary": "耐性変換 雷 轉換耐性 耐性变换 刃鱗研装 刃鱗研裝 刃鳞研装 千刃竜 闘志 千刃龙的斗志 Lv2 延長技能 巧擊 的效果時間 並於發動期間再次滿足條件時小幅延長效果時間 僅限一次 Lv4 發動與 同樣的效果 並於發動期間再次滿足條件時提升攻擊力 千刃龍頭盔 千刃龙头盔 Lv1 素材 作 頭防具 千 勲 金色 軍隊 旭陽 浴 凱旋 以千刃龍素材製作的頭部防具 金色軍隊立下成千軍功 在旭日的照耀下凱旋而歸 使用千刃龙素材制作的头部防具 立下成千功勋的金色之军 沐浴朝阳 凯旋而归 千刃龍鎧甲 千刃龙铠甲 胴防具 千",
+      "path": "/zh-Hant/data/skills/qian-ren-long-zhi-dou-zhi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/qian-ren-long-zhi-dou-zhi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "強化持續",
+      "summary": "强化持续 太刀 双剣 剣斧 盾斧 操虫棍 発生 強化状態 持続時間 長 延長太刀 雙劍 斬擊斧 充能斧和操蟲棍的強化狀態時間 持有太刀 双剑 斩斧 操虫棍时发动 延长其强化状态的持续时间 Lv1 小幅延長強化時間 Lv2 延長強化時間 Lv3 大幅延長強化時間 雙戰斧 双战斧 片手用 小斧 両手 持 戦 一対 斧 獲物 叩 斬 以兩把單手用小斧組成的雙劍 成對的斧頭會將獵物斬殺 两手各拿一把单手用的小斧所形成的双剑 用这对斧子砍杀怪物 以兩把單手用小斧組成的雙劍 成對的斧頭會將獵物斬殺 两手各拿一把单手用的小斧所形成的双剑",
+      "path": "/zh-Hant/data/skills/qiang-hua-chi-xu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/qiang-hua-chi-xu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "巧擊",
+      "summary": "迴避時 若時機正好與魔物的攻擊重合 增加一定時間內的攻擊力 逆恨 怨恨 攻 守勢 攻擊守勢 攻击守势 巧撃 巧击 回避時 攻撃 重 一定時間攻撃力 上 迴避時 若時機正好與魔物的攻擊重合 增加一定時間內的攻擊力 回避时 若时机正好与怪物的攻击重合 提升一定时间内的攻击力 Lv1 技能發動時 基礎攻擊力+10 Lv2 技能發動時 基礎攻擊力+15 Lv3 技能發動時 基礎攻擊力+20 Lv4 技能發動時 基礎攻擊力+25 Lv5 技能發動時 基礎攻擊力+30 火龍鎧甲 火龙铠甲 素材 胴防具 無欠 性能 畏怖",
+      "path": "/zh-Hant/data/skills/qiao-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/qiao-ji",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "慶典巡禮",
+      "summary": "刃鱗増装 刃鱗增裝 刃鳞增装 火蹈祈願 踊火祈祷 祝祭 巡 祭典巡礼 Lv3 任務期間素材剝取次數+1 不會從任務中途發動 桜波 御頭 櫻浪 落樱缤纷 武士头部 Lv1 祭事 花舞 作 頭防具 纏 意匠 春暁 臨 傾奇者 豪気 体現 可憑慶典票 製作的頭部防具 獨特的設計體現出傾奇者於春曉之時的豪氣 使用祭典票券 制作的头部防具 独特的设计体现出春晓之时倾奇者的豪气 直垂 落樱缤纷 武士礼服 胴防具 装束 心意気 可憑慶典票 製作的身體防具 身披的裝束體現出傾奇者於春曉之時的決心 使用祭典票券",
+      "path": "/zh-Hant/data/skills/qing-dian-xun-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/qing-dian-xun-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "拳法的極意者",
+      "summary": "花舞 祈 花舞祈願 花舞祈祷 拳 極 者 拳之极者 Lv3 強化特殊動作的威力 對動力衝擊追加抵消效果 並於成功連消帶打後於一定時間內再度強化 鬼 数珠 鬼之念珠 鬼之念珠 Lv1 己 拳 極 高 睨 続 修羅 纏 修羅所穿戴的佛珠 他為鍛鍊拳法至登峰造極之境 不斷邁向高處 整套防具 修罗佩戴的念珠 他追求武道之极致 终其一生凝望顶点 整套防具 外衣 鬼之外衣 鬼之外衣 天 掲 仁王 如 立 修羅所身穿的外衣 他為鍛鍊拳法至登峰造極之境 頂天立地猶如仁王",
+      "path": "/zh-Hant/data/skills/quan-fa-de-ji-yi-zhe",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/quan-fa-de-ji-yi-zhe",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "刃鱗研裝",
+      "summary": "拔刀後 若迴避的時機正好與魔物的攻擊重合 獲得特殊的銳利度 千刃竜 闘志 千刃龍之鬥志 千刃龙的斗志 刃鱗増装 刃鱗增裝 刃鳞增装 刃鱗研装 刃鳞研装 抜刀時 攻撃 回避 特殊 斬 味 得 拔刀後 若迴避的時機正好與魔物的攻擊重合 獲得特殊的銳利度 拔刀后 若回避正好与怪物攻击的时机重合 能获得特殊的锋利度 Lv1 發動技能效果 裂傷參宿七 大剑参宿七 角 模 大剣 眩 伴 繰 出 一撃 闇 切 裂 模仿千刃龍之角的大劍 帶同耀眼光芒施展的一擊會斬裂任何黑暗 模仿千刃龙的角打造的大剑 伴随着眩目光辉的一击能斩破任何黑暗",
+      "path": "/zh-Hant/data/skills/ren-lin-yan-zhuang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ren-lin-yan-zhuang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "刃鱗增裝",
+      "summary": "拔刀後 若迴避的時機正好與魔物的攻擊重合 獲得特殊裝填的彈藥或瓶 刃鱗研装 刃鱗研裝 刃鳞研装 慶典巡禮 祭典巡礼 刃鱗増装 刃鳞增装 抜刀時 攻撃 回避 特殊 装填 弾 得 拔刀後 若迴避的時機正好與魔物的攻擊重合 獲得特殊裝填的彈藥或瓶 拔刀后 若回避正好与怪物攻击的时机重合 能获得特殊装填的弹药 瓶 Lv1 發動技能效果 銳弓箕宿一 弓箭箕宿一 鋭 運動性 取 入 弓 放 矢 刃 如 獲物 穿 這把弓結合了千刃龍動作迅速猛烈且靈活的特徵 射出的箭會如利刃般猛烈地貫穿獵物 融入千刃龙敏捷而锐利的运动性能所打造的弓 射出的箭矢宛如利刃 锐不可当",
+      "path": "/zh-Hant/data/skills/ren-lin-zeng-zhuang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ren-lin-zeng-zhuang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "榮光嘉譽",
+      "summary": "荣光盛赞 Lv3 增加任務的目標報酬 不會從任務中途發動 公會十字頭飾 公会十字头饰 Lv1 闘技大会 勝者 贈 頭防具 金色 輝 英雄 偉大 智慧 讃 贈予鬥技大會贏家的頭部防具 頭冠閃耀的金色光輝是對英雄偉大智慧的讚歌 赠与斗技大会胜利者的头部防具 闪烁金色光芒的头冠 是对英雄伟大智慧的赞美 公會十字戰衣 公会十字战衣 Lv1 闘技大会 勝者 贈 胴防具 認 英雄 最強 証明 贈予鬥技大會贏家的身體防具 這件披風是最強的證明 只有公會認定的英雄才有資格獲得 赠与斗技大会胜利者的身体防具 背后的斗篷是最强之人的证明 只有被公会认可的英雄才有资格获得 公會十字腕甲 公会十字腕甲 闘技大会 腕防具 腕前",
+      "path": "/zh-Hant/data/skills/rong-guang-jia-yu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/rong-guang-jia-yu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "濡濕刀紋",
+      "summary": "浸水刃纹 水 時 泡状態 一定時間 会心率 上昇 条件 重複 効果 発動 被水沾濕或陷入泡沫狀態時 增加一定時間內的會心率 滿足各個條件後可重複發動 身体淋湿或在泡沫状态下时 一定时间内提高会心率 满足对应条件后 效果可重复发动 Lv1 被水沾濕時 會心率+3% 陷入泡沫狀態時 會心率+7% Lv2 被水沾濕時 會心率+6% 陷入泡沫狀態時 會心率+14% Lv3 被水沾濕時 會心率+9% 陷入泡沫狀態時 會心率+21% 狐大剣 狐大劍東道宿夜花 狐大剑 夜宿樱花树 文武 優 士 遺 雅 大剣 咲",
+      "path": "/zh-Hant/data/skills/ru-shi-dao-wen",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ru-shi-dao-wen",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "弱點特效",
+      "summary": "攻擊魔物時 若攻擊對該部位有效 則增加會心率 超会心 超會心 抜刀術 技 拔刀術 拔刀术 弱点特効 弱点特效 攻撃 際 部位 有効 会心率 上 攻擊魔物時 若攻擊對該部位有效 則增加會心率 攻击怪物时 若攻击对该部位颇为有效 会心率会提升 Lv1 攻擊有效部位時 會心率+5%攻擊傷口時 會心率再+3% Lv2 攻擊有效部位時 會心率+10%攻擊傷口時 會心率再+5% Lv3 攻擊有效部位時 會心率+15%攻擊傷口時 會心率再+10% Lv4 攻擊有效部位時 會心率+20%攻擊傷口時 會心率再+15% Lv5 攻擊有效部位時 會心率+30%攻擊傷口時 會心率再+20% 護火竜",
+      "path": "/zh-Hant/data/skills/ruo-dian-te-xiao",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ruo-dian-te-xiao",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "散彈",
+      "summary": "剛射強化 增加弩槍的散彈和弓的剛射 迅雷閃擊的攻擊力 貫通弾 竜 矢強化 貫通彈 龍之箭強化 贯穿弹 龙之箭强化 弾導強化 彈道強化 弹道强化 散弾 剛射強化 剛射強化 散弹 刚射强化 弓 剛射 攻撃力 上 增加弩槍的散彈和弓的剛射 迅雷閃擊的攻擊力 提升弩炮的散弹与弓的刚射 迅雷闪击的攻击力 Lv1 稍微提升上述彈藥和箭的威力 龍之箭強化 龙之箭强化 弾導強化 彈道強化 弹道强化 剛射強化 增加弩槍的散彈和弓的剛射 迅雷閃擊的攻擊力",
+      "path": "/zh-Hant/data/skills/san-dan-gang-she-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/san-dan-gang-she-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "閃光強化",
+      "summary": "增強主動引發的閃光的效果 砥石使用高速化 砥石使用高速化 砥石使用高速化 植生学 植生學 闪光强化 発生 閃光 効 增強主動引發的閃光的效果 增强主动引发的闪光的效果 Lv1 提升閃光效果 毒怪鳥頭盔 毒怪鸟头盔 Lv1 素材 作 頭防具 質素材 利点 引 出 物理攻撃 強 以毒怪鳥素材製作的頭部防具 善用橡膠質素材的優點 能有效抵抗物理攻擊 使用毒怪鸟素材制作的头部防具 充分发挥橡胶质素材的优点 防御物理攻击特别有效 墨鏡 墨镜 加工屋 光 採集 狩 運搬 決 彰顯著工匠品味的頭部防具 讓你在採集 狩獵或搬運時 都能擺出一副酷酷的撲克臉",
+      "path": "/zh-Hant/data/skills/shan-guang-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shan-guang-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "適應環境",
+      "summary": "擁有對炎熱 寒冷和造成傷害的地形的耐性 悪臭耐性 惡臭耐性 恶臭耐性 体力回復量 體力回復量上升 体力回复量提升 環境適応 适应环境 暑 寒 受 地形 対 耐性 得 擁有對炎熱 寒冷和造成傷害的地形的耐性 获得对炎热 寒冷及会造成伤害的地形的耐性 Lv1 使炎熱 寒冷的影響無效 Lv2 寒冷和地形造成的傷害無效 凍峰龍鎧甲 冻峰龙铠甲 素材 作 胴防具 復讐心 冷徹 胸 秘 多層装甲 数多 苦難 吸収 以凍峰龍素材製作的身體防具 復仇意志藏於冷酷之心 多層裝甲會吸收眾多苦難 使用冻峰龙素材制作的身体防具 复仇之心冷静地藏于胸中",
+      "path": "/zh-Hant/data/skills/shi-ying-huan-jing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shi-ying-huan-jing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "適應水域/油泥",
+      "summary": "擁有對水域 油泥和水流的行動限制耐性 砲弾装填 砲彈裝填 炮弹装填 緩衝 缓冲 水場 油泥適応 适应水域 油泥 行動制限 水 流 行動制限 対 耐性 持 擁有對水域 油泥和水流的行動限制耐性 获得对水域 油泥及水流造成的移动限制的耐性 Lv1 使水域 油泥的移動限制與濁流的影響無效 並緩和重油的移動限制 Lv2 油泥的移動限制與濁流 波浪的影響無效 波衣龍腰甲 波衣龙腰甲 素材 作 腰防具 長 腰布 森 息吹 衝撃 吸収 以波衣龍素材製作的腰部防具 長長的腰巾蘊藏著森林的氣息 可吸收任何衝擊 使用波衣龙素材制作的腰部防具",
+      "path": "/zh-Hant/data/skills/shi-ying-shui-yu-you-ni",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shi-ying-shui-yu-you-ni",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "收刀術",
+      "summary": "加快收刀的速度 強化 防禦強化 格挡强化 風圧耐性 風壓耐性 风压耐性 納刀術 纳刀术 速度 速 加快收刀的速度 加快收起武器的速度 Lv1 小幅提升速度 Lv2 提升速度 Lv3 大幅提升速度 合金頭盔 合金头盔 良質 鉱石素材 用 頭防具 武骨 作 実用本位 高 防御性能 有 使用優質礦石素材製作的頭部防具 外觀粗獷但講求實用性 擁有較高的防禦性能 使用上好矿石素材制作的头部防具 虽然造型粗犷 但拥有以实用为主的高防御性能 合金護腿 合金护腿 Lv1 良質 鉱石素材 用 脚防具",
+      "path": "/zh-Hant/data/skills/shou-dao-shu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shou-dao-shu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "首發射擊",
+      "summary": "提升弩槍的裝填速度 並於裝填至全滿時增加彈藥威力 速射強化 速射強化 速射强化 第四射擊 强四射击 首发迅击 装填速度 上 最大 装填 時 発射 弾 威力 上昇 提升弩槍的裝填速度 並於裝填至全滿時增加彈藥威力 提升弩炮的装填速度 并在装填至全满后提升首发弹药的威力 Lv1 小幅提升弩槍的裝填速度與滿足條件的彈藥威力 Lv2 提升弩槍的裝填速度與滿足條件的彈藥威力 Lv3 大幅提升弩槍的裝填速度與滿足條件的彈藥威力 纏蛙破壞砲 缠蛙破坏炮 Lv1 素材 用 重弩 大口径 弾倉 設計 火力重視 性能 以纏蛙素材製作的重弩槍 大口徑彈匣的設計使其性能偏向重火力 使用缠蛙素材制作的重弩炮 大口径弹仓的设计代表其性能偏向于重火力 纏蛙破壞砲 缠蛙破坏炮",
+      "path": "/zh-Hant/data/skills/shou-fa-she-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shou-fa-she-ji",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "束縛耐性",
+      "summary": "擁有對繩束縛狀態與凍結狀態的耐性 裂傷耐性 裂傷耐性 裂伤耐性 爆破 耐性 爆破異常耐性 爆破异常耐性 拘束耐性 束缚耐性 糸拘束状態 凍結状態 対 得 擁有對繩束縛狀態與凍結狀態的耐性 获得丝线束缚状态及冻结状态的耐性 Lv1 能快速地從繩束縛狀態與凍結狀態中回復 Lv2 能非常快速地從繩束縛狀態與凍結狀態中回復 Lv3 不會陷入繩束縛狀態或凍結狀態 影蜘蛛鎧甲 影蜘蛛铠甲 素材 作 胴防具 高度 技術 用 驚愕 軽量化 遂 以影蜘蛛素材製作的身體防具 製作時使用了高度的技術 讓裝備變得輕盈無比 使用影蜘蛛素材制作的身体防具 采用先进的技术 使其惊人地轻巧无比 影蜘蛛腰甲 影蜘蛛腰甲 Lv1 素材 作",
+      "path": "/zh-Hant/data/skills/shu-fu-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shu-fu-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "屬性吸收",
+      "summary": "属性吸收 属性攻撃 受 発動 一定時間 属性 関 効果 得 効果終了 後 一定時間 受到屬性攻擊後發動 於一定時間內獲得和屬性相關的效果 效果結束後於一定時間內不會再發動 受到属性攻击后会发动 在一定时间内获得与属性相关的效果 效果结束后 需要经过一定时间才能再次发动 Lv1 技能發動時 極小幅提升屬性攻擊值 發動時所受攻擊的屬性的耐性值+4 Lv2 技能發動時 小幅提升屬性攻擊值 發動時所受攻擊的屬性的耐性值+6 Lv3 技能發動時 提升屬性攻擊值 發動時所受攻擊的屬性的耐性值+8 鎖刃龍頭盔 锁刃龙头盔 素材 作 頭防具 世界 震撼 亡国 騎士 兜 模 以鎖刃龍素材製作的頭部防具 外型有如曾震撼世界的亡國騎士頭盔",
+      "path": "/zh-Hant/data/skills/shu-xing-xi-shou",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shu-xing-xi-shou",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "屬性異常耐性",
+      "summary": "擁有對所有屬性異常的耐性 防御力 耐性 防禦力下降耐性 防御力下降耐性 気絶耐性 昏厥耐性 昏厥耐性 属性 属性异常耐性 全 状態 対 得 擁有對所有屬性異常的耐性 拥有对所有属性异常的耐性 Lv1 減少所有屬性異常的效果時間50 Lv2 減少所有屬性異常的效果時間75% Lv3 使所有屬性異常無效 護鎖刃竜 護鎖刃龍鎧甲 护锁刃龙铠甲 護竜 胴防具 不可思議 力 立 上 以護鎖刃龍素材製作的身體防具 奇妙的力量搖曳般地從體內湧現 使用护锁刃龙素材制作的身体防具 奇妙的力量摇曳般地从体内涌起 護鎖刃竜 護鎖刃龍腰甲 护锁刃龙腰甲 腰防具 腰 鎖 常 脈動 獲物",
+      "path": "/zh-Hant/data/skills/shu-xing-yi-chang-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shu-xing-yi-chang-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "屬性轉換",
+      "summary": "属性变换 属性攻撃 受 発動 一定時間 龍属性 関 効果 得 効果終了 後 一定時間 受到屬性攻擊後發動 於一定時間內獲得和龍屬性相關的效果 效果結束後於一定時間內不會再發動 受到属性攻击后会发动 在一定时间内获得与龙属性相关的效果 效果结束后 需要经过一定时间才能再次发动 Lv1 效果發動時 小幅提升龍屬性攻擊值 並於累積屬性傷害後造成額外龍屬性傷害 Lv2 效果發動時 提升龍屬性攻擊值 並於累積屬性傷害後造成較多額外龍屬性傷害 Lv3 效果發動時 大幅提升龍屬性攻擊值 並於累積屬性傷害後造成更多額外龍屬性傷害 鎖刃龍頭盔 锁刃龙头盔 素材 作 頭防具 世界 震撼 亡国 騎士 兜 模 以鎖刃龍素材製作的頭部防具 外型有如曾震撼世界的亡國騎士頭盔",
+      "path": "/zh-Hant/data/skills/shu-xing-zhuan-huan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shu-xing-zhuan-huan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "睡眠耐性",
+      "summary": "發動睡眠耐性技能的護身符 发动睡眠耐性技能的护身符 麻痺耐性 麻痺耐性 麻痹耐性 防御力 耐性 防禦力下降耐性 防御力下降耐性 縮短睡眠狀態的時間 麻痺耐性 麻痺耐性 麻痹耐性 防御力 耐性 防禦力下降耐性 防御力下降耐性 睡眠状態 時間 短 縮短睡眠狀態的時間 缩短睡眠状态的时间 Lv1 減少睡眠狀態的時間30% Lv2 減少睡眠狀態的時間60% Lv3 不會進入睡眠狀態 眠刺蟲頭飾 血眠虫头饰 Lv1 素材 作 頭防具 薄 甲殻 妖 光 反射 以眠刺蟲素材製作的頭部防具 輕薄的甲殼會反射出妖豔光芒 使用血眠虫素材制作的头部防具 纤薄而柔韧的甲壳反射出妖艳的光泽 影蜘蛛腰甲",
+      "path": "/zh-Hant/data/skills/shui-mian-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shui-mian-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "睡眠瓶追加",
+      "summary": "裝備弓時可裝填睡眠瓶 麻痺 追加 麻痺瓶追加 麻痹瓶追加 爆破 爆破瓶追加 爆破瓶追加 睡眠 弓装備中 装填 可能 裝備弓時可裝填睡眠瓶 装备弓时 可装填睡眠瓶 Lv1 可裝填睡眠瓶 麻痺瓶追加 麻痹瓶追加 爆破瓶追加 爆破瓶追加 裝備弓時可裝填睡眠瓶",
+      "path": "/zh-Hant/data/skills/shui-mian-ping-zhui-jia",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shui-mian-ping-zhui-jia",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "睡眠屬性強化",
+      "summary": "強化武器的睡眠屬性累積值 麻痺属性強化 麻痺屬性強化 麻痹属性强化 爆破属性強化 爆破屬性強化 爆破属性强化 睡眠属性強化 睡眠属性强化 睡眠属性 蓄積値 強化 属性値 上限 強化武器的睡眠屬性累積值 有上限 强化睡眠属性累积值 武器属性值的强化存在上限 Lv1 睡眠累積值1.05倍後+10 Lv2 睡眠累積值1.1倍後+20 Lv3 睡眠累積值1.2倍後+50 麻痺属性強化 麻痺屬性強化 麻痹属性强化 爆破属性強化 爆破屬性強化 爆破属性强化 強化武器的睡眠屬性累積值",
+      "path": "/zh-Hant/data/skills/shui-mian-shu-xing-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shui-mian-shu-xing-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "水耐性",
+      "summary": "発動 守 發動水耐性技能的護身符 发动水耐性技能的护身符 耐水護石 耐水护石 發動水耐性技能的護身符 发动水耐性技能的护身符 耐水護石 耐水护石 發動水耐性技能的護身符 发动水耐性技能的护身符 火耐性 雷耐性 雷耐性 增加水耐性 提升技能等級後 也會影響防禦力",
+      "path": "/zh-Hant/data/skills/shui-nai-xing",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shui-nai-xing",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "水屬性攻擊強化",
+      "summary": "強化武器的水屬性值 火属性攻撃強化 火屬性攻擊強化 火属性攻击强化 氷属性攻撃強化 冰屬性攻擊強化 冰属性攻击强化 水属性攻撃強化 水属性攻击强化 水属性 力 強化 属性値 上限 強化武器的水屬性值 有上限 强化水属性之力 武器属性值的强化存在上限 Lv1 水屬性攻擊值+40 Lv2 水屬性攻擊值1.1倍後+50 Lv3 水屬性攻擊值1.2倍後+60 火属性攻撃強化 火屬性攻擊強化 火属性攻击强化 氷属性攻撃強化 冰屬性攻擊強化 冰属性攻击强化",
+      "path": "/zh-Hant/data/skills/shui-shu-xing-gong-ji-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/shui-shu-xing-gong-ji-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "速射強化",
+      "summary": "強化輕弩槍的速射威力 弾導強化 彈道強化 弹道强化 首發射擊 首发迅击 速射强化 速射 強化 強化輕弩槍的速射威力 强化轻弩炮的速射威力 Lv1 速射威力1.05倍 弾導強化 彈道強化 弹道强化 首發射擊 首发迅击 強化輕弩槍的速射威力",
+      "path": "/zh-Hant/data/skills/su-she-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/su-she-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "鎖刃刺擊",
+      "summary": "锁刃刺击 傷 攻撃 蓄積 追加 無属性 発生 一部特定 対象外 容易造成創傷 並於以攻擊累積傷害後造成額外無屬性傷害 部分攻擊除外 更容易造成创伤 以攻击累积伤害后 会追加造成无属性伤害 部分攻击除外 Lv1 稍微容易造成創傷 並造成額外無屬性傷害 Lv2 容易造成創傷 並極小幅提升額外無屬性傷害 Lv3 很容易造成創傷 並小幅提升額外無屬性傷害 Lv4 非常容易造成創傷 並提升額外無屬性傷害 Lv5 極容易造成創傷 並大幅提升額外無屬性傷害 護鎖刃竜 護鎖刃龍頭盔 护锁刃龙头盔 護竜 頭防具 視界 狭 様 知覚 脳 流 込 以護鎖刃龍素材製作的頭部防具",
+      "path": "/zh-Hant/data/skills/suo-ren-ci-ji",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/suo-ren-ci-ji",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "鎖刃龍之飢餓",
+      "summary": "黒蝕竜 力 黑蝕龍之力 黑蚀龙之力 護鎖刃竜 命脈 護鎖刃龍之命脈 护锁刃龙之命脉 鎖刃竜 飢餓 锁刃龙之饥饿 Lv2 攻擊不斷命中魔物時回復少量體力 回復量依武器種類而不同 Lv4 攻擊不斷命中魔物時回復體力 回復量依武器種類而不同 鎖刃龍頭盔 锁刃龙头盔 Lv1 素材 作 頭防具 世界 震撼 亡国 騎士 兜 模 以鎖刃龍素材製作的頭部防具 外型有如曾震撼世界的亡國騎士頭盔 使用锁刃龙素材制作的头部防具 模仿了曾经震撼世界的亡国骑士的头盔 鎖刃龍鎧甲 锁刃龙铠甲 胴防具 勇猛 対峙 者 心 挫 以鎖刃龍素材製作的身體防具 據說穿上它的勇猛騎士折服了所有對手的內心 使用锁刃龙素材制作的身体防具",
+      "path": "/zh-Hant/data/skills/suo-ren-long-zhi-ji-e",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/suo-ren-long-zhi-ji-e",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "特殊射擊強化",
+      "summary": "增加弩槍的特殊彈藥與弓的龍之箭 龍之千矢和誘導箭的威力 第四射擊 强四射击 毒瓶追加 毒瓶追加 特殊射撃強化 特殊射击强化 特殊弾 弓 竜 一矢 千 矢 導 威力 上 增加弩槍的特殊彈藥與弓的龍之箭 龍之千矢和誘導箭的威力 提升弩炮的特殊弹药与弓的龙之箭 龙之千矢 引导箭的威力 Lv1 小幅提升上述彈藥和箭的威力 Lv2 提升上述彈藥和箭的威力 煌雷弓 雷 纏 幾千 雷撃 放 伝 力 衰 帶有煌雷龍雷電的弓 無論射出多少雷擊 箭矢上的力量依然不減 带有煌雷龙雷电的弓 即使释放出千万雷击 箭矢的力量依然不减 帶有煌雷龍雷電的弓 無論射出多少雷擊 箭矢上的力量依然不減",
+      "path": "/zh-Hant/data/skills/te-shu-she-ji-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/te-shu-she-ji-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "體力回復量上升",
+      "summary": "提高體力回復時的回復量 環境適応 適應環境 适应环境 回復速度 回復速度 回复速度 体力回復量 体力回复量提升 体力回復 回復量 上 提高體力回復時的回復量 提高体力回复时的回复量 Lv1 極小幅增加回復量 Lv2 小幅增加回復量 Lv3 大幅增加回復量 刺花蜘蛛腕甲 刺花蜘蛛腕甲 素材 作 腕防具 場 着用 許 艶 以刺花蜘蛛素材製作的臂部防具 外觀艷麗 甚至能於正式場合中穿戴 使用刺花蜘蛛素材制作的臂部防具 非常华丽 甚至可以在正式场合穿着 刺花蜘蛛腰甲 刺花蜘蛛腰甲 腰防具 貴族 好 身 高貴 以刺花蜘蛛素材製作的腰部防具 採用貴族偏好穿戴的高貴設計",
+      "path": "/zh-Hant/data/skills/ti-li-hui-fu-liang-shang-sheng",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ti-li-hui-fu-liang-shang-sheng",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "體術",
+      "summary": "消耗定量耐力的行動 例如迴避 所需的耐力消耗量減少 環境利用 知識 環境利用知識 环境利用知识 急速回復 耐力急速回復 耐力急速回复 体術 体术 回避 固定 消費 行動 消費量 軽減 消耗定量耐力的行動 例如迴避 所需的耐力消耗量減少 进行回避等消耗固定耐力的行动时 减少所需的耐力消耗量 Lv1 減少定量耐力消耗量10% Lv2 減少定量耐力消耗量20% Lv3 減少定量耐力消耗量30% Lv4 減少定量耐力消耗量40% Lv5 減少定量耐力消耗量50% 煌雷龍鎧甲 煌雷龙铠甲 素材 作 胴防具 特徴的 甲殻 複雑 組 合 事",
+      "path": "/zh-Hant/data/skills/ti-shu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/ti-shu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "跳躍鐵人",
+      "summary": "跳躍時即使受攻擊也不會後仰 飛 込 飛身躍入 飞身跃入 攀岩者 鉄人 跳跃铁人 中 攻撃 受 跳躍時即使受攻擊也不會後仰 跳跃中即使遭受攻击 也不会后仰 Lv1 跳躍時不會後仰 護竜 護鷺鷹龍腰甲 护鹭鹰龙腰甲 Lv1 素材 作 腰防具 白 長 羽根 発光 非常 美 以護鷺鷹龍素材製作的腰部防具 白色的長羽毛散發微光 極為美麗 使用护鹭鹰龙素材制作的腰部防具 雪白的长羽毛带着淡淡的光芒 非常美丽 護鷺鷹龍腰甲 护鹭鹰龙腰甲 以護鷺鷹龍素材製作的腰部防具 白色的長羽毛散發微光 極為美麗 使用护鹭鹰龙素材制作的腰部防具 雪白的长羽毛带着淡淡的光芒 非常美丽 護鷺鷹龍腰甲",
+      "path": "/zh-Hant/data/skills/tiao-yue-tie-ren",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/tiao-yue-tie-ren",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "挑戰者",
+      "summary": "戰鬥中的大型魔物發怒時 增加攻擊力與會心率 腹減 耐性 飢餓耐性 饥饿耐性 力 解放 力量解放 力量解放 挑戦者 挑战者 戦闘中 大型 怒 攻撃力 会心率 上昇 戰鬥中的大型魔物發怒時 增加攻擊力與會心率 战斗中的大型怪物发怒时 提升攻击力与会心率 Lv1 技能發動時 基礎攻擊力+4 會心率+3% Lv2 技能發動時 基礎攻擊力+8 會心率+5% Lv3 技能發動時 基礎攻擊力+12 會心率+7% Lv4 技能發動時 基礎攻擊力+16 會心率+10% Lv5 技能發動時 基礎攻擊力+20 會心率+15% 怪鳥鎧甲 怪鸟铠甲",
+      "path": "/zh-Hant/data/skills/tiao-zhan-zhe",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/tiao-zhan-zhe",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "通常彈",
+      "summary": "通常箭強化 增加弩槍的通常彈和弓的通常射擊 飛燕射擊的攻擊力 達人芸 達人藝 达人艺 貫通弾 竜 矢強化 貫通彈 龍之箭強化 贯穿弹 龙之箭强化 通常弾 通常矢強化 通常箭強化 通常弹 通常箭强化 弓 通常射撃 飛燕射 攻撃力 上 增加弩槍的通常彈和弓的通常射擊 飛燕射擊的攻擊力 提升弩炮的通常弹与弓的通常射击 飞燕射击的攻击力 Lv1 稍微提升上述彈藥和箭的威力 龍之箭強化 龙之箭强化 通常箭強化 增加弩槍的通常彈和弓的通常射擊 飛燕射擊的攻擊力",
+      "path": "/zh-Hant/data/skills/tong-chang-dan-tong-chang-jian-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/tong-chang-dan-tong-chang-jian-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "威嚇",
+      "summary": "護石 威嚇護石 威吓护石 Lv1 装備 発動 守 發動威嚇技能的護身符 发动威吓技能的护身符 威嚇護石 威吓护石 Lv2 發動威嚇技能的護身符 发动威吓技能的护身符 威嚇護石 威吓护石 發動威嚇技能的護身符 发动威吓技能的护身符 軽減 減輕膽怯 减轻胆怯 早食 快吃 即使被小型魔物發現也不容易進入戰鬥狀態 對甲蟲種等部分魔物無效",
+      "path": "/zh-Hant/data/skills/wei-xia",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/wei-xia",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "無傷",
+      "summary": "護石 無傷護石 无伤护石 Lv1 装備 発動 守 發動無傷技能的護身符 发动无伤技能的护身符 無傷護石 无伤护石 Lv2 發動無傷技能的護身符 发动无伤技能的护身符 無傷護石 无伤护石 Lv3 發動無傷技能的護身符 发动无伤技能的护身符 攻 守勢 攻擊守勢 攻击守势 逆襲 逆袭 體力全滿時 增加攻擊力",
+      "path": "/zh-Hant/data/skills/wu-shang",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/wu-shang",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "無我境界",
+      "summary": "感染狂龍病毒時較容易克服 並增加克服狀態的會心率 急襲 急袭 属性吸収 屬性吸收 属性吸收 無我 境地 无我之境 狂竜 感染 時 狂竜症 克服 克服状態 会心率 増加 感染狂龍病毒時較容易克服 並增加克服狀態的會心率 感染狂龙病毒时会容易克服 并提升克服状态时的会心率 Lv1 感染狂龍病毒時稍微容易克服 克服時會心率+3% Lv2 感染狂龍病毒時容易克服 克服時會心率+6% Lv3 感染狂龍病毒時更容易克服 克服時會心率+10% 黑蝕龍鎧甲 黑蚀龙铠甲 素材 作 胴防具 瘴気 苛 獲物 黄泉 誘 抗 叶 以黑蝕龍素材製作的身體防具",
+      "path": "/zh-Hant/data/skills/wu-wo-jing-jie",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/wu-wo-jing-jie",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "協作程式",
+      "summary": "使用飛天螺旋斬後 一定時間內提升自己與一定範圍內的夥伴的會心率 合成盾 暗黒騎士 証 暗黑騎士之證 暗黑骑士之证 連携 协作程序 飛天螺旋斬 使用 時 一定時間 自分 一定範囲内 仲間 会心率 上 使用飛天螺旋斬後 一定時間內提升自己與一定範圍內的夥伴的會心率 使用飞天螺旋斩时 一定时间内提升自身及范围内同伴的会心率 Lv1 發動技能效果 歐米茄之杖 欧米茄之杖 自律兵器 生 出 模 操虫棍 放 連撃 間断 対象 到達 仿造某自律型兵器產生的武器而製成的操蟲棍 使出的連擊會源源不斷地擊中目標 此操虫棍的造型模仿了某个自律型兵器生成的武器 使出的连击会源源不断地击中目标 真 歐米茄之杖 欧米茄之杖 数多",
+      "path": "/zh-Hant/data/skills/xie-zuo-cheng-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/xie-zuo-cheng-shi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "心眼",
+      "summary": "攻擊較不易被彈開 增加對堅硬部位的攻擊的威力 剛刃研磨 剛刃研磨 刚刃打磨 鈍器使 鈍器能手 钝器能手 攻撃 弾 辛 硬 部位 威力 上 攻擊較不易被彈開 增加對堅硬部位的攻擊的威力 攻击不易被弹开 对坚硬部位的攻击威力上升 Lv1 攻擊有50%機率不會被彈開 對堅硬部位的威力1.1倍 Lv2 攻擊有100%機率不會被彈開 對堅硬部位的威力1.15倍 Lv3 攻擊有100%機率不會被彈開 對堅硬部位的威力1.3倍 剛刃研磨 剛刃研磨 刚刃打磨 鈍器能手 钝器能手",
+      "path": "/zh-Hant/data/skills/xin-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/xin-yan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "兇爪龍之力",
+      "summary": "雪獅子 闘志 雪獅子王之鬥志 雪狮子王之斗志 雷顎竜 雷顎龍之鬥志 雷颚龙之斗志 兇爪竜 力 凶爪龙之力 Lv2 連擊 效果發動時延長其有效時間 基礎攻擊力+8 Lv4 效果發動時進一步延長其有效時間 基礎攻擊力+18 護兇爪竜 護兇爪龍頭盔 护凶爪龙头盔 Lv1 護竜 亜種 素材 作 頭防具 身 者 言 渇望 襲 以護兇爪龍素材製作的頭部防具 穿戴此頭盔者將感受到難以名狀的渴望 使用护凶爪龙素材制作的头部防具 戴上它的人会被难以形容的渴望侵袭 護兇爪竜 護兇爪龍鎧甲 护凶爪龙铠甲 Lv1 護竜 亜種 素材 作 胴防具",
+      "path": "/zh-Hant/data/skills/xiong-zhua-long-zhi-li",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/xiong-zhua-long-zhi-li",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "蓄攻強化",
+      "summary": "大錘的蓄力攻擊命中時 增加該攻擊的傷害和觸發昏厥的能力 笛吹 名人 吹笛名人 吹笛名人 飛燕 飞燕 溜打強化 蓄击强化 溜 攻撃 際気絶 誘発 力 強化 増加 大錘的蓄力攻擊命中時 增加該攻擊的傷害和觸發昏厥的能力 大锤的蓄力攻击命中时 提升引发昏厥的能力 并增加伤害 Lv1 發動技能效果 纏蛙大錘 缠蛙锤 Lv1 頭部 模 顎 甲殻 重 活 一撃 脅威的 模仿纏蛙頭部造型的大錘 每一擊都利用了下顎甲殼的重量 威力驚人 模仿缠蛙头部造型的大锤 充分发挥了颚部甲壳的重量 威力惊人 纏蛙大錘 模仿纏蛙頭部造型的大錘 每一擊都利用了下顎甲殼的重量",
+      "path": "/zh-Hant/data/skills/xu-gong-qiang-hua",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/xu-gong-qiang-hua",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "蓄力大師",
+      "summary": "增加蓄力攻擊的屬性值與狀態異常累積值 会心撃 特殊 會心擊 会心击 属性変換 屬性轉換 属性变换 蓄力大师 溜 攻撃 属性値 状態異常蓄積値 上 增加蓄力攻擊的屬性值與狀態異常累積值 蓄力攻击的属性值和状态异常累积值上升 Lv1 小幅提升蓄力攻擊的屬性攻擊值與狀態異常累積值 Lv2 提升蓄力攻擊的屬性攻擊值與狀態異常累積值 Lv3 大幅提升蓄力攻擊的屬性攻擊值與狀態異常累積值 鶏 斬首刀 雞 斩首刀 鸡 翼 彷彿 見事 大剣 丹念 加工 素材 刀身 用 宛如怪鳥翅膀的雄偉大劍 刀身以精心加工素材製成 宛如怪鸟羽翼的气派大剑 剑身使用了精心加工的素材 宛如怪鳥翅膀的雄偉大劍 刀身以精心加工素材製成 宛如怪鸟羽翼的气派大剑 剑身使用了精心加工的素材",
+      "path": "/zh-Hant/data/skills/xu-li-da-shi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/xu-li-da-shi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "雪獅子王之鬥志",
+      "summary": "鎧竜 守護 鎧龍之守護 铠龙之守护 兇爪竜 力 兇爪龍之力 凶爪龙之力 雪獅子 闘志 雪狮子王之斗志 Lv2 使用動作 吼叫 時 小幅提升周圍成員一定時間內的攻擊力 隨從與支援獵人所受的效果較大 Lv4 使用動作 提升周圍成員一定時間內的攻擊力 隨從與支援獵人所受的效果較大 雪獅子王頭盔 雪狮子王头盔 Lv1 素材 作 頭防具 異国 神 表現 威厳 溢 以雪獅子王素材製作的頭部防具 造型靈感取自異國神明 充滿威嚴 使用雪狮子王素材制作的头部防具 造型取自异国之神 充满威严 雪獅子王鎧甲 雪狮子王铠甲 胴防具 細 装飾 雰囲気",
+      "path": "/zh-Hant/data/skills/xue-shi-zi-wang-zhi-dou-zhi",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/xue-shi-zi-wang-zhi-dou-zhi",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "獄焰鱆之叛逆",
+      "summary": "煌雷竜 力 煌雷龍之力 煌雷龙之力 凍峰竜 反逆 凍峰龍之叛逆 冻峰龙之反叛 獄焔蛸 狱焰蛸之反叛 Lv2 怨恨 發動時 造成少量額外傷害 Lv4 造成額外傷害 獄焰鱆頭盔 狱焰蛸头盔 Lv1 素材 作 頭防具 仮面 通 見 世界 闇 炎 怨嗟 彩 以獄焰鱆素材製作的頭部防具 透過面具所見的世界會帶有暗黑火焰與怨念 使用狱焰蛸素材制作的头部防具 透过面具看到的世界 充斥着黯之火焰与怨念 獄焰鱆鎧甲 狱焰蛸铠甲 Lv1 素材 作 胴防具 呪 物質化 如",
+      "path": "/zh-Hant/data/skills/yu-yan-zhang-zhi-pan-ni",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/yu-yan-zhang-zhi-pan-ni",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "怨恨",
+      "summary": "體力計量表有紅色部分時 增加攻擊力 攻撃 攻擊 攻击 巧撃 巧擊 巧击 逆恨 体力 赤 部分 間 攻撃力 上 體力計量表有紅色部分時 增加攻擊力 体力槽有红色部分时 提升攻击力 Lv1 技能發動時 基礎攻擊力+5 Lv2 技能發動時 基礎攻擊力+10 Lv3 技能發動時 基礎攻擊力+15 Lv4 技能發動時 基礎攻擊力+20 Lv5 技能發動時 基礎攻擊力+25 獄焰鱆頭盔 狱焰蛸头盔 素材 作 頭防具 仮面 通 見 世界 闇",
+      "path": "/zh-Hant/data/skills/yuan-hen",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/yuan-hen",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "炸彈客",
+      "summary": "炸弹客 爆弾系 上 提高爆彈系道具的傷害 提高爆弹类道具的伤害 Lv1 威力1.1倍 Lv2 威力1.2倍 Lv3 威力1.3倍 赫猿獸頭盔 赫猿兽头盔 素材 作 頭防具 体 芯 熱 感情 以赫猿獸素材製作的頭部防具 據說穿戴後體內會湧現出炙熱的情感 使用赫猿兽素材制作的头部防具 据说一旦戴上 体内深处便会涌起炽热的情感 赫猿獸腕甲 赫猿兽腕甲 腕防具 幾度 地面 叩 拳 再現 以赫猿獸素材製作的臂部防具 重現了不斷捶打地面的拳頭 使用赫猿兽素材制作的臂部防具 生动再现了赫猿兽无数次捶向地面的巨拳 赫猿獸腰甲 赫猿兽腰甲 腰防具 怒 暴走 繋 止",
+      "path": "/zh-Hant/data/skills/zha-dan-ke",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zha-dan-ke",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "整備",
+      "summary": "護石 整備護石 整备护石 Lv1 装備 発動 守 發動整備技能的護身符 发动整备技能的护身符 整備護石 整备护石 Lv2 發動整備技能的護身符 发动整备技能的护身符 整備護石 整备护石 Lv3 發動整備技能的護身符 发动整备技能的护身符 整備護石 整备护石 Lv4 發動整備技能的護身符 发动整备技能的护身符 広域化 廣域化 广域化 炸彈客 炸弹客 縮短特殊裝備的冷卻時間",
+      "path": "/zh-Hant/data/skills/zheng-bei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zheng-bei",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "植生學",
+      "summary": "增加藥草等消耗道具的取得數 閃光強化 閃光強化 闪光强化 地質学 地質學 地质学 植生学 薬草 消費 取得数 増 增加藥草等消耗道具的取得數 增加药草等消耗道具的取得数 Lv1 草系消耗道具的取得數+1 Lv2 草系 果實 種子系消耗道具的取得數+1 Lv3 種子系 蟲系消耗道具的取得數+1 Lv4 蟲系 菇系消耗道具的取得數+1 皮製頭飾 皮制头饰 加工 皮 用 作 頭防具 誰 扱 汎用性 高 使用加工後的魔物皮製作而成的頭部防具 通用性高 任何人皆可裝備 以加工后的怪物皮制作而成的头部防具 任何人皆可装备 通用性高 皮製服飾",
+      "path": "/zh-Hant/data/skills/zhi-sheng-xue",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zhi-sheng-xue",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "指示隨從",
+      "summary": "增加隨從的攻擊力與防禦力 鎖刃刺撃 鎖刃刺擊 锁刃刺击 集中 采配 指示随从 攻撃力 防御力 強化 增加隨從的攻擊力與防禦力 强化随从的攻击力与防御力 Lv1 隨從的攻擊力與防禦力1.05倍 Lv2 隨從的攻擊力與防禦力1.1倍 Lv3 隨從的攻擊力與防禦力1.15倍 Lv4 隨從的攻擊力與防禦力1.2倍 Lv5 隨從的攻擊力與防禦力1.25倍 雪獅子王腕甲 雪狮子王腕甲 素材 作 腕防具 硬 獣毛 丁寧 織 込 艶 印象的 以雪獅子王素材製作的臂部防具 精心地織入了硬獸毛 其光澤極具特色 使用雪狮子王素材制作的臂部防具 精心织入了坚硬的兽毛 光泽感令人印象深刻 庫納法頭飾 库纳法头饰 風音 村",
+      "path": "/zh-Hant/data/skills/zhi-shi-sui-cong",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zhi-shi-sui-cong",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "zhu-yao-qi-yuan",
+      "summary": "",
+      "path": "/zh-Hant/data/skills/zhu-yao-qi-yuan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zhu-yao-qi-yuan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "轉換耐性",
+      "summary": "雷 按雷屬性耐性值提升武器的屬性攻擊值 雷屬性耐性值越高 上升幅度越大 海竜 渦雷 海龍的渦雷 海龙的涡雷 千刃竜 闘志 千刃龍之鬥志 千刃龙的斗志 耐性変換 雷 耐性变换 雷属性耐性 値 高 属性攻撃値 上昇 按雷屬性耐性值提升武器的屬性攻擊值 雷屬性耐性值越高 上升幅度越大 按雷属性耐性值提升武器的属性攻击值 雷属性耐性值越高 上升幅度越大 Lv1 發動技能效果 海龍大劍 海龙大剑 放電器官 利用 刀身 雷 纏 剣 高出力 耐 設計 使用海龍放電器官製作的劍 刀身上有雷電纏繞 有著能承受高輸出的設計 利用海龙的放电器官令刀身缠绕雷电的大剑 有着可以承受高输出雷电的设计",
+      "path": "/zh-Hant/data/skills/zhuan-huan-nai-xing-lei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zhuan-huan-nai-xing-lei",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "轉禍為福",
+      "summary": "解除狀態異常或屬性異常後 增加一定時間內的屬性值和狀態異常值 破壊王 破壞王 破坏王 急襲 急袭 災禍転福 因祸得福 状態異常 属性 解除 一定時間属性値 状態異常値 上 解除狀態異常或屬性異常後 增加一定時間內的屬性值和狀態異常值 解除状态异常或属性异常后 一定时间内提升属性值和状态异常值 Lv1 技能發動時 屬性攻擊值和狀態異常累積值小幅上升 Lv2 技能發動時 屬性攻擊值和狀態異常累積值上升 Lv3 技能發動時 屬性攻擊值和狀態異常累積值大幅上升 護雷顎竜 護雷顎龍頭盔 护雷颚龙头盔 護竜 亜種 素材 作 頭防具 身 者 言 渇望 襲 以護雷顎龍素材製作的頭部防具 穿戴此頭盔者將感受到難以名狀的渴望 使用护雷颚龙素材制作的头部防具",
+      "path": "/zh-Hant/data/skills/zhuan-huo-wei-fu",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zhuan-huo-wei-fu",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "鑽研",
+      "summary": "隨任務時間推移增加攻擊力與防禦力 增幅於30分鐘後達到上限 飛燕 飞燕 毒 強化 毒傷害強化 毒伤害强化 研鑽 钻研 時間 経過 応 攻撃力 防御力 上昇 分経過時 上昇値 最大 隨任務時間推移增加攻擊力與防禦力 增幅於30分鐘後達到上限 攻击力和防御力随任务时间推移而上升 30分钟后达到增幅上限 Lv1 發動技能效果 希望 護石 希望護石 希望护石 Lv1 装備 研鑽 体力回復量 発動 守 發動鑽研技能與體力回復量上升技能的護身符 发动钻研技能和体力回复量提升技能的护身符 飛燕 飞燕 毒 強化 毒傷害強化 毒伤害强化 隨任務時間推移增加攻擊力與防禦力",
+      "path": "/zh-Hant/data/skills/zuan-yan",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zuan-yan",
+      "category": "skills",
+      "categoryLabel": "技能"
+    },
+    {
+      "name": "最愛菇類",
+      "summary": "可以吃下平常無法食用的菇類 獲得有益效果 炸彈客 炸弹客 使用強化 道具使用強化 道具使用强化 大好 最爱蘑菇 普段 食 有効 効果 得 可以吃下平常無法食用的菇類 獲得有益效果 可以吃下平常无法食用的蘑菇 获得有益的效果 Lv1 可進食青菇與毒菇 Lv2 可進食青菇 毒菇 爆炸菇與麻痺菇 Lv3 可進食青菇 爆炸菇 麻痺菇 風茄 鬼爆炸菇與心跳加速菇 桃毛獸王頭盔 桃毛兽王头盔 素材 作 頭防具 荒 風貌 野性 現 用桃毛獸王素材製作的頭部防具 粗獷的外觀彰顯野性 使用桃毛兽王素材制作的头部防具 粗犷的造型彰显野性 桃毛獸王鎧甲",
+      "path": "/zh-Hant/data/skills/zui-ai-gu-lei",
+      "url": "https://mhwilds.kiranico.com/zh-Hant/data/skills/zui-ai-gu-lei",
+      "category": "skills",
+      "categoryLabel": "技能"
+    }
+  ]
+}
