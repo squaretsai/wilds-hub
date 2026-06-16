@@ -325,6 +325,42 @@ dialog {
   padding: 18px;
 }
 
+.record-sync {
+  border: 1px solid var(--line);
+  background: #101713;
+  border-radius: 6px;
+  padding: 18px;
+  margin: 14px 0;
+}
+
+.sync-head,
+.sync-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.sync-head h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.sync-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(160px, 1fr));
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.sync-note {
+  margin: 12px 0;
+  color: var(--muted);
+  line-height: 1.6;
+  font-size: 13px;
+}
+
 label {
   display: grid;
   gap: 7px;
@@ -588,7 +624,8 @@ dialog::backdrop {
 
   .quick-links,
   .guide-columns,
-  .record-form {
+  .record-form,
+  .sync-grid {
     grid-template-columns: 1fr;
   }
 

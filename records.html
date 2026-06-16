@@ -65,6 +65,45 @@
           <button class="button primary" type="submit">&#20786;&#23384;&#32000;&#37636;</button>
         </form>
         <div id="recordMessage" class="inline-message" aria-live="polite"></div>
+        <section class="record-sync" aria-labelledby="syncTitle">
+          <div class="sync-head">
+            <div>
+              <p class="eyebrow">GitHub Sync</p>
+              <h2 id="syncTitle">GitHub &#21516;&#27493;</h2>
+            </div>
+            <span class="tag">&#20849;&#29992;&#32000;&#37636;&#27284;</span>
+          </div>
+          <div class="sync-grid">
+            <label class="wide">
+              GitHub Token
+              <input id="syncToken" type="password" autocomplete="off" placeholder="ghp_... / github_pat_..." />
+            </label>
+            <label>
+              Owner
+              <input id="syncOwner" autocomplete="off" />
+            </label>
+            <label>
+              Repo
+              <input id="syncRepo" autocomplete="off" />
+            </label>
+            <label>
+              Branch
+              <input id="syncBranch" autocomplete="off" />
+            </label>
+            <label class="wide">
+              Path
+              <input id="syncPath" autocomplete="off" />
+            </label>
+          </div>
+          <p class="sync-note">Token &#21482;&#23384;&#22312;&#36889;&#21488;&#38651;&#33126;&#30340;&#28687;&#35261;&#22120;&#12290;&#20351;&#29992;&#38928;&#35373; public repo &#26178;&#65292;&#32000;&#37636;&#27284;&#20063;&#26371;&#26159;&#20844;&#38283;&#27284;&#26696;&#12290;</p>
+          <div class="sync-actions">
+            <button class="button small" id="saveSyncSettings" type="button">&#20786;&#23384;&#35373;&#23450;</button>
+            <button class="button small" id="syncPullRecords" type="button">&#24478; GitHub &#19979;&#36617;</button>
+            <button class="button small primary" id="syncPushRecords" type="button">&#19978;&#20659;&#21040; GitHub</button>
+            <button class="button small" id="syncMergeRecords" type="button">&#38617;&#21521;&#21512;&#20341;</button>
+          </div>
+          <div id="syncMessage" class="inline-message" aria-live="polite"></div>
+        </section>
         <div class="filters" role="group" aria-label="Record filter">
           <button class="chip active" type="button" data-record-filter="all">&#20840;&#37096;</button>
           <button class="chip" type="button" data-record-filter="build">&#37197;&#35037;</button>
@@ -107,6 +146,6 @@
       </form>
     </dialog>
 
-    <script src="./app.js?v=records-import-20260616c"></script>
+    <script src="./app.js?v=records-github-sync-20260616"></script>
   </body>
 </html>

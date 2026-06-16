@@ -6,7 +6,9 @@
     damage: "https://kuroyonhon.com/mhwilds/d/dame.php",
   };
   var STORAGE_KEY = "mhwilds-hub-records";
+  var SYNC_KEY = "mhwilds-hub-sync-settings";
   var records = loadRecords();
+  var syncSettings = loadSyncSettings();
   var recordFilter = "all";
   var searchFilters = [
     "\u5168\u90e8",
@@ -74,6 +76,40 @@
 
   function saveRecords() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(records));
+  }
+
+  function defaultSyncSettings() {
+    return {
+      token: "",
+      owner: "squaretsai",
+      repo: "wilds-hub",
+      branch: "main",
+      path: "data/user-records.json",
+    };
+  }
+
+  function loadSyncSettings() {
+    var defaults = defaultSyncSettings();
+    var stored;
+
+    try {
+      stored = JSON.parse(localStorage.getItem(SYNC_KEY) || "{}");
+    } catch (error) {
+      stored = {};
+    }
+
+    return {
+      token: stored.token || defaults.token,
+      owner: stored.owner || defaults.owner,
+      repo: stored.repo || defaults.repo,
+      branch: stored.branch || defaults.branch,
+      path: stored.path || defaults.path,
+    };
+  }
+
+  function saveSyncSettings(settings) {
+    syncSettings = settings;
+    localStorage.setItem(SYNC_KEY, JSON.stringify(syncSettings));
   }
 
   function makeId() {
@@ -146,10 +182,14 @@
   }
 
   function mergeRecords(imported) {
+    return mergeRecordCollections(records, imported);
+  }
+
+  function mergeRecordCollections(primary, secondary) {
     var existingByKey = {};
     var merged = [];
 
-    records.concat(imported).forEach(function (record) {
+    primary.concat(secondary).forEach(function (record) {
       var key = record.url;
       if (existingByKey[key]) {
         return;
@@ -160,6 +200,179 @@
 
     return merged.sort(function (a, b) {
       return new Date(b.createdAt) - new Date(a.createdAt);
+    });
+  }
+
+  function encodeContent(text) {
+    var bytes;
+    var binary = "";
+    var i;
+    var chunk;
+
+    if (window.TextEncoder) {
+      bytes = new TextEncoder().encode(text);
+      for (i = 0; i < bytes.length; i += 8192) {
+        chunk = bytes.slice(i, i + 8192);
+        binary += String.fromCharCode.apply(null, chunk);
+      }
+      return btoa(binary);
+    }
+    return btoa(unescape(encodeURIComponent(text)));
+  }
+
+  function decodeContent(content) {
+    var binary = atob(String(content || "").replace(/\s+/g, ""));
+    var bytes;
+    var i;
+
+    if (window.TextDecoder) {
+      bytes = new Uint8Array(binary.length);
+      for (i = 0; i < binary.length; i += 1) {
+        bytes[i] = binary.charCodeAt(i);
+      }
+      return new TextDecoder("utf-8").decode(bytes);
+    }
+    return decodeURIComponent(escape(binary));
+  }
+
+  function encodedPath(path) {
+    return String(path || "").split("/").filter(Boolean).map(encodeURIComponent).join("/");
+  }
+
+  function collectSyncSettings() {
+    return {
+      token: $("#syncToken").value.trim(),
+      owner: $("#syncOwner").value.trim(),
+      repo: $("#syncRepo").value.trim(),
+      branch: $("#syncBranch").value.trim(),
+      path: $("#syncPath").value.trim(),
+    };
+  }
+
+  function githubHeaders(settings) {
+    var headers = {
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+    };
+
+    if (settings.token) {
+      headers.Authorization = "Bearer " + settings.token;
+    }
+    return headers;
+  }
+
+  function githubContentUrl(settings) {
+    return "https://api.github.com/repos/" + encodeURIComponent(settings.owner) + "/" + encodeURIComponent(settings.repo) + "/contents/" + encodedPath(settings.path);
+  }
+
+  function validateSyncSettings(settings, needsToken) {
+    if (!settings.owner || !settings.repo || !settings.branch || !settings.path) {
+      throw new Error("GitHub \u8a2d\u5b9a\u4e0d\u5b8c\u6574");
+    }
+    if (needsToken && !settings.token) {
+      throw new Error("\u4e0a\u50b3\u9700\u8981 GitHub Token");
+    }
+  }
+
+  function fetchGitHubRecords(settings) {
+    var url = githubContentUrl(settings) + "?ref=" + encodeURIComponent(settings.branch);
+
+    return fetch(url, {
+      headers: githubHeaders(settings),
+      cache: "no-store",
+    }).then(function (response) {
+      if (response.status === 404) return null;
+      if (!response.ok) {
+        return response.text().then(function (text) {
+          throw new Error("GitHub \u8b80\u53d6\u5931\u6557 (" + response.status + "): " + text.slice(0, 120));
+        });
+      }
+      return response.json();
+    }).then(function (payload) {
+      if (!payload) return null;
+      return {
+        sha: payload.sha,
+        records: parseRecordPayload(decodeContent(payload.content || "")),
+      };
+    });
+  }
+
+  function putGitHubRecords(settings, outgoingRecords, sha) {
+    var body = {
+      message: "Update MH Wilds records",
+      branch: settings.branch,
+      content: encodeContent(JSON.stringify({
+        updatedAt: new Date().toISOString(),
+        records: outgoingRecords,
+      }, null, 2)),
+    };
+
+    if (sha) body.sha = sha;
+
+    return fetch(githubContentUrl(settings), {
+      method: "PUT",
+      headers: Object.assign({
+        "Content-Type": "application/json",
+      }, githubHeaders(settings)),
+      body: JSON.stringify(body),
+    }).then(function (response) {
+      if (!response.ok) {
+        return response.text().then(function (text) {
+          throw new Error("GitHub \u4e0a\u50b3\u5931\u6557 (" + response.status + "): " + text.slice(0, 120));
+        });
+      }
+      return response.json();
+    });
+  }
+
+  function setSyncMessage(text, isError) {
+    var message = $("#syncMessage");
+    if (!message) return;
+    message.textContent = text || "";
+    message.className = "inline-message" + (isError ? " error" : "");
+  }
+
+  function setSyncBusy(isBusy) {
+    $$("[data-sync-busy], #saveSyncSettings, #syncPullRecords, #syncPushRecords, #syncMergeRecords").forEach(function (button) {
+      button.disabled = isBusy;
+    });
+  }
+
+  function runSync(action) {
+    var settings;
+
+    setSyncMessage("", false);
+    try {
+      settings = collectSyncSettings();
+      validateSyncSettings(settings, action !== "pull");
+      saveSyncSettings(settings);
+    } catch (error) {
+      setSyncMessage(error.message, true);
+      return;
+    }
+
+    setSyncBusy(true);
+
+    (action === "pull" ? fetchGitHubRecords(settings).then(function (remote) {
+      if (!remote) throw new Error("GitHub \u9084\u6c92\u6709\u7d00\u9304\u6a94\uff0c\u5148\u5f9e\u6709\u7d00\u9304\u7684\u96fb\u8166\u4e0a\u50b3");
+      records = remote.records;
+      saveRecords();
+      renderRecords();
+      setSyncMessage("\u5df2\u5f9e GitHub \u4e0b\u8f09 " + records.length + " \u7b46\u7d00\u9304\u3002", false);
+    }) : fetchGitHubRecords(settings).then(function (remote) {
+      var outgoing = action === "merge" && remote ? mergeRecordCollections(records, remote.records) : records;
+      var sha = remote && remote.sha;
+
+      records = outgoing;
+      saveRecords();
+      renderRecords();
+      return putGitHubRecords(settings, records, sha).then(function () {
+        setSyncMessage((action === "merge" ? "\u5df2\u96d9\u5411\u5408\u4f75\u4e26\u4e0a\u50b3 " : "\u5df2\u4e0a\u50b3 ") + records.length + " \u7b46\u7d00\u9304\u5230 GitHub\u3002", false);
+      });
+    })).catch(function (error) {
+      setSyncMessage(error.message, true);
+    }).finally(function () {
+      setSyncBusy(false);
     });
   }
 
@@ -356,6 +569,8 @@
       applyImportedRecords("replace");
     });
 
+    initRecordSync();
+
     $("#clearRecords").addEventListener("click", function () {
       records = [];
       saveRecords();
@@ -364,6 +579,37 @@
     });
 
     renderRecords();
+  }
+
+  function initRecordSync() {
+    if (!$("#syncToken")) return;
+
+    $("#syncToken").value = syncSettings.token;
+    $("#syncOwner").value = syncSettings.owner;
+    $("#syncRepo").value = syncSettings.repo;
+    $("#syncBranch").value = syncSettings.branch;
+    $("#syncPath").value = syncSettings.path;
+
+    $("#saveSyncSettings").addEventListener("click", function () {
+      try {
+        saveSyncSettings(collectSyncSettings());
+        setSyncMessage("\u5df2\u5132\u5b58 GitHub \u540c\u6b65\u8a2d\u5b9a\u3002", false);
+      } catch (error) {
+        setSyncMessage(error.message, true);
+      }
+    });
+
+    $("#syncPullRecords").addEventListener("click", function () {
+      runSync("pull");
+    });
+
+    $("#syncPushRecords").addEventListener("click", function () {
+      runSync("push");
+    });
+
+    $("#syncMergeRecords").addEventListener("click", function () {
+      runSync("merge");
+    });
   }
 
   function renderWeaponDetail(weapon) {
