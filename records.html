@@ -36,6 +36,7 @@
             <a class="button small" href="https://mhwilds.wiki-db.com/sim/?hl=zh-hant" target="_blank" rel="noreferrer">&#38283;&#21855;&#37197;&#35037;&#32178;&#31449;</a>
             <a class="button small" href="https://kuroyonhon.com/mhwilds/d/dame.php" target="_blank" rel="noreferrer">&#38283;&#21855;&#20663;&#23475;&#35336;&#31639;</a>
             <button class="button small" id="exportRecords" type="button">&#21295;&#20986; JSON</button>
+            <button class="button small" id="importRecords" type="button">&#21295;&#20837; JSON</button>
             <button class="button small danger" id="clearRecords" type="button">&#28165;&#31354;&#32000;&#37636;</button>
           </div>
         </div>
@@ -77,11 +78,35 @@
     <dialog id="exportDialog">
       <form method="dialog">
         <h2>&#32000;&#37636; JSON</h2>
+        <p class="dialog-note">&#25226;&#36889;&#20221; JSON &#23384;&#36215;&#20358;&#65292;&#21040;&#20219;&#20309;&#38651;&#33126;&#12289;&#20219;&#20309;&#28687;&#35261;&#22120;&#21295;&#20837;&#24460;&#65292;&#23601;&#26371;&#30475;&#21040;&#21516;&#19968;&#20221;&#32000;&#37636;&#12290;</p>
         <textarea id="exportText" readonly></textarea>
-        <button class="button primary" value="close">&#38364;&#38281;</button>
+        <div class="dialog-actions">
+          <button class="button" id="downloadRecords" type="button">&#19979;&#36617;&#20633;&#20221;</button>
+          <button class="button primary" value="close">&#38364;&#38281;</button>
+        </div>
       </form>
     </dialog>
 
-    <script src="./app.js"></script>
+    <dialog id="importDialog">
+      <form method="dialog">
+        <h2>&#21295;&#20837;&#32000;&#37636; JSON</h2>
+        <p class="dialog-note">&#21487;&#20197;&#36984;&#25799;&#21069;&#27425;&#19979;&#36617;&#30340; JSON &#27284;&#65292;&#25110;&#30452;&#25509;&#36028;&#19978;&#21295;&#20986;&#30340;&#20839;&#23481;&#12290;</p>
+        <label>
+          JSON &#27284;&#26696;
+          <input id="importFile" type="file" accept="application/json,.json" />
+        </label>
+        <label>
+          JSON &#20839;&#23481;
+          <textarea id="importText" placeholder="&#36028;&#19978;&#32000;&#37636; JSON"></textarea>
+        </label>
+        <div class="dialog-actions">
+          <button class="button" id="mergeRecords" type="button">&#21512;&#20341;&#21295;&#20837;</button>
+          <button class="button danger" id="replaceRecords" type="button">&#21462;&#20195;&#26412;&#27231;&#32000;&#37636;</button>
+          <button class="button primary" value="close">&#21462;&#28040;</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script src="./app.js?v=records-import-20260616c"></script>
   </body>
 </html>

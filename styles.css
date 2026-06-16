@@ -541,6 +541,24 @@ dialog {
   border-radius: 8px;
 }
 
+dialog form {
+  display: grid;
+  gap: 14px;
+}
+
+.dialog-note {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.dialog-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
 dialog::backdrop {
   background: rgba(0, 0, 0, .68);
 }

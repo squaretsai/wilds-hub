@@ -83,6 +83,10 @@
     return String(Date.now()) + "-" + Math.random().toString(16).slice(2);
   }
 
+  function filenameStamp() {
+    return new Date().toISOString().slice(0, 10);
+  }
+
   function detectRecordType(url) {
     if (url.indexOf("mhwilds.wiki-db.com/sim") !== -1) return "build";
     if (url.indexOf("kuroyonhon.com/mhwilds/d/dame.php") !== -1) return "damage";
@@ -105,11 +109,118 @@
     return String(value || "").toLowerCase().replace(/\s+/g, "");
   }
 
+  function normalizeRecord(raw) {
+    var url;
+
+    if (!raw || typeof raw !== "object") return null;
+    try {
+      url = new URL(String(raw.url || "").trim()).href;
+    } catch (error) {
+      return null;
+    }
+
+    return {
+      id: String(raw.id || makeId()),
+      name: String(raw.name || "\u672a\u547d\u540d\u7d00\u9304").trim(),
+      type: ["build", "damage", "other"].indexOf(raw.type) === -1 ? detectRecordType(url) : raw.type,
+      url: url,
+      note: String(raw.note || "").trim(),
+      createdAt: raw.createdAt && !Number.isNaN(Date.parse(raw.createdAt)) ? new Date(raw.createdAt).toISOString() : new Date().toISOString(),
+    };
+  }
+
+  function parseRecordPayload(text) {
+    var parsed = JSON.parse(text);
+    var source = Array.isArray(parsed) ? parsed : parsed.records;
+    var imported;
+
+    if (!Array.isArray(source)) {
+      throw new Error("\u627e\u4e0d\u5230\u7d00\u9304\u9663\u5217");
+    }
+
+    imported = source.map(normalizeRecord).filter(Boolean);
+    if (!imported.length && source.length) {
+      throw new Error("\u6c92\u6709\u53ef\u7528\u7684\u7d00\u9304");
+    }
+    return imported;
+  }
+
+  function mergeRecords(imported) {
+    var existingByKey = {};
+    var merged = [];
+
+    records.concat(imported).forEach(function (record) {
+      var key = record.url;
+      if (existingByKey[key]) {
+        return;
+      }
+      existingByKey[key] = true;
+      merged.push(record);
+    });
+
+    return merged.sort(function (a, b) {
+      return new Date(b.createdAt) - new Date(a.createdAt);
+    });
+  }
+
+  function applyImportedRecords(mode) {
+    var imported;
+    var text = $("#importText").value.trim();
+
+    if (!text) {
+      setMessage("\u8acb\u5148\u9078\u64c7 JSON \u6a94\u6216\u8cbc\u4e0a JSON \u5167\u5bb9\u3002", true);
+      return;
+    }
+
+    try {
+      imported = parseRecordPayload(text);
+      records = mode === "replace" ? imported : mergeRecords(imported);
+      saveRecords();
+      renderRecords();
+      closeDialog($("#importDialog"));
+      $("#importText").value = "";
+      $("#importFile").value = "";
+      setMessage((mode === "replace" ? "\u5df2\u53d6\u4ee3\u672c\u6a5f\u7d00\u9304\uff1a" : "\u5df2\u5408\u4f75\u532f\u5165\uff1a") + imported.length + " \u7b46\u3002", false);
+    } catch (error) {
+      setMessage("\u532f\u5165\u5931\u6557\uff1a" + error.message, true);
+    }
+  }
+
+  function downloadRecords() {
+    var blob = new Blob([JSON.stringify(records, null, 2)], { type: "application/json" });
+    var link = document.createElement("a");
+
+    link.href = URL.createObjectURL(blob);
+    link.download = "mhwilds-records-" + filenameStamp() + ".json";
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(link.href);
+  }
+
   function setMessage(text, isError) {
     var message = $("#recordMessage");
     if (!message) return;
     message.textContent = text || "";
     message.className = "inline-message" + (isError ? " error" : "");
+  }
+
+  function openDialog(dialog) {
+    if (!dialog) return;
+    if (typeof dialog.showModal === "function") {
+      dialog.showModal();
+      return;
+    }
+    dialog.setAttribute("open", "");
+  }
+
+  function closeDialog(dialog) {
+    if (!dialog) return;
+    if (typeof dialog.close === "function") {
+      dialog.close();
+      return;
+    }
+    dialog.removeAttribute("open");
   }
 
   function renderRecords() {
@@ -211,7 +322,38 @@
 
     $("#exportRecords").addEventListener("click", function () {
       $("#exportText").value = JSON.stringify(records, null, 2);
-      $("#exportDialog").showModal();
+      openDialog($("#exportDialog"));
+    });
+
+    $("#downloadRecords").addEventListener("click", downloadRecords);
+
+    $("#importRecords").addEventListener("click", function () {
+      $("#importText").value = "";
+      $("#importFile").value = "";
+      openDialog($("#importDialog"));
+    });
+
+    $("#importFile").addEventListener("change", function (event) {
+      var file = event.target.files && event.target.files[0];
+      var reader;
+
+      if (!file) return;
+      reader = new FileReader();
+      reader.addEventListener("load", function () {
+        $("#importText").value = String(reader.result || "");
+      });
+      reader.addEventListener("error", function () {
+        setMessage("\u8b80\u53d6\u6a94\u6848\u5931\u6557\uff0c\u8acb\u6539\u7528\u8cbc\u4e0a JSON\u3002", true);
+      });
+      reader.readAsText(file);
+    });
+
+    $("#mergeRecords").addEventListener("click", function () {
+      applyImportedRecords("merge");
+    });
+
+    $("#replaceRecords").addEventListener("click", function () {
+      applyImportedRecords("replace");
     });
 
     $("#clearRecords").addEventListener("click", function () {
