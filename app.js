@@ -9,6 +9,8 @@
   var SYNC_KEY = "mhwilds-hub-sync-settings";
   var records = loadRecords();
   var syncSettings = loadSyncSettings();
+  var autoSyncTimer = null;
+  var isAutoSyncing = false;
   var recordFilter = "all";
   var searchFilters = [
     "\u5168\u90e8",
@@ -85,6 +87,7 @@
       repo: "wilds-hub",
       branch: "main",
       path: "data/user-records.json",
+      autoSync: true,
     };
   }
 
@@ -104,6 +107,7 @@
       repo: stored.repo || defaults.repo,
       branch: stored.branch || defaults.branch,
       path: stored.path || defaults.path,
+      autoSync: stored.autoSync !== false,
     };
   }
 
@@ -246,6 +250,7 @@
       repo: $("#syncRepo").value.trim(),
       branch: $("#syncBranch").value.trim(),
       path: $("#syncPath").value.trim(),
+      autoSync: $("#syncAuto").checked,
     };
   }
 
@@ -353,7 +358,7 @@
 
     setSyncBusy(true);
 
-    (action === "pull" ? fetchGitHubRecords(settings).then(function (remote) {
+    return (action === "pull" ? fetchGitHubRecords(settings).then(function (remote) {
       if (!remote) throw new Error("GitHub \u9084\u6c92\u6709\u7d00\u9304\u6a94\uff0c\u5148\u5f9e\u6709\u7d00\u9304\u7684\u96fb\u8166\u4e0a\u50b3");
       records = remote.records;
       saveRecords();
@@ -376,6 +381,52 @@
     });
   }
 
+  function recordsChanged(before, after) {
+    return JSON.stringify(before) !== JSON.stringify(after);
+  }
+
+  function autoSyncNow(reason) {
+    var settings = syncSettings;
+
+    if (!settings.autoSync || isAutoSyncing) return Promise.resolve();
+    if (!settings.owner || !settings.repo || !settings.branch || !settings.path) return Promise.resolve();
+
+    isAutoSyncing = true;
+    setSyncMessage("\u6b63\u5728\u81ea\u52d5\u540c\u6b65...", false);
+
+    return fetchGitHubRecords(settings).then(function (remote) {
+      var merged = remote ? mergeRecordCollections(records, remote.records) : records;
+      var shouldUpload = !!settings.token && (!remote || recordsChanged(remote.records, merged) || reason === "local-change");
+
+      if (recordsChanged(records, merged)) {
+        records = merged;
+        saveRecords();
+        renderRecords();
+      }
+
+      if (!shouldUpload) {
+        setSyncMessage(remote ? "\u5df2\u81ea\u52d5\u540c\u6b65 GitHub\u3002" : "GitHub \u9084\u6c92\u6709\u7d00\u9304\u6a94\u3002", !remote && !settings.token);
+        return null;
+      }
+
+      return putGitHubRecords(settings, records, remote && remote.sha).then(function () {
+        setSyncMessage("\u5df2\u81ea\u52d5\u540c\u6b65\u5230 GitHub\u3002", false);
+      });
+    }).catch(function (error) {
+      setSyncMessage("\u81ea\u52d5\u540c\u6b65\u5931\u6557\uff1a" + error.message, true);
+    }).finally(function () {
+      isAutoSyncing = false;
+    });
+  }
+
+  function scheduleAutoSync() {
+    if (!syncSettings.autoSync || !syncSettings.token) return;
+    window.clearTimeout(autoSyncTimer);
+    autoSyncTimer = window.setTimeout(function () {
+      autoSyncNow("local-change");
+    }, 900);
+  }
+
   function applyImportedRecords(mode) {
     var imported;
     var text = $("#importText").value.trim();
@@ -394,6 +445,7 @@
       $("#importText").value = "";
       $("#importFile").value = "";
       setMessage((mode === "replace" ? "\u5df2\u53d6\u4ee3\u672c\u6a5f\u7d00\u9304\uff1a" : "\u5df2\u5408\u4f75\u532f\u5165\uff1a") + imported.length + " \u7b46\u3002", false);
+      scheduleAutoSync();
     } catch (error) {
       setMessage("\u532f\u5165\u5931\u6557\uff1a" + error.message, true);
     }
@@ -502,6 +554,7 @@
         event.currentTarget.reset();
         renderRecords();
         setMessage("\u5df2\u5132\u5b58\u7d00\u9304\u3002", false);
+        scheduleAutoSync();
       } catch (error) {
         setMessage("\u5132\u5b58\u5931\u6557\uff1a\u700f\u89bd\u5668\u53ef\u80fd\u7981\u7528\u672c\u5730\u5132\u5b58\u3002", true);
       }
@@ -521,6 +574,7 @@
       saveRecords();
       renderRecords();
       setMessage("\u5df2\u522a\u9664\u7d00\u9304\u3002", false);
+      scheduleAutoSync();
     });
 
     $$("[data-record-filter]").forEach(function (button) {
@@ -576,6 +630,7 @@
       saveRecords();
       renderRecords();
       setMessage("\u5df2\u6e05\u7a7a\u6240\u6709\u7d00\u9304\u3002", false);
+      scheduleAutoSync();
     });
 
     renderRecords();
@@ -589,11 +644,13 @@
     $("#syncRepo").value = syncSettings.repo;
     $("#syncBranch").value = syncSettings.branch;
     $("#syncPath").value = syncSettings.path;
+    $("#syncAuto").checked = syncSettings.autoSync;
 
     $("#saveSyncSettings").addEventListener("click", function () {
       try {
         saveSyncSettings(collectSyncSettings());
         setSyncMessage("\u5df2\u5132\u5b58 GitHub \u540c\u6b65\u8a2d\u5b9a\u3002", false);
+        autoSyncNow("settings");
       } catch (error) {
         setSyncMessage(error.message, true);
       }
@@ -610,6 +667,10 @@
     $("#syncMergeRecords").addEventListener("click", function () {
       runSync("merge");
     });
+
+    window.setTimeout(function () {
+      autoSyncNow("load");
+    }, 500);
   }
 
   function renderWeaponDetail(weapon) {
