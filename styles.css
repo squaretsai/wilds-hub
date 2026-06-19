@@ -321,23 +321,24 @@ dialog {
   overflow: hidden;
   padding: 22px;
   border-radius: 8px;
-  border-color: #3a4b42;
+  border-color: #62766a;
+  background: #18231e;
   color: inherit;
   text-decoration: none;
   cursor: pointer;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, .2), inset 0 1px 0 rgba(255, 255, 255, .035);
-  transition: transform .2s ease, border-color .2s ease, background .2s ease, box-shadow .2s ease;
+  box-shadow: 0 4px 0 rgba(0, 0, 0, .3), 0 11px 20px rgba(0, 0, 0, .22), inset 0 1px 0 rgba(255, 255, 255, .08);
+  transition: transform .24s cubic-bezier(.2, .8, .2, 1), border-color .24s ease, background .24s ease, box-shadow .24s ease;
 }
 
 .launcher-card::before {
   content: "";
   position: absolute;
   inset: 0;
-  border: 1px solid rgba(214, 180, 93, .08);
+  border: 1px solid rgba(215, 231, 220, .18);
   border-radius: inherit;
-  opacity: 0;
+  opacity: 1;
   pointer-events: none;
-  transition: opacity .2s ease;
+  transition: border-color .24s ease;
 }
 
 .launcher-card::after {
@@ -351,15 +352,15 @@ dialog {
 
 .launcher-card:hover,
 .launcher-card:focus-visible {
-  transform: translateY(-6px);
-  border-color: rgba(214, 180, 93, .78);
-  background: #1b2721;
-  box-shadow: 0 18px 32px rgba(0, 0, 0, .34), 0 0 0 1px rgba(214, 180, 93, .18), inset 0 1px 0 rgba(255, 255, 255, .08);
+  transform: translateY(-9px);
+  border-color: #e1c45d;
+  background: #203027;
+  box-shadow: 0 13px 0 rgba(0, 0, 0, .28), 0 25px 34px rgba(0, 0, 0, .35), 0 0 0 2px rgba(225, 196, 93, .18), inset 0 1px 0 rgba(255, 255, 255, .12);
 }
 
 .launcher-card:hover::before,
 .launcher-card:focus-visible::before {
-  opacity: 1;
+  border-color: rgba(255, 235, 159, .42);
 }
 
 .launcher-card:focus-visible {
