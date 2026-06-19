@@ -1060,11 +1060,72 @@
     });
   }
 
+  function initMonsterVisuals() {
+    var detail = $(".k-detail");
+    var rootWidget = $(".k-global-search");
+    var root = rootWidget ? rootWidget.getAttribute("data-search-root") || "" : "";
+    var slug;
+    var title;
+
+    if (document.body.classList.contains("k-monsters-page")) {
+      $(".k-list-page") && $(".k-list-page").classList.add("monster-card-list");
+    }
+
+    if (!detail || window.location.pathname.indexOf("/database/monsters/") === -1) return;
+    if (detail.querySelector(".k-monster-hero")) return;
+
+    title = detail.querySelector("h1");
+    if (!title) return;
+    slug = decodeURIComponent(window.location.pathname.split("/").pop() || "");
+
+    fetch(root + "database-monsters.html", { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("missing monster list");
+        return response.text();
+      })
+      .then(function (html) {
+        var doc = new DOMParser().parseFromString(html, "text/html");
+        var row = Array.prototype.find.call(doc.querySelectorAll("tr"), function (candidate) {
+          var link = candidate.querySelector('a[href*="database/monsters/"]');
+          var href = link ? link.getAttribute("href") || "" : "";
+          return href.slice(href.lastIndexOf("/") + 1) === slug;
+        });
+        var image = row && row.querySelector("img");
+        var cells = row ? row.querySelectorAll("td") : [];
+        var summary = cells[2] ? cells[2].textContent.trim() : "";
+        var hero;
+        var portrait;
+        var copy;
+
+        if (!image) return;
+
+        hero = document.createElement("div");
+        hero.className = "k-monster-hero";
+        portrait = document.createElement("div");
+        portrait.className = "k-monster-portrait";
+        portrait.innerHTML = '<img src="' + escapeHtml(image.getAttribute("src") || "") + '" alt="">';
+        copy = document.createElement("div");
+        copy.className = "k-monster-hero-copy";
+        copy.innerHTML = '<p class="eyebrow">\u9b54\u7269\u8cc7\u6599</p>';
+        title.parentNode.insertBefore(hero, title);
+        hero.appendChild(portrait);
+        hero.appendChild(copy);
+        copy.appendChild(title);
+        if (summary) {
+          copy.insertAdjacentHTML("beforeend", "<p>" + escapeHtml(summary) + "</p>");
+        }
+      })
+      .catch(function () {
+        return null;
+      });
+  }
+
   function init() {
     initRecords();
     initWeapons();
     initCategoryPage();
     initGlobalSearch();
+    initMonsterVisuals();
   }
 
   if (document.readyState === "loading") {
