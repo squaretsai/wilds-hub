@@ -513,6 +513,115 @@ textarea {
   background: #fff;
 }
 
+.native-guide-head {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.native-guide-head h2 {
+  margin: 0 0 8px;
+}
+
+.bow-guide-shell {
+  display: grid;
+  grid-template-columns: minmax(240px, 360px) minmax(0, 1fr);
+  gap: 16px;
+}
+
+.bow-guide-list {
+  display: grid;
+  align-content: start;
+  gap: 10px;
+}
+
+.bow-guide-card {
+  display: grid;
+  gap: 8px;
+  width: 100%;
+  min-height: 136px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #101713;
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+}
+
+.bow-guide-card:hover,
+.bow-guide-card.active {
+  border-color: #b99b4b;
+  background: #19221d;
+}
+
+.bow-guide-card small,
+.guide-article-head p,
+.guide-maintenance-note p {
+  color: var(--muted);
+}
+
+.bow-guide-card strong {
+  line-height: 1.35;
+}
+
+.bow-guide-card > span {
+  line-height: 1.55;
+}
+
+.bow-guide-content {
+  min-width: 0;
+}
+
+.guide-article {
+  display: grid;
+  gap: 14px;
+}
+
+.guide-article-head {
+  border: 1px solid var(--line);
+  background: #101713;
+  border-radius: 6px;
+  padding: 18px;
+}
+
+.guide-article-head h2 {
+  margin: 0 0 10px;
+  font-size: 28px;
+}
+
+.inline-takeaway,
+.native-guide-section,
+.guide-maintenance-note {
+  border: 1px solid var(--line);
+  background: #141b18;
+  border-radius: 6px;
+  padding: 18px;
+}
+
+.inline-takeaway h3,
+.native-guide-section h3 {
+  margin: 0 0 10px;
+}
+
+.native-guide-section ul {
+  margin: 0;
+  padding-left: 22px;
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.native-guide-section li + li {
+  margin-top: 8px;
+}
+
+.guide-maintenance-note {
+  margin-top: 16px;
+}
+
 .placeholder-box,
 .info-panel {
   border: 1px solid var(--line);
@@ -637,8 +746,14 @@ dialog::backdrop {
   .quick-links,
   .guide-columns,
   .record-form,
-  .sync-grid {
+  .sync-grid,
+  .bow-guide-shell {
     grid-template-columns: 1fr;
+  }
+
+  .native-guide-head {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   .wide {

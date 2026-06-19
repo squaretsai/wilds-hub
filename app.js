@@ -11,6 +11,7 @@
   var syncSettings = loadSyncSettings();
   var autoSyncTimer = null;
   var isAutoSyncing = false;
+  var bowGuidesCache = null;
   var recordFilter = "all";
   var searchFilters = [
     "\u5168\u90e8",
@@ -53,11 +54,11 @@
     item("\u64cd\u87f2\u68cd", "Insect Glaive", "\u7375\u87f2\u8403\u53d6\u3001\u7a7a\u6230\u8207\u9023\u6bb5"),
     item("\u8f15\u5f29\u69cd", "Light Bowgun", "\u901f\u5c04\u3001\u5f48\u7a2e\u8207\u6a5f\u52d5\u8f38\u51fa"),
     item("\u91cd\u5f29\u69cd", "Heavy Bowgun", "\u706b\u529b\u3001\u76fe\u724c\u8207\u7279\u6b8a\u5f48"),
-    item("\u5f13", "Bow", "\u84c4\u529b\u968e\u6bb5\u3001\u74f6\u7a2e\u8207\u8010\u529b\u5faa\u74b0", "./guides/bow/index.html"),
+    item("\u5f13", "Bow", "\u84c4\u529b\u968e\u6bb5\u3001\u74f6\u7a2e\u8207\u8010\u529b\u5faa\u74b0", "", "bow"),
   ];
 
-  function item(name, en, summary, guideUrl) {
-    return { name: name, en: en, summary: summary, guideUrl: guideUrl || "" };
+  function item(name, en, summary, guideUrl, guideKey) {
+    return { name: name, en: en, summary: summary, guideUrl: guideUrl || "", guideKey: guideKey || "" };
   }
 
   function $(selector) {
@@ -676,6 +677,11 @@
   function renderWeaponDetail(weapon) {
     var detail = $("#weaponDetail");
     if (!detail || !weapon) return;
+    detail.onclick = null;
+    if (weapon.guideKey === "bow") {
+      renderBowGuideDetail(detail, weapon);
+      return;
+    }
     if (weapon.guideUrl) {
       detail.innerHTML = [
         '<div class="guide-embed-head">',
@@ -695,6 +701,106 @@
       "<p>\u9019\u88e1\u5148\u4e0d\u653e\u9023\u7d50\u3002\u7b49\u4f60\u88dc\u4e0a\u5f13\u6216\u5176\u4ed6\u6b66\u5668\u653b\u7565\u9801\u9762\uff0c\u6211\u518d\u628a\u5167\u5bb9\u5d4c\u5165\u9019\u500b\u7248\u9762\u3002</p>",
       "</div>",
     ].join("");
+  }
+
+  function loadBowGuides() {
+    if (bowGuidesCache) return Promise.resolve(bowGuidesCache);
+    return fetch("data/bow-guides.json", { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("missing bow guide data");
+        return response.json();
+      })
+      .then(function (payload) {
+        bowGuidesCache = payload;
+        return bowGuidesCache;
+      });
+  }
+
+  function renderGuideTags(tags) {
+    return (tags || []).map(function (tag) {
+      return '<span class="tag">' + escapeHtml(tag) + "</span>";
+    }).join("");
+  }
+
+  function renderBowArticle(guide) {
+    return [
+      '<article class="guide-article">',
+      '<div class="guide-article-head">',
+      '<p class="eyebrow">\u653b\u7565 ' + escapeHtml(guide.number) + " / " + escapeHtml(guide.date || "") + "</p>",
+      "<h2>" + escapeHtml(guide.title) + "</h2>",
+      "<p>" + escapeHtml(guide.summary) + "</p>",
+      '<div class="tags">' + renderGuideTags(guide.tags) + "</div>",
+      "</div>",
+      '<section class="takeaway inline-takeaway">',
+      "<h3>\u4e00\u53e5\u8a71\u91cd\u9ede</h3>",
+      "<p>" + escapeHtml(guide.takeaway) + "</p>",
+      "</section>",
+      (guide.sections || []).map(function (section) {
+        return [
+          '<section class="guide-section native-guide-section">',
+          "<h3>" + escapeHtml(section.heading) + "</h3>",
+          "<ul>",
+          (section.items || []).map(function (text) {
+            return "<li>" + escapeHtml(text) + "</li>";
+          }).join(""),
+          "</ul>",
+          "</section>",
+        ].join("");
+      }).join(""),
+      "</article>",
+    ].join("");
+  }
+
+  function renderBowGuidePanel(detail, weapon, payload, selectedId) {
+    var guides = payload.guides || [];
+    var active = guides.find(function (guide) {
+      return guide.id === selectedId;
+    }) || guides[0];
+
+    detail.innerHTML = [
+      '<div class="native-guide-head">',
+      '<div><h2>' + escapeHtml(weapon.name) + ' <span class="tag">' + escapeHtml(weapon.en) + '</span></h2>',
+      '<p>' + escapeHtml(weapon.summary) + '</p></div>',
+      '<span class="tag">\u6700\u5f8c\u66f4\u65b0 ' + escapeHtml(payload.updatedAt || "") + "</span>",
+      "</div>",
+      '<div class="bow-guide-shell">',
+      '<aside class="bow-guide-list" aria-label="\u5f13\u653b\u7565\u6e05\u55ae">',
+      guides.map(function (guide) {
+        return [
+          '<button class="bow-guide-card' + (guide === active ? " active" : "") + '" type="button" data-bow-guide="' + escapeHtml(guide.id) + '">',
+          "<small>\u653b\u7565 " + escapeHtml(guide.number) + " / " + escapeHtml(guide.date || "") + "</small>",
+          "<strong>" + escapeHtml(guide.title) + "</strong>",
+          "<span>" + escapeHtml(guide.summary) + "</span>",
+          '<span class="tags">' + renderGuideTags((guide.tags || []).slice(0, 3)) + "</span>",
+          "</button>",
+        ].join("");
+      }).join(""),
+      "</aside>",
+      '<div class="bow-guide-content">',
+      active ? renderBowArticle(active) : '<article class="guide-article"><p>\u5c1a\u7121\u5f13\u653b\u7565\u3002</p></article>',
+      "</div>",
+      "</div>",
+      '<div class="guide-maintenance-note">',
+      '<strong>\u5f8c\u7e8c\u66f4\u65b0\u65b9\u5f0f</strong>',
+      '<p>\u4ee5\u5f8c\u4f60\u8cbc YouTube \u7559\u8a00\u6216\u5b57\u5e55\u5167\u5bb9\u7d66\u6211\uff0c\u6211\u6703\u6574\u7406\u6210\u540c\u4e00\u7a2e\u7d50\u69cb\uff0c\u52a0\u5165 <code>data/bow-guides.json</code>\uff0c\u4e26\u81ea\u52d5\u5e36\u5165\u7576\u5929\u65e5\u671f\u3002</p>',
+      "</div>",
+    ].join("");
+  }
+
+  function renderBowGuideDetail(detail, weapon) {
+    detail.innerHTML = '<div class="placeholder-box"><p>\u6b63\u5728\u8f09\u5165\u5f13\u653b\u7565...</p></div>';
+    loadBowGuides()
+      .then(function (payload) {
+        renderBowGuidePanel(detail, weapon, payload);
+        detail.onclick = function (event) {
+          var button = event.target.closest("[data-bow-guide]");
+          if (!button) return;
+          renderBowGuidePanel(detail, weapon, payload, button.getAttribute("data-bow-guide"));
+        };
+      })
+      .catch(function () {
+        detail.innerHTML = '<div class="placeholder-box"><p>\u5f13\u653b\u7565\u8cc7\u6599\u8f09\u5165\u5931\u6557\u3002</p></div>';
+      });
   }
 
   function initWeapons() {
