@@ -726,7 +726,7 @@
     return [
       '<article class="guide-article">',
       '<div class="guide-article-head">',
-      '<p class="eyebrow">\u653b\u7565 ' + escapeHtml(guide.number) + " / " + escapeHtml(guide.date || "") + "</p>",
+      '<p class="eyebrow">' + escapeHtml(guide.date || "") + "</p>",
       "<h2>" + escapeHtml(guide.title) + "</h2>",
       "<p>" + escapeHtml(guide.summary) + "</p>",
       '<div class="tags">' + renderGuideTags(guide.tags) + "</div>",
@@ -747,6 +747,7 @@
           "</section>",
         ].join("");
       }).join(""),
+      guide.sourceUrl ? '<div class="guide-source"><span>\u4f86\u6e90</span><a href="' + escapeHtml(guide.sourceUrl) + '" target="_blank" rel="noreferrer">' + escapeHtml(guide.sourceUrl) + "</a></div>" : "",
       "</article>",
     ].join("");
   }
@@ -768,7 +769,7 @@
       guides.map(function (guide) {
         return [
           '<button class="bow-guide-card' + (guide === active ? " active" : "") + '" type="button" data-bow-guide="' + escapeHtml(guide.id) + '">',
-          "<small>\u653b\u7565 " + escapeHtml(guide.number) + " / " + escapeHtml(guide.date || "") + "</small>",
+          "<small>" + escapeHtml(guide.date || "") + "</small>",
           "<strong>" + escapeHtml(guide.title) + "</strong>",
           "<span>" + escapeHtml(guide.summary) + "</span>",
           '<span class="tags">' + renderGuideTags((guide.tags || []).slice(0, 3)) + "</span>",

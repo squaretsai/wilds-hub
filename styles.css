@@ -622,6 +622,23 @@ textarea {
   margin-top: 16px;
 }
 
+.guide-source {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  border: 1px solid var(--line);
+  background: #101713;
+  border-radius: 6px;
+  padding: 14px 18px;
+  color: var(--muted);
+}
+
+.guide-source a {
+  color: var(--accent-2);
+  word-break: break-word;
+}
+
 .placeholder-box,
 .info-panel {
   border: 1px solid var(--line);
